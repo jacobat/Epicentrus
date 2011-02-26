@@ -1,7 +1,8 @@
 class TwitterSearch
 
-  def initialize(tag)
+  def initialize(tag, time_interval)
     @tag = tag
+    @time_interval = time_interval
     @search = Twitter::Search.new.containing(@tag).per_page(100)
   end
 
@@ -14,7 +15,7 @@ class TwitterSearch
     if(File.exist?(cache_filename))
       tweets = YAML::load_file(cache_filename)
     end
-    tweets
+    tweets.select{|tweet| @time_interval.include?(Time.parse(tweet['created_at']))}
   end
 
   def latest(count)

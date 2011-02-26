@@ -1,10 +1,7 @@
 class Tweetstat
 
-  def print_result(result)
-    return unless result
-    result.each do |r|
-      puts "#{r.from_user};#{r.created_at}"
-    end
+  def initialize(time_interval)
+    @time_interval = time_interval
   end
 
   def group_by_time(tweets, time_interval)
@@ -27,22 +24,50 @@ class Tweetstat
     end
   end
 
-  def map_tweets(tweets)
-    group_by_time(tweets, 60.minutes).map{|time, tweets|
-      number_of_authors = tweets.group_by{|tweet| tweet.from_user}.length
-      number_of_tweets = tweets.length
+  def group_tweets(tweets)
+    group_by_time(tweets, interval).map{|time, tweets|
       {
         :time   => time,
-        :reach  => number_of_authors,
-        :impact => number_of_tweets
+        :reach  => tweets.group_by{|tweet| tweet.from_user}.length,
+        :impact => tweets.length
       }
-    }.sort_by{|group| group[:time] }
+    }
+  end
+
+  def time_round(time)
+    Time.at((time.to_i / interval) * interval)
+  end
+
+  def pad_tweets(tweets)
+    timestamps = tweets.map{|tweet| tweet[:time]}
+    min_time = time_round(@time_interval.first)
+    max_time = time_round(@time_interval.last)
+    steps = (max_time - min_time) / interval
+    tweets + (0..steps).map{ |step|
+      min_time + step * interval
+    }.reject{|timestamp|
+      timestamps.include?(timestamp)
+    }.map{|timestamp|
+      {
+        :time   => timestamp,
+        :reach  => 0,
+        :impact => 0
+      }
+    }
+  end
+
+  def interval
+    60.minutes
+  end
+
+  def map_tweets(tweets)
+    pad_tweets(group_tweets(tweets)).sort_by{|group| group[:time] }
   end
 
   def run
     output = {}
     hashtags.map do |hashtag|
-      search = TwitterSearch.new(hashtag)
+      search = TwitterSearch.new(hashtag, @time_interval)
       output[hashtag] = map_tweets(search.fetch)
     end
     output
