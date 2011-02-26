@@ -9,6 +9,7 @@ gem 'rails', '3.0.4'
 gem "fastercsv"
 gem "twitter"
 gem "mysql2"
+gem "nokogiri"
 
 # Use unicorn as the web server
 # gem 'unicorn'

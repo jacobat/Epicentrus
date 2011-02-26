@@ -1,6 +1,10 @@
 class Tweet < ActiveRecord::Base
   serialize :data
 
+  scope :with_tag, lambda { |tag| where(:hashtag => tag) }
+
+  after_create :process_image_url
+
   class << self
 
     def latest
@@ -42,5 +46,42 @@ class Tweet < ActiveRecord::Base
         create!(:data => tweet, :twitter_id => tweet.id, :hashtag => tag, :created_at => tweet.created_at)
       end
     end
+  end
+  
+  def url?
+    URI.parse(url)
+    true
+  rescue URI::InvalidURIError
+    false
+  end
+  
+  def url
+      url = data.text.slice(/http:\/\/.*/)
+      if url
+        url = url.slice(URI.regexp)
+      end
+      url
+    rescue URI::InvalidURIError
+  end
+  
+  def image?
+    url && url.match(/(instagr.am|yfrog.com)/)
+  end
+  
+  def image_url
+    return false unless url
+    if(url.match(/yfrog.com/))
+      doc = Nokogiri::HTML(open(url.gsub(/.com/, '.com/f')))
+      doc.css("#main_image").attribute('src').value
+    elsif(url.match(/instagr.am/))
+      doc = Nokogiri::HTML(open(url))
+      doc.css('.photo').first.attribute('src').value
+    else
+      false
+    end
+  end
+  
+  def process_image_url
+    update_attribute(:image, image_url) if(image.nil?)
   end
 end
