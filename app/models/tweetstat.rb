@@ -20,7 +20,7 @@ class Tweetstat
 
   def update_all
     hashtags.each do |tag|
-      TwitterSearch.new(tag).run_update
+      TwitterSearch.new(tag, (2.days.ago.localtime..Time.now.localtime)).run_update
     end
   end
 
