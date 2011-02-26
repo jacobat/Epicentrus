@@ -68,13 +68,6 @@
 	var currentHistoryId;
 	var currentThresholdDivider = 2;
 	
-	function loadHistory() {
-		var url = 'http://93.90.116.253/tweetstats';
-		$.getJSON(url, null, function (data, textStatus) {
-			console.log(data);
-		});
-	}
-	
 	function updateMarkers() {
 		for (var i in epicenters) {
 			var ec = epicenters[i];
