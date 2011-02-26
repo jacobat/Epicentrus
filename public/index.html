@@ -23,7 +23,7 @@
 		bottom: 0;
 		left: 0;
 		width: 100%;
-		height: 125px;
+		height: 30px;
 		
 		background: #626060; /* old browsers */
 		background: -moz-linear-gradient(top, #626060 0%, #484848 50%, #808080 100%); /* firefox */
@@ -217,7 +217,8 @@
 					
 	var epiHistory = {};
 	jQuery.getJSON('tweetstats', function(data) {
-	  epiHistory = data;
+		epiHistory = data;
+		updateMarkers();	
 	});
 </script>
 </head>
