@@ -1,0 +1,282 @@
+/* Layout */
+html { 
+	height: 100%;
+}
+
+body {
+	position: static;
+	text-align: left;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+	background-color: #FFF;
+	color: #FFF;
+	width:100%;
+	height:100%;
+	margin: 0px; 
+	padding: 0px;
+
+}
+
+#sliderContainer {
+	color: #FFFFFF;
+	text-shadow: #000000 1px 1px 1px;
+	font-family: 'Droid Sans', arial, serif;
+	
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 30px;
+	
+	background: #626060; /* old browsers */
+	background: -moz-linear-gradient(top, #626060 0%, #484848 50%, #808080 100%); /* firefox */
+
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#626060), color-stop(50%,#484848), color-stop(100%,#808080)); /* webkit */
+
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#626060', endColorstr='#484848',GradientType=0 ); /* ie */
+	
+	-moz-box-shadow: 0 0 5px 2px #222;
+	-webkit-box-shadow: 0 0 5px 2px #222;
+	box-shadow: 0 0 5px 2px #222;
+}
+#sliderInfoContainer {
+	display: block;
+	width: 940px;
+	margin: 0 auto;
+}
+#displayDate {
+	display: block;
+	float: left;
+	width: 150px;
+	text-align: right;
+	margin-top: 5px;
+}
+#slider {
+	float: left;
+	font-size: 80%;
+	width: 700px;
+	margin: 10px auto;
+}
+
+
+/* Header */
+#top {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 9999999;
+	display: block;
+	width: 100%;
+	background-color:#666;
+	border-bottom:1px solid #333;
+	overflow:hidden;
+	height: 30px;
+}
+#topInner {
+	margin: 5px 10px;
+}
+
+#login {
+	float:right;
+	font-size:0.8em;
+	line-height:1.5em;
+}
+
+#logo{float:left;}
+#search {float:right;margin-right:20px;}
+
+#map {
+	display: block;
+	position: static;
+	top: 30px;
+}
+
+/* Map */
+#overlay {
+	position:absolute;
+	bottom:0;
+	left:0;
+	top:0;
+	height:100%;
+	width:100%;
+	background-color:black;
+	opacity:0;
+	visibility:hidden;
+}
+
+#map {
+	position:absolute;
+	bottom:0;
+	left:0;
+	top:0;
+	height:100%;
+	width:100%;
+}
+
+#panel-trigger {
+	display:block;
+	margin:100px;
+	text-align:center;
+}
+
+
+/* Panel */
+#panel {
+	position:absolute;
+	bottom:0;
+	left:0;
+	width:100%;
+	height:235px;
+	display:none;
+	z-index:1000;
+}
+
+#panel-content {
+	background:#777;
+	height:200px;
+	padding:0.5em 10px 0;
+}
+
+#close-panel {float:right;}
+#data,#media {}
+#media {display:none;}
+.count {font-size:2.5em;line-height:1em;}
+
+/* Modules */
+.modules-4 {
+	width:25%;
+	float:left;
+}
+
+.module-inner {padding:0 20px;}
+
+
+/* Detail panel */
+#detail-panel {
+	display:none;
+	position:absolute;
+	bottom:0;
+	left:0;
+	height:65%;
+	width:80%;
+	margin:50px 10% 205px;
+	z-index:500;
+	background-color:#666;
+	-moz-box-shadow: 0 0 20px #777;
+	-webkit-box-shadow: 0 0 20px #777;
+	box-shadow: 0 0 20px #777;
+}
+
+#detail-panel-inner {padding:10px;}
+#close-detail-panel {float:right;}
+
+
+/* Tabs */                          
+#tabs {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	overflow: hidden;
+	width: 80%;
+	margin-left:10%;
+	height:1.6em;
+	text-align:center;
+}
+
+#tabs li {
+	margin: 0 0 0 4px;
+	font-size: 0.9em;
+	padding:0;
+	display:inline-block;
+	
+}
+
+#tabs li a {
+	padding: 0.4em 0.7em 0.2em 0.7em;
+	background:#999;
+	color:#FFF;
+	display: block;
+	line-height:1.3em;
+	font-weight:normal;
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright: 5px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+#tabs li a:hover {
+	background: #666;
+}
+
+#tabs a.selected {
+	text-decoration: none;
+	background-color: #777;
+}
+
+
+/* Typography */
+h1 {
+	font-family: Helvetica,Arial,sans-serif;
+	font-size: 2.9em;
+	line-height: 1.15em;
+	padding: 0.3em 0;
+	display: block;
+	width: 430px;
+	letter-spacing: 0.01em;
+}
+
+h1 span {
+	color: #FFF;
+}
+
+h2 {
+	font-family: Helvetica,Arial,sans-serif;
+	font-size: 1.4em;
+	line-height: 1.2em;
+	letter-spacing: 0.02em;
+	margin-bottom:0.4em;
+	font-weight:bold;
+}
+
+h3 {
+	font-size: 1.2em;
+	font-weight:bold;
+	margin: 0 0 0.3em 0;
+	line-height: 1.4em;
+}
+
+p {
+	font-size: 0.8em;
+	line-height: 1.5em;
+	margin: 0.1em 0 1.3em 0;
+	letter-spacing: 0.02em;
+}
+
+
+/* Lists */
+ul {
+	list-style-type: circle;
+	margin: 0.2em 0 1.1em 20px;
+}
+
+li {
+	font-size: 1em;
+	line-height: 1.3em;
+	margin: 0 0 0.6em;
+}
+
+
+/* Links */
+a {
+	color: #85cbec;
+	text-decoration: none;
+	padding: 1px;
+	font-weight: bold;
+}
+
+a:hover {
+	color: #555;
+}
+
+
+/* Forms */
+#search-field {}
