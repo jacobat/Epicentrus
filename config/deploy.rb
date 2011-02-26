@@ -23,3 +23,9 @@ namespace :deploy do
     run "#{try_sudo} touch #{File.join(current_path,'tmp','restart.txt')}"
   end
 end
+
+namespace :app do
+  task :update do
+    run "cd #{current_path} && RAILS_ENV=production #{rake} app:update_twitter"
+  end
+end
