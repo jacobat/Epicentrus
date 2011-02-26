@@ -1,0 +1,2682 @@
+--- 
+- !map:Hashie::Mash 
+  from_user_id_str: "20888261"
+  profile_image_url: http://a3.twimg.com/profile_images/793630105/Picture_2_normal.png
+  created_at: Sat, 26 Feb 2011 14:56:01 +0000
+  from_user: DKMayer
+  id_str: "41511810892824576"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @yoavlurie: Let's all retweet http://studiolist.org/ -- they're an awesome resource for finding solid, reviewed mobile app developers. #swBoulder"
+  id: 41511810892824576
+  from_user_id: 20888261
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "158643118"
+  profile_image_url: http://a3.twimg.com/profile_images/1135228884/planetearth1_normal.jpg
+  created_at: Sat, 26 Feb 2011 14:53:31 +0000
+  from_user: tintegrity
+  id_str: "41511181709619200"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @ericfickes: Team joined, preparing to change the world now #swBoulder"
+  id: 41511181709619200
+  from_user_id: 158643118
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "166352782"
+  profile_image_url: http://a0.twimg.com/profile_images/1089192989/41425_1485135270_9220_q_normal.jpg
+  created_at: Sat, 26 Feb 2011 14:26:55 +0000
+  from_user: MidoxTheGeek
+  id_str: "41504488468516864"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @clemcaza: This weekend is awesome :-) #swaustin #swboulder #swdub #swCPH #HoustonSW #SWTunis #SWDSM #startupweekend"
+  id: 41504488468516864
+  from_user_id: 166352782
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "97947579"
+  profile_image_url: http://a3.twimg.com/profile_images/1188109536/dd7457df-98bc-4280-8aa1-4c4c9a810a81_normal.png
+  created_at: Sat, 26 Feb 2011 14:18:00 +0000
+  from_user: clemcaza
+  id_str: "41502242133516288"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "This weekend is awesome :-) #swaustin #swboulder #swdub #swCPH #HoustonSW #SWTunis #SWDSM #startupweekend"
+  id: 41502242133516288
+  from_user_id: 97947579
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "4231132"
+  profile_image_url: http://a3.twimg.com/profile_images/74848522/snow__normal.jpg
+  created_at: Sat, 26 Feb 2011 10:03:21 +0000
+  from_user: nomial
+  id_str: "41438157308309504"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 10789
+  text: "@Scobleizer 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis, #swCPH"
+  id: 41438157308309504
+  from_user_id: 4231132
+  to_user: Scobleizer
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "10789"
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "95725831"
+  profile_image_url: http://a2.twimg.com/profile_images/875846983/Twitter_normal.JPG
+  created_at: Sat, 26 Feb 2011 09:20:01 +0000
+  from_user: RiskContainment
+  id_str: "41427254995206144"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Hey #swaustin #swboulder #swcph #swdub #HoustonSW #swsd2 #SWTunis #SWDSM - Check out Copenhagen SW @ http://gignal.com/events/view/18 #swCPH"
+  id: 41427254995206144
+  from_user_id: 95725831
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "811511"
+  profile_image_url: http://a1.twimg.com/profile_images/278877961/squarehead_normal.jpg
+  created_at: Sat, 26 Feb 2011 07:22:27 +0000
+  from_user: yoavlurie
+  id_str: "41397665258418177"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 292093
+  text: "@ericfickes you need to crash with team #GamePress -- we're having our own #swBoulder lockin!"
+  id: 41397665258418177
+  from_user_id: 811511
+  to_user: ericfickes
+  geo: !map:Hashie::Mash 
+    coordinates: 
+    - 40.0174
+    - -105.2774
+    type: Point
+  iso_language_code: en
+  place: !map:Hashie::Mash 
+    id: 9be2ad0f7f091494
+    type: neighborhood
+    full_name: Downtown, Boulder
+  to_user_id_str: "292093"
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "292093"
+  profile_image_url: http://a0.twimg.com/profile_images/1181849507/portrait-12.3.10_normal.jpg
+  created_at: Sat, 26 Feb 2011 06:59:49 +0000
+  from_user: ericfickes
+  id_str: "41391972665004032"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Turns out startup weekend is not a lockin. I'm an idiot #swBoulder"
+  id: 41391972665004032
+  from_user_id: 292093
+  geo: !map:Hashie::Mash 
+    coordinates: 
+    - 40.0174
+    - -105.2776
+    type: Point
+  iso_language_code: en
+  place: !map:Hashie::Mash 
+    id: 9be2ad0f7f091494
+    type: neighborhood
+    full_name: Downtown, Boulder
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "292093"
+  profile_image_url: http://a0.twimg.com/profile_images/1181849507/portrait-12.3.10_normal.jpg
+  created_at: Sat, 26 Feb 2011 06:04:59 +0000
+  from_user: ericfickes
+  id_str: "41378172700332032"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "we're taking it to the cloud #swBoulder"
+  id: 41378172700332032
+  from_user_id: 292093
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "292093"
+  profile_image_url: http://a0.twimg.com/profile_images/1181849507/portrait-12.3.10_normal.jpg
+  created_at: Sat, 26 Feb 2011 05:47:58 +0000
+  from_user: ericfickes
+  id_str: "41373887564484609"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Team joined, preparing to change the world now #swBoulder"
+  id: 41373887564484609
+  from_user_id: 292093
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "97533769"
+  profile_image_url: http://a0.twimg.com/profile_images/729177945/i_normal.jpg
+  created_at: Sat, 26 Feb 2011 05:21:10 +0000
+  from_user: Incipi
+  id_str: "41367145321336832"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Prototype quickly with WorkXpress http://wxp.incipi.net #swaustin #swboulder #swcph #swdub #HoustonSW #swsd2 #SWTunis #SWDSM #startupweekend"
+  id: 41367145321336832
+  from_user_id: 97533769
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "20945789"
+  profile_image_url: http://a1.twimg.com/profile_images/421163789/91713422_normal.jpg
+  created_at: Sat, 26 Feb 2011 05:09:33 +0000
+  from_user: yessmiss
+  id_str: "41364223015661568"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "to attendees of #swBoulder, what do you think of #bitcoin pitch!"
+  id: 41364223015661568
+  from_user_id: 20945789
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "222716754"
+  profile_image_url: http://a1.twimg.com/profile_images/1246450664/MW_normal.png
+  created_at: Sat, 26 Feb 2011 05:00:35 +0000
+  from_user: mindwallet
+  id_str: "41361964777086976"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Here is what happened at #HoustonSW http://bit.ly/fLdq0g #swCPH #swBoulder #swAustin #swDub #swsd2 #swTunis At Yours? http://bit.ly/gVmb2h"
+  id: 41361964777086976
+  from_user_id: 222716754
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "9786654"
+  profile_image_url: http://a1.twimg.com/profile_images/1136735141/me_normal.jpg
+  created_at: Sat, 26 Feb 2011 05:00:05 +0000
+  from_user: jamieontiveros
+  id_str: "41361837081628672"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Good luck to all of the teams at Startup Weekend Boulder. #swboulder"
+  id: 41361837081628672
+  from_user_id: 9786654
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/app/twitter/id333903271?mt=8&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPad&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "182751224"
+  profile_image_url: http://a0.twimg.com/profile_images/1189118255/pitch140x_logo_normal.png
+  created_at: Sat, 26 Feb 2011 04:50:12 +0000
+  from_user: Pitch140x
+  id_str: "41359352086532096"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @GeoSkipper: @klangston make sure to pitch your idea at #swboulder ! Great group of folks there to learn and collaborate with."
+  id: 41359352086532096
+  from_user_id: 182751224
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "729517"
+  profile_image_url: http://a2.twimg.com/profile_images/1237482094/matt-dressy_normal.jpg
+  created_at: Sat, 26 Feb 2011 04:42:49 +0000
+  from_user: mbernier
+  id_str: "41357492961284096"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Lots of AWESOME pitches at #swboulder for new startup ideas!"
+  id: 41357492961284096
+  from_user_id: 729517
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "3355460"
+  profile_image_url: http://a3.twimg.com/profile_images/69597034/James_barry_2006-1_normal.jpg
+  created_at: Sat, 26 Feb 2011 04:41:36 +0000
+  from_user: jmbarry
+  id_str: "41357185321541632"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "At startup weekend a great sense of humor created a cooking site: http://gottarubit.com #swboulder"
+  id: 41357185321541632
+  from_user_id: 3355460
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "811511"
+  profile_image_url: http://a1.twimg.com/profile_images/278877961/squarehead_normal.jpg
+  created_at: Sat, 26 Feb 2011 04:41:31 +0000
+  from_user: yoavlurie
+  id_str: "41357166866726912"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "I wish GottaRubIt.com had sponsored #swBoulder , so we could have had laser-toasted steak, and rubbed meats, and whatever he distributes!"
+  id: 41357166866726912
+  from_user_id: 811511
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1035226"
+  profile_image_url: http://a1.twimg.com/profile_images/347782919/5014_543829205199_44801468_32378479_112639_n_normal.jpg
+  created_at: Sat, 26 Feb 2011 04:41:05 +0000
+  from_user: ldm5180
+  id_str: "41357055948230656"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @yoavlurie: The drugdealling steak-toaster just announced that he also has GottaRubIt.com for meat spice rubs! Amazing! #ToastedSteak #swBoulder #BOOM"
+  id: 41357055948230656
+  from_user_id: 1035226
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "49916565"
+  profile_image_url: http://a0.twimg.com/profile_images/1234116241/E3_normal.jpg
+  created_at: Sat, 26 Feb 2011 04:40:33 +0000
+  from_user: chrisennis
+  id_str: "41356921659330560"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "GottaRubIt.com,  from the guy behind steak toaster  #swboulder"
+  id: 41356921659330560
+  from_user_id: 49916565
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "811511"
+  profile_image_url: http://a1.twimg.com/profile_images/278877961/squarehead_normal.jpg
+  created_at: Sat, 26 Feb 2011 04:40:14 +0000
+  from_user: yoavlurie
+  id_str: "41356844827938816"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "The drugdealling steak-toaster just announced that he also has GottaRubIt.com for meat spice rubs! Amazing! #ToastedSteak #swBoulder #BOOM"
+  id: 41356844827938816
+  from_user_id: 811511
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1035226"
+  profile_image_url: http://a1.twimg.com/profile_images/347782919/5014_543829205199_44801468_32378479_112639_n_normal.jpg
+  created_at: Sat, 26 Feb 2011 04:40:03 +0000
+  from_user: ldm5180
+  id_str: "41356799147769856"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "The #toastedsteak and &quot;distributor&quot; guy just pitched http://www.gottarubit.com #swboulder"
+  id: 41356799147769856
+  from_user_id: 1035226
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "17767546"
+  profile_image_url: http://a2.twimg.com/sticky/default_profile_images/default_profile_1_normal.png
+  created_at: Sat, 26 Feb 2011 04:40:02 +0000
+  from_user: lklangston
+  id_str: "41356792839667712"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "WOW #gottarubit.com this guys a great break from tech ideas. Who doesn't love the slogan 'rub your meat' #swboulder"
+  id: 41356792839667712
+  from_user_id: 17767546
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\xC2\xAE&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "17767546"
+  profile_image_url: http://a2.twimg.com/sticky/default_profile_images/default_profile_1_normal.png
+  created_at: Sat, 26 Feb 2011 04:38:29 +0000
+  from_user: lklangston
+  id_str: "41356401829871616"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Love to hear more ideas/questions on #hirewage #higherwage always fun to improv live #swboulder"
+  id: 41356401829871616
+  from_user_id: 17767546
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\xC2\xAE&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "49916565"
+  profile_image_url: http://a0.twimg.com/profile_images/1234116241/E3_normal.jpg
+  created_at: Sat, 26 Feb 2011 04:36:54 +0000
+  from_user: chrisennis
+  id_str: "41356002972536832"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @yoavlurie: Let's all retweet http://studiolist.org/ -- they're an awesome resource for finding solid, reviewed mobile app developers. #swBoulder"
+  id: 41356002972536832
+  from_user_id: 49916565
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1035226"
+  profile_image_url: http://a1.twimg.com/profile_images/347782919/5014_543829205199_44801468_32378479_112639_n_normal.jpg
+  created_at: Sat, 26 Feb 2011 04:36:53 +0000
+  from_user: ldm5180
+  id_str: "41355998853734401"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @yoavlurie: Turns out the #ToastedSteak guy used to be a &quot;distributor&quot; -- #swBoulder ... &quot;Dude, somebody go toast me a steak... but, let's use LASERS!&quot;"
+  id: 41355998853734401
+  from_user_id: 1035226
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1035226"
+  profile_image_url: http://a1.twimg.com/profile_images/347782919/5014_543829205199_44801468_32378479_112639_n_normal.jpg
+  created_at: Sat, 26 Feb 2011 04:36:27 +0000
+  from_user: ldm5180
+  id_str: "41355891160784897"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @jmbarry: At startup weekend and http://studiolist.org sounds like a great place to find a mobile developer #swboulder"
+  id: 41355891160784897
+  from_user_id: 1035226
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "3355460"
+  profile_image_url: http://a3.twimg.com/profile_images/69597034/James_barry_2006-1_normal.jpg
+  created_at: Sat, 26 Feb 2011 04:36:13 +0000
+  from_user: jmbarry
+  id_str: "41355832339734528"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "At startup weekend and http://studiolist.org sounds like a great place to find a mobile developer #swboulder"
+  id: 41355832339734528
+  from_user_id: 3355460
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "164101695"
+  profile_image_url: http://a3.twimg.com/profile_images/1160428143/41771_1304841_4878746_n_normal.jpg
+  created_at: Sat, 26 Feb 2011 04:35:58 +0000
+  from_user: JustSegall
+  id_str: "41355767797907456"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @yoavlurie: Let's all retweet http://studiolist.org/ -- they're an awesome resource for finding solid, reviewed mobile app developers. #swBoulder"
+  id: 41355767797907456
+  from_user_id: 164101695
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "17767546"
+  profile_image_url: http://a2.twimg.com/sticky/default_profile_images/default_profile_1_normal.png
+  created_at: Sat, 26 Feb 2011 04:35:54 +0000
+  from_user: lklangston
+  id_str: "41355753319178240"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @yoavlurie: Let's all retweet http://studiolist.org/ -- they're an awesome resource for finding solid, reviewed mobile app developers. #swBoulder"
+  id: 41355753319178240
+  from_user_id: 17767546
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "49916565"
+  profile_image_url: http://a0.twimg.com/profile_images/1234116241/E3_normal.jpg
+  created_at: Sat, 26 Feb 2011 04:35:22 +0000
+  from_user: chrisennis
+  id_str: "41355620342972416"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "ok, second pitch, continuation of first pitch is lame....    #swboulder"
+  id: 41355620342972416
+  from_user_id: 49916565
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "811511"
+  profile_image_url: http://a1.twimg.com/profile_images/278877961/squarehead_normal.jpg
+  created_at: Sat, 26 Feb 2011 04:34:30 +0000
+  from_user: yoavlurie
+  id_str: "41355402012524544"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Let's all retweet http://studiolist.org/ -- they're an awesome resource for finding solid, reviewed mobile app developers. #swBoulder"
+  id: 41355402012524544
+  from_user_id: 811511
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "9858683"
+  profile_image_url: http://a0.twimg.com/profile_images/341348817/ning_pic_normal.JPG
+  created_at: Sat, 26 Feb 2011 04:25:37 +0000
+  from_user: franklangston
+  id_str: "41353166515609600"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "+1(remote) RT @yoavlurie: Higher wage! Great pitch from @lklangston on a marketplace for minimum wage gigs. Better than roundpeg! #swBoulder"
+  id: 41353166515609600
+  from_user_id: 9858683
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://seesmic.com/seesmic_mobile/blackberry/&quot; rel=&quot;nofollow&quot;&gt;Seesmic for BlackBerry&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "811511"
+  profile_image_url: http://a1.twimg.com/profile_images/278877961/squarehead_normal.jpg
+  created_at: Sat, 26 Feb 2011 04:19:12 +0000
+  from_user: yoavlurie
+  id_str: "41351549334732800"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Higher wage! Great pitch from @klangston on a marketplace for minimum wage gigs. Awesome! Better than roundpeg! #swBoulder"
+  id: 41351549334732800
+  from_user_id: 811511
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "5053412"
+  profile_image_url: http://a3.twimg.com/profile_images/799902089/IMG_3496_normal.JPG
+  created_at: Sat, 26 Feb 2011 04:14:34 +0000
+  from_user: suzanbond
+  id_str: "41350385927077888"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Pitch #25 up next. Some good ideas so far. #swboulder"
+  id: 41350385927077888
+  from_user_id: 5053412
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter for Android&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "455280"
+  profile_image_url: http://a3.twimg.com/profile_images/547108993/New_Pictures_400_normal.jpg
+  created_at: Sat, 26 Feb 2011 04:07:00 +0000
+  from_user: therebull
+  id_str: "41348478072258560"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 36417363
+  text: "@klangston make sure to pitch your idea at #swboulder ! Great group of folks there to learn and collaborate with."
+  id: 41348478072258560
+  from_user_id: 455280
+  to_user: klangston
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "36417363"
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "216164588"
+  profile_image_url: http://a1.twimg.com/profile_images/1237622186/GeoSkipper_Twitter_Logo_normal.png
+  created_at: Sat, 26 Feb 2011 04:06:59 +0000
+  from_user: GeoSkipper
+  id_str: "41348475694227456"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 36417363
+  text: "@klangston make sure to pitch your idea at #swboulder ! Great group of folks there to learn and collaborate with."
+  id: 41348475694227456
+  from_user_id: 216164588
+  to_user: klangston
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "36417363"
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "811511"
+  profile_image_url: http://a1.twimg.com/profile_images/278877961/squarehead_normal.jpg
+  created_at: Sat, 26 Feb 2011 04:05:38 +0000
+  from_user: yoavlurie
+  id_str: "41348136043683840"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Turns out the #ToastedSteak guy used to be a &quot;distributor&quot; -- #swBoulder ... &quot;Dude, somebody go toast me a steak... but, let's use LASERS!&quot;"
+  id: 41348136043683840
+  from_user_id: 811511
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "165931141"
+  profile_image_url: http://a0.twimg.com/profile_images/1202798663/tumblr_le9gw8DCTI1qewcqqo1_500_normal.jpg
+  created_at: Sat, 26 Feb 2011 04:00:44 +0000
+  from_user: RuckusAlert
+  id_str: "41346903383744512"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @yoavlurie  RT @Ruckus: Steak toaster just pitched at #swboulder frickin awesome."
+  id: 41346903383744512
+  from_user_id: 165931141
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "164101695"
+  profile_image_url: http://a3.twimg.com/profile_images/1160428143/41771_1304841_4878746_n_normal.jpg
+  created_at: Sat, 26 Feb 2011 03:57:23 +0000
+  from_user: JustSegall
+  id_str: "41346060441878528"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "His mom gets paid $100+ an hour to do personal coaching and he wants to create a crowdsourced sway to put his mom out of business #swboulder"
+  id: 41346060441878528
+  from_user_id: 164101695
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "9858683"
+  profile_image_url: http://a0.twimg.com/profile_images/341348817/ning_pic_normal.JPG
+  created_at: Sat, 26 Feb 2011 03:57:10 +0000
+  from_user: franklangston
+  id_str: "41346003470782464"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 811511
+  text: "@yoavlurie Good luck at #swBoulder. Wish I were there. I'm talking w/ @lklangston about your pitch. You gonna be in Boulder next Fri/Sat?"
+  id: 41346003470782464
+  from_user_id: 9858683
+  to_user: yoavlurie
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "811511"
+  source: "&lt;a href=&quot;http://seesmic.com/seesmic_mobile/blackberry/&quot; rel=&quot;nofollow&quot;&gt;Seesmic for BlackBerry&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "811511"
+  profile_image_url: http://a1.twimg.com/profile_images/278877961/squarehead_normal.jpg
+  created_at: Sat, 26 Feb 2011 03:54:02 +0000
+  from_user: yoavlurie
+  id_str: "41345217684574208"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "And a power plug! Damnit! RT @chrisennis: i got the best seat in the house at @techstars...  a leather chair with ottoman...  #swboulder"
+  id: 41345217684574208
+  from_user_id: 811511
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "49916565"
+  profile_image_url: http://a0.twimg.com/profile_images/1234116241/E3_normal.jpg
+  created_at: Sat, 26 Feb 2011 03:52:54 +0000
+  from_user: chrisennis
+  id_str: "41344929548615680"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "i got the best seat in the house at @techstars...  a leather chair with ottoman...  #swboulder"
+  id: 41344929548615680
+  from_user_id: 49916565
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "811511"
+  profile_image_url: http://a1.twimg.com/profile_images/278877961/squarehead_normal.jpg
+  created_at: Sat, 26 Feb 2011 03:43:59 +0000
+  from_user: yoavlurie
+  id_str: "41342685801480192"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "If it was on @Kickstarter, I'd pay $100 right now. (how much?) RT @Ruckus: Steak toaster just pitched at #swboulder frickin awesome."
+  id: 41342685801480192
+  from_user_id: 811511
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "182751224"
+  profile_image_url: http://a0.twimg.com/profile_images/1189118255/pitch140x_logo_normal.png
+  created_at: Sat, 26 Feb 2011 03:40:07 +0000
+  from_user: Pitch140x
+  id_str: "41341716510285824"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @chrisennis: i feel like @yoavlurie and I just ambushed @ruckus with our #swboulder pitch idea..."
+  id: 41341716510285824
+  from_user_id: 182751224
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "164101695"
+  profile_image_url: http://a3.twimg.com/profile_images/1160428143/41771_1304841_4878746_n_normal.jpg
+  created_at: Sat, 26 Feb 2011 03:39:01 +0000
+  from_user: JustSegall
+  id_str: "41341438985912320"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "gaming is the present (and future)... make it easy for everyone to do.  RT @Ruckus: Gamepress, I'd pitch that #swboulder"
+  id: 41341438985912320
+  from_user_id: 164101695
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1661981"
+  profile_image_url: http://a0.twimg.com/profile_images/1115306313/Chris_Ignite_FC4_E_normal.jpg
+  created_at: Sat, 26 Feb 2011 03:38:10 +0000
+  from_user: Ruckus
+  id_str: "41341225734774784"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Gamepress, I'd pitch that #swboulder"
+  id: 41341225734774784
+  from_user_id: 1661981
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1661981"
+  profile_image_url: http://a0.twimg.com/profile_images/1115306313/Chris_Ignite_FC4_E_normal.jpg
+  created_at: Sat, 26 Feb 2011 03:36:29 +0000
+  from_user: Ruckus
+  id_str: "41340798775726080"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Steak toaster just pitched at #swboulder frickin awesome."
+  id: 41340798775726080
+  from_user_id: 1661981
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "49916565"
+  profile_image_url: http://a0.twimg.com/profile_images/1234116241/E3_normal.jpg
+  created_at: Sat, 26 Feb 2011 03:35:13 +0000
+  from_user: chrisennis
+  id_str: "41340480587309058"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#swboulder idea:  steak toaster!!!!"
+  id: 41340480587309058
+  from_user_id: 49916565
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "164101695"
+  profile_image_url: http://a3.twimg.com/profile_images/1160428143/41771_1304841_4878746_n_normal.jpg
+  created_at: Sat, 26 Feb 2011 03:33:52 +0000
+  from_user: JustSegall
+  id_str: "41340142211960832"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Perfect Steak Grill -  a break from tech startups to talk about grilling meat here at #swboulder.  Kick George Forman's butt"
+  id: 41340142211960832
+  from_user_id: 164101695
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "262438"
+  profile_image_url: http://a1.twimg.com/profile_images/66578757/self_logo_normal.png
+  created_at: Sat, 26 Feb 2011 03:30:25 +0000
+  from_user: dthompson
+  id_str: "41339272556593152"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Listening to pitches at #swboulder"
+  id: 41339272556593152
+  from_user_id: 262438
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "11890990"
+  profile_image_url: http://a3.twimg.com/profile_images/1201743971/aaronkwhite-icon_normal.png
+  created_at: Sat, 26 Feb 2011 03:26:45 +0000
+  from_user: aaronkwhite
+  id_str: "41338351030243328"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @ericreid: There are way more people pitching ideas than not. Here's part of the line. #swBoulder http://yfrog.com/h5eabwj"
+  id: 41338351030243328
+  from_user_id: 11890990
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "70344"
+  profile_image_url: http://a0.twimg.com/profile_images/1120568675/Irish_Thug_normal.jpg
+  created_at: Sat, 26 Feb 2011 03:24:18 +0000
+  from_user: heizusan
+  id_str: "41337735830716416"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Much as I'd have loved to participate in #swboulder this time around, I have enough on my plate right now that I can spend that time on."
+  id: 41337735830716416
+  from_user_id: 70344
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "540238"
+  profile_image_url: http://a2.twimg.com/profile_images/646786479/me_normal.png
+  created_at: Sat, 26 Feb 2011 03:22:13 +0000
+  from_user: ericreid
+  id_str: "41337211374796800"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "There are way more people pitching ideas than not. Here's part of the line. #swBoulder http://yfrog.com/h5eabwj"
+  id: 41337211374796800
+  from_user_id: 540238
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "128041580"
+  profile_image_url: http://a3.twimg.com/profile_images/1013503859/photo1_normal.jpg
+  created_at: Sat, 26 Feb 2011 03:21:15 +0000
+  from_user: TonyValkov
+  id_str: "41336967996121088"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "http://dld.bz/i RT @ldm5180 Pitches starting at Startup Weekend! #swboulder http://twitpic.com/43sw6z http://bit.ly/f0aJej"
+  id: 41336967996121088
+  from_user_id: 128041580
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "49916565"
+  profile_image_url: http://a0.twimg.com/profile_images/1234116241/E3_normal.jpg
+  created_at: Sat, 26 Feb 2011 03:21:06 +0000
+  from_user: chrisennis
+  id_str: "41336927823216640"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#swboulder pitch time!  let the heckling commence..."
+  id: 41336927823216640
+  from_user_id: 49916565
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1035226"
+  profile_image_url: http://a1.twimg.com/profile_images/347782919/5014_543829205199_44801468_32378479_112639_n_normal.jpg
+  created_at: Sat, 26 Feb 2011 03:19:59 +0000
+  from_user: ldm5180
+  id_str: "41336649870884864"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Pitches starting at Startup Weekend! #swboulder http://twitpic.com/43sw6z"
+  id: 41336649870884864
+  from_user_id: 1035226
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "49916565"
+  profile_image_url: http://a0.twimg.com/profile_images/1234116241/E3_normal.jpg
+  created_at: Sat, 26 Feb 2011 03:14:56 +0000
+  from_user: chrisennis
+  id_str: "41335375381282816"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "i feel like @yoavlurie and I just ambushed @ruckus with our #swboulder pitch idea..."
+  id: 41335375381282816
+  from_user_id: 49916565
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "107189068"
+  profile_image_url: http://a0.twimg.com/profile_images/1166430377/atkharris_normal.jpg
+  created_at: Sat, 26 Feb 2011 03:05:09 +0000
+  from_user: atkharris
+  id_str: "41332916076294144"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#swBoulder - nrevous, excited and a bit overwhelmed.  Can only pitch 2 ideas.  Fingers crossed."
+  id: 41332916076294144
+  from_user_id: 107189068
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.htc.com&quot; rel=&quot;nofollow&quot;&gt;HTC Peep&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "811511"
+  profile_image_url: http://a1.twimg.com/profile_images/278877961/squarehead_normal.jpg
+  created_at: Sat, 26 Feb 2011 02:50:25 +0000
+  from_user: yoavlurie
+  id_str: "41329205555900417"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "About to start rocking out with #swBoulder Let's go! (@ Techstars Bunker w/ @justsegall) http://4sq.com/iiANMz"
+  id: 41329205555900417
+  from_user_id: 811511
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://foursquare.com&quot; rel=&quot;nofollow&quot;&gt;foursquare&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "3355460"
+  profile_image_url: http://a3.twimg.com/profile_images/69597034/James_barry_2006-1_normal.jpg
+  created_at: Sat, 26 Feb 2011 02:48:38 +0000
+  from_user: jmbarry
+  id_str: "41328759676207104"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "At startupweekend boulder.  Looks like another productive weekend #swboulder"
+  id: 41328759676207104
+  from_user_id: 3355460
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "5053412"
+  profile_image_url: http://a3.twimg.com/profile_images/799902089/IMG_3496_normal.JPG
+  created_at: Sat, 26 Feb 2011 02:45:19 +0000
+  from_user: suzanbond
+  id_str: "41327922174238720"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Lots of great advice from mentors  @Nielr1 @micah @ruckus and more at #swboulder"
+  id: 41327922174238720
+  from_user_id: 5053412
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter for Android&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "645139"
+  profile_image_url: http://a3.twimg.com/profile_images/1215684763/New_Avatar_normal.jpg
+  created_at: Sat, 26 Feb 2011 02:24:59 +0000
+  from_user: pedrosorren
+  id_str: "41322808311029760"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swboulder: Thanks to @sendgrid for being the sponsors for Pizza #swBoulder"
+  id: 41322808311029760
+  from_user_id: 645139
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "172720945"
+  profile_image_url: http://a2.twimg.com/profile_images/1185139990/swboulder_normal.jpg
+  created_at: Sat, 26 Feb 2011 02:24:06 +0000
+  from_user: swboulder
+  id_str: "41322585992073217"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Thanks to Technical Integrity @dkmayer for sponsoring the beer and drinks #swBoulder"
+  id: 41322585992073217
+  from_user_id: 172720945
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "144072701"
+  profile_image_url: http://a1.twimg.com/profile_images/1116764638/DenverStartup_normal.jpg
+  created_at: Sat, 26 Feb 2011 02:24:06 +0000
+  from_user: StartupDenver
+  id_str: "41322584414879744"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Thanks to Technical Integrity @dkmayer for sponsoring the beer and drinks #swBoulder"
+  id: 41322584414879744
+  from_user_id: 144072701
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "645139"
+  profile_image_url: http://a3.twimg.com/profile_images/1215684763/New_Avatar_normal.jpg
+  created_at: Sat, 26 Feb 2011 02:24:05 +0000
+  from_user: pedrosorren
+  id_str: "41322578731728896"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Todo mundo falando de lean startup method. Data driven learning process to your start-up. ALWAYS. #leanstartupweek #swboulder"
+  id: 41322578731728896
+  from_user_id: 645139
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "778729"
+  profile_image_url: http://a1.twimg.com/profile_images/828260878/Capture1_normal.JPG
+  created_at: Sat, 26 Feb 2011 02:24:05 +0000
+  from_user: jonrrossi
+  id_str: "41322578442321921"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Thanks to Technical Integrity @dkmayer for sponsoring the beer and drinks #swBoulder"
+  id: 41322578442321921
+  from_user_id: 778729
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "172720945"
+  profile_image_url: http://a2.twimg.com/profile_images/1185139990/swboulder_normal.jpg
+  created_at: Sat, 26 Feb 2011 02:23:11 +0000
+  from_user: swboulder
+  id_str: "41322353359069184"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Thanks @ruckus for coming into to talk about gaming #swBoulder"
+  id: 41322353359069184
+  from_user_id: 172720945
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "144072701"
+  profile_image_url: http://a1.twimg.com/profile_images/1116764638/DenverStartup_normal.jpg
+  created_at: Sat, 26 Feb 2011 02:23:11 +0000
+  from_user: StartupDenver
+  id_str: "41322352306290688"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Thanks @ruckus for coming into to talk about gaming #swBoulder"
+  id: 41322352306290688
+  from_user_id: 144072701
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "778729"
+  profile_image_url: http://a1.twimg.com/profile_images/828260878/Capture1_normal.JPG
+  created_at: Sat, 26 Feb 2011 02:23:10 +0000
+  from_user: jonrrossi
+  id_str: "41322351157051392"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Thanks @ruckus for coming into to talk about gaming #swBoulder"
+  id: 41322351157051392
+  from_user_id: 778729
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "172720945"
+  profile_image_url: http://a2.twimg.com/profile_images/1185139990/swboulder_normal.jpg
+  created_at: Sat, 26 Feb 2011 02:22:39 +0000
+  from_user: swboulder
+  id_str: "41322217396506624"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Thanks to @sendgrid for being the sponsors for Pizza #swBoulder"
+  id: 41322217396506624
+  from_user_id: 172720945
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "144072701"
+  profile_image_url: http://a1.twimg.com/profile_images/1116764638/DenverStartup_normal.jpg
+  created_at: Sat, 26 Feb 2011 02:22:38 +0000
+  from_user: StartupDenver
+  id_str: "41322216129966080"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Thanks to @sendgrid for being the sponsors for Pizza #swBoulder"
+  id: 41322216129966080
+  from_user_id: 144072701
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "778729"
+  profile_image_url: http://a1.twimg.com/profile_images/828260878/Capture1_normal.JPG
+  created_at: Sat, 26 Feb 2011 02:22:38 +0000
+  from_user: jonrrossi
+  id_str: "41322214871662592"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Thanks to @sendgrid for being the sponsors for Pizza #swBoulder"
+  id: 41322214871662592
+  from_user_id: 778729
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "172720945"
+  profile_image_url: http://a2.twimg.com/profile_images/1185139990/swboulder_normal.jpg
+  created_at: Sat, 26 Feb 2011 02:21:33 +0000
+  from_user: swboulder
+  id_str: "41321942506147840"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Huge thanks to Pivotal Labs for being a sponsor and for the Agile startup info. #swBoulder"
+  id: 41321942506147840
+  from_user_id: 172720945
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "144072701"
+  profile_image_url: http://a1.twimg.com/profile_images/1116764638/DenverStartup_normal.jpg
+  created_at: Sat, 26 Feb 2011 02:21:31 +0000
+  from_user: StartupDenver
+  id_str: "41321935744937984"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Huge thanks to Pivotal Labs for being a sponsor and for the Agile startup info. #swBoulder"
+  id: 41321935744937984
+  from_user_id: 144072701
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "778729"
+  profile_image_url: http://a1.twimg.com/profile_images/828260878/Capture1_normal.JPG
+  created_at: Sat, 26 Feb 2011 02:21:31 +0000
+  from_user: jonrrossi
+  id_str: "41321932930564096"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Huge thanks to Pivotal Labs for being a sponsor and for the Agile startup info. #swBoulder"
+  id: 41321932930564096
+  from_user_id: 778729
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "172720945"
+  profile_image_url: http://a2.twimg.com/profile_images/1185139990/swboulder_normal.jpg
+  created_at: Sat, 26 Feb 2011 02:20:44 +0000
+  from_user: swboulder
+  id_str: "41321735584366592"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Eric  from OneTrueFan had an amazing presentation #swBoulder"
+  id: 41321735584366592
+  from_user_id: 172720945
+  geo: 
+  iso_language_code: nl
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "144072701"
+  profile_image_url: http://a1.twimg.com/profile_images/1116764638/DenverStartup_normal.jpg
+  created_at: Sat, 26 Feb 2011 02:20:43 +0000
+  from_user: StartupDenver
+  id_str: "41321734510481408"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Eric  from OneTrueFan had an amazing presentation #swBoulder"
+  id: 41321734510481408
+  from_user_id: 144072701
+  geo: 
+  iso_language_code: nl
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "778729"
+  profile_image_url: http://a1.twimg.com/profile_images/828260878/Capture1_normal.JPG
+  created_at: Sat, 26 Feb 2011 02:20:43 +0000
+  from_user: jonrrossi
+  id_str: "41321733352853504"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Eric  from OneTrueFan had an amazing presentation #swBoulder"
+  id: 41321733352853504
+  from_user_id: 778729
+  geo: 
+  iso_language_code: nl
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "172720945"
+  profile_image_url: http://a2.twimg.com/profile_images/1185139990/swboulder_normal.jpg
+  created_at: Sat, 26 Feb 2011 02:19:29 +0000
+  from_user: swboulder
+  id_str: "41321421044973568"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Listening to @micah and @nielr1  talk about Startup at #swBoulder"
+  id: 41321421044973568
+  from_user_id: 172720945
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "144072701"
+  profile_image_url: http://a1.twimg.com/profile_images/1116764638/DenverStartup_normal.jpg
+  created_at: Sat, 26 Feb 2011 02:19:28 +0000
+  from_user: StartupDenver
+  id_str: "41321419732299776"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Listening to @micah and @nielr1  talk about Startup at #swBoulder"
+  id: 41321419732299776
+  from_user_id: 144072701
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "778729"
+  profile_image_url: http://a1.twimg.com/profile_images/828260878/Capture1_normal.JPG
+  created_at: Sat, 26 Feb 2011 02:19:28 +0000
+  from_user: jonrrossi
+  id_str: "41321418243182592"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Listening to @micah and @nielr1  talk about Startup at #swBoulder"
+  id: 41321418243182592
+  from_user_id: 778729
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "645139"
+  profile_image_url: http://a3.twimg.com/profile_images/1215684763/New_Avatar_normal.jpg
+  created_at: Sat, 26 Feb 2011 02:14:03 +0000
+  from_user: pedrosorren
+  id_str: "41320056637886464"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 9565
+  text: "@bpm140 awesome presentation tonight at #swboulder really inspiring. Thanks man."
+  id: 41320056637886464
+  from_user_id: 645139
+  to_user: bpm140
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "9565"
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6903556"
+  profile_image_url: http://a1.twimg.com/profile_images/1247649369/giveo_icon_normal.jpg
+  created_at: Sat, 26 Feb 2011 02:02:32 +0000
+  from_user: caseyhopkins
+  id_str: "41317157132439552"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Omg its #SWBoulder?! How the hell did I not realize this sooner?! #sadpanda"
+  id: 41317157132439552
+  from_user_id: 6903556
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter for Android&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "164101695"
+  profile_image_url: http://a3.twimg.com/profile_images/1160428143/41771_1304841_4878746_n_normal.jpg
+  created_at: Sat, 26 Feb 2011 02:00:10 +0000
+  from_user: JustSegall
+  id_str: "41316561356722176"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Time to start #swboulder. Rock n roll! (@ Techstars Bunker w/ 8 others) http://4sq.com/fcxaAH"
+  id: 41316561356722176
+  from_user_id: 164101695
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://foursquare.com&quot; rel=&quot;nofollow&quot;&gt;foursquare&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "117723474"
+  profile_image_url: http://a0.twimg.com/profile_images/1131439505/beingstill_normal.jpg
+  created_at: Sat, 26 Feb 2011 01:56:40 +0000
+  from_user: timfalls
+  id_str: "41315679533535232"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#SWboulder 2011! (@ Techstars Bunker w/ @johnsheehan) [pic]: http://4sq.com/hRtW8x"
+  id: 41315679533535232
+  from_user_id: 117723474
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://foursquare.com&quot; rel=&quot;nofollow&quot;&gt;foursquare&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "645139"
+  profile_image_url: http://a3.twimg.com/profile_images/1215684763/New_Avatar_normal.jpg
+  created_at: Sat, 26 Feb 2011 01:56:16 +0000
+  from_user: pedrosorren
+  id_str: "41315581017858049"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Ouvindo o Ceo da Pivotal Labs. Muito bom #swboulder risks+team+product+scale"
+  id: 41315581017858049
+  from_user_id: 645139
+  geo: 
+  iso_language_code: fr
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "645139"
+  profile_image_url: http://a3.twimg.com/profile_images/1215684763/New_Avatar_normal.jpg
+  created_at: Sat, 26 Feb 2011 01:50:41 +0000
+  from_user: pedrosorren
+  id_str: "41314176156712960"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Startup Weekend Boulder about to start! #swboulder #techstars http://yfrog.com/gz766zrj"
+  id: 41314176156712960
+  from_user_id: 645139
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "645139"
+  profile_image_url: http://a3.twimg.com/profile_images/1215684763/New_Avatar_normal.jpg
+  created_at: Sat, 26 Feb 2011 01:49:43 +0000
+  from_user: pedrosorren
+  id_str: "41313932723355648"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 29292511
+  text: "@AlxFalararo acabei de descobrir o que est\xC3\xA1 errado. Um problema com o godaddy causado por mim mesmo. Hj quando sair do #swboulder conserto"
+  id: 41313932723355648
+  from_user_id: 645139
+  to_user: AlxFalararo
+  geo: 
+  iso_language_code: pt
+  to_user_id_str: "29292511"
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "729517"
+  profile_image_url: http://a2.twimg.com/profile_images/1237482094/matt-dressy_normal.jpg
+  created_at: Sat, 26 Feb 2011 01:41:13 +0000
+  from_user: mbernier
+  id_str: "41311792818946048"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "I'm at #swboulder! It's crazy in here!"
+  id: 41311792818946048
+  from_user_id: 729517
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "11890990"
+  profile_image_url: http://a3.twimg.com/profile_images/1201743971/aaronkwhite-icon_normal.png
+  created_at: Sat, 26 Feb 2011 01:27:02 +0000
+  from_user: aaronkwhite
+  id_str: "41308223013273600"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 262438
+  text: "@dthompson DO IT! #makeadifference #swboulder"
+  id: 41308223013273600
+  from_user_id: 11890990
+  to_user: dthompson
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "262438"
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "262438"
+  profile_image_url: http://a1.twimg.com/profile_images/66578757/self_logo_normal.png
+  created_at: Sat, 26 Feb 2011 01:15:21 +0000
+  from_user: dthompson
+  id_str: "41305282873131008"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: |-
+    who is going to #swboulder?  
+    
+    I'm on the fence.
+  id: 41305282873131008
+  from_user_id: 262438
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "11890990"
+  profile_image_url: http://a3.twimg.com/profile_images/1201743971/aaronkwhite-icon_normal.png
+  created_at: Sat, 26 Feb 2011 00:40:34 +0000
+  from_user: aaronkwhite
+  id_str: "41296530807865344"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Really wish I was going to #swboulder, alas @dups, @misterniall and I are having our own startup week &amp; weekend #startuplife"
+  id: 41296530807865344
+  from_user_id: 11890990
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "2317014"
+  profile_image_url: http://a1.twimg.com/profile_images/63685972/dave_normal.jpg
+  created_at: Fri, 25 Feb 2011 23:55:41 +0000
+  from_user: DavidMcCurley
+  id_str: "41285235467497472"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Headed to Startup Weekend in Boulder Colorado! Should be a great time for ideas and networking. #swBoulder #followfriday #boulder"
+  id: 41285235467497472
+  from_user_id: 2317014
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "26043843"
+  profile_image_url: http://a3.twimg.com/profile_images/983274618/011_normal.JPG
+  created_at: Fri, 25 Feb 2011 23:46:34 +0000
+  from_user: adamdani
+  id_str: "41282938515488769"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @digbyj: Startup Weekend themed  #FF #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis - All happening this weekend!!!!!&quot;"
+  id: 41282938515488769
+  from_user_id: 26043843
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\xC2\xAE&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Fri, 25 Feb 2011 23:28:19 +0000
+  from_user: HoustonSW
+  id_str: "41278345257828352"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @seanrmurphy: #swdub taking on the world - well  #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis  at least ;-)"
+  id: 41278345257828352
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Fri, 25 Feb 2011 23:28:17 +0000
+  from_user: sarahmworthy
+  id_str: "41278337745825792"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @seanrmurphy: #swdub taking on the world - well  #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis  at least ;-)"
+  id: 41278337745825792
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "540238"
+  profile_image_url: http://a2.twimg.com/profile_images/646786479/me_normal.png
+  created_at: Fri, 25 Feb 2011 22:43:30 +0000
+  from_user: ericreid
+  id_str: "41267067911020544"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Getting pumped to create a company this weekend at Startup Weekend Boulder. #swboulder"
+  id: 41267067911020544
+  from_user_id: 540238
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "11890990"
+  profile_image_url: http://a3.twimg.com/profile_images/1201743971/aaronkwhite-icon_normal.png
+  created_at: Fri, 25 Feb 2011 22:11:16 +0000
+  from_user: aaronkwhite
+  id_str: "41258958719156224"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 144072701
+  text: "@StartupDenver Will there be a 'Twitter Recap' or Play by Play of the presentations tonight, for those of us who can't make it? #swboulder"
+  id: 41258958719156224
+  from_user_id: 11890990
+  to_user: StartupDenver
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "144072701"
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "24328470"
+  profile_image_url: http://a0.twimg.com/profile_images/402672080/profile-photo_normal.jpg
+  created_at: Fri, 25 Feb 2011 21:31:38 +0000
+  from_user: seanrmurphy
+  id_str: "41248982105718784"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#swdub taking on the world - well  #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis  at least ;-)"
+  id: 41248982105718784
+  from_user_id: 24328470
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "31925570"
+  profile_image_url: http://a2.twimg.com/profile_images/1228487490/me_normal.jpg
+  created_at: Fri, 25 Feb 2011 20:54:45 +0000
+  from_user: rideboulderco
+  id_str: "41239702245736448"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 5053412
+  text: "@suzanbond any interest in writing up something about #swboulder for boulder.me?"
+  id: 41239702245736448
+  from_user_id: 31925570
+  to_user: suzanbond
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "5053412"
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "5053412"
+  profile_image_url: http://a3.twimg.com/profile_images/799902089/IMG_3496_normal.JPG
+  created_at: Fri, 25 Feb 2011 20:38:45 +0000
+  from_user: suzanbond
+  id_str: "41235674615132160"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: ".@jonrrossi Thanks for the RT! Looking forward to #swboulder tonight."
+  id: 41235674615132160
+  from_user_id: 5053412
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "214918042"
+  profile_image_url: http://a2.twimg.com/profile_images/1236317764/IMG_0453_normal.jpg
+  created_at: Fri, 25 Feb 2011 20:29:04 +0000
+  from_user: Corbieno
+  id_str: "41233236629782528"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Lets get this show on the road, traveling down to Boulder for the weekend. #swboulder"
+  id: 41233236629782528
+  from_user_id: 214918042
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "222716754"
+  profile_image_url: http://a1.twimg.com/profile_images/1246450664/MW_normal.png
+  created_at: Fri, 25 Feb 2011 19:36:55 +0000
+  from_user: mindwallet
+  id_str: "41220113801818112"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Tell us about your projects #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis http://www.mindwallet.com/home/StartupWeekend"
+  id: 41220113801818112
+  from_user_id: 222716754
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6095200"
+  profile_image_url: http://a0.twimg.com/profile_images/1183862552/8fbc98ad-a97e-4a6a-9db1-f486ca655aa2_normal.png
+  created_at: Fri, 25 Feb 2011 18:56:44 +0000
+  from_user: digbyj
+  id_str: "41209999162220544"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Startup Weekend themed #FF #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis - All happening this weekend!!!!!"
+  id: 41209999162220544
+  from_user_id: 6095200
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "22284544"
+  profile_image_url: http://a1.twimg.com/profile_images/282483978/logo_for_twitter_normal.png
+  created_at: Fri, 25 Feb 2011 18:46:52 +0000
+  from_user: iotals
+  id_str: "41207516121530368"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41207516121530368
+  from_user_id: 22284544
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "505451"
+  profile_image_url: http://a3.twimg.com/profile_images/55153823/53_normal.jpg
+  created_at: Fri, 25 Feb 2011 18:46:18 +0000
+  from_user: lloyddobbler
+  id_str: "41207376673640448"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 23501
+  text: "@johnsheehan Gonna miss it this year. Company in town. Hope someone builds a team nearly as awesome as ours, though! :) #swboulder"
+  id: 41207376673640448
+  from_user_id: 505451
+  to_user: johnsheehan
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "23501"
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "23501"
+  profile_image_url: http://a2.twimg.com/profile_images/1209022899/IMG_5418_normal.jpg
+  created_at: Fri, 25 Feb 2011 18:37:09 +0000
+  from_user: johnsheehan
+  id_str: "41205072989921280"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Looking forward to seeing everyone at #swboulder tonight.  Wondering if @lloyddobbler is going to defend his title."
+  id: 41205072989921280
+  from_user_id: 23501
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "172720945"
+  profile_image_url: http://a2.twimg.com/profile_images/1185139990/swboulder_normal.jpg
+  created_at: Fri, 25 Feb 2011 18:25:02 +0000
+  from_user: swboulder
+  id_str: "41202024636878848"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 172181630
+  text: "@thanpolas we will find out on Sunday 2/27 after it is built #swBoulder"
+  id: 41202024636878848
+  from_user_id: 172720945
+  to_user: thanpolas
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "172181630"
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "5053412"
+  profile_image_url: http://a3.twimg.com/profile_images/799902089/IMG_3496_normal.JPG
+  created_at: Fri, 25 Feb 2011 18:20:13 +0000
+  from_user: suzanbond
+  id_str: "41200810339741696"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Looking forward to #swboulder tonight. Who else will I see at @boulderstartupweekend?"
+  id: 41200810339741696
+  from_user_id: 5053412
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "128041580"
+  profile_image_url: http://a3.twimg.com/profile_images/1013503859/photo1_normal.jpg
+  created_at: Fri, 25 Feb 2011 17:08:09 +0000
+  from_user: TonyValkov
+  id_str: "41182675435790336"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "http://dld.bz/i RT @DKMayer RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder,... http://bit.ly/fZbsuA"
+  id: 41182675435790336
+  from_user_id: 128041580
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "158643118"
+  profile_image_url: http://a3.twimg.com/profile_images/1135228884/planetearth1_normal.jpg
+  created_at: Fri, 25 Feb 2011 17:04:32 +0000
+  from_user: tintegrity
+  id_str: "41181765804498944"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swboulder: EverLater, Graphicly, OneTrueFan, Trada, and Snap Engage will be speaking at StartupWeekend Boulder this weekend #swBoulder"
+  id: 41181765804498944
+  from_user_id: 158643118
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "20888261"
+  profile_image_url: http://a3.twimg.com/profile_images/793630105/Picture_2_normal.png
+  created_at: Fri, 25 Feb 2011 17:02:53 +0000
+  from_user: DKMayer
+  id_str: "41181351499677696"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41181351499677696
+  from_user_id: 20888261
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "35127854"
+  profile_image_url: http://a1.twimg.com/profile_images/128721845/dennis_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:55:38 +0000
+  from_user: dblynov
+  id_str: "41179525626855424"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41179525626855424
+  from_user_id: 35127854
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:53:07 +0000
+  from_user: HoustonSW
+  id_str: "41178890663632897"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41178890663632897
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Fri, 25 Feb 2011 16:53:06 +0000
+  from_user: sarahmworthy
+  id_str: "41178887475961856"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41178887475961856
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "94667567"
+  profile_image_url: http://a0.twimg.com/profile_images/675029842/bl_g_rdsgade_normal.JPG
+  created_at: Fri, 25 Feb 2011 16:49:31 +0000
+  from_user: silversen
+  id_str: "41177985948192769"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swCPH: RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41177985948192769
+  from_user_id: 94667567
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "165916940"
+  profile_image_url: http://a3.twimg.com/profile_images/1213167426/d04f5c5c-ca4b-43c2-87c9-e9d12b3832dd_normal.png
+  created_at: Fri, 25 Feb 2011 16:40:01 +0000
+  from_user: slimKhan
+  id_str: "41175595945693184"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41175595945693184
+  from_user_id: 165916940
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "75614016"
+  profile_image_url: http://a1.twimg.com/profile_images/1247161805/edited_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:39:43 +0000
+  from_user: KaisEG
+  id_str: "41175518002950145"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41175518002950145
+  from_user_id: 75614016
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "92835991"
+  profile_image_url: http://a0.twimg.com/profile_images/1142282997/UA_twitter_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:37:21 +0000
+  from_user: unitedaccel
+  id_str: "41174922474561536"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "SBootCamp: RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Housto... http://bit.ly/hZBO5r"
+  id: 41174922474561536
+  from_user_id: 92835991
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "791031"
+  profile_image_url: http://a3.twimg.com/profile_images/803754510/n689968178_324295_4585_copy_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:36:15 +0000
+  from_user: nopstrup
+  id_str: "41174647936528384"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41174647936528384
+  from_user_id: 791031
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "132944"
+  profile_image_url: http://a2.twimg.com/profile_images/1121281829/ioio_normal.png
+  created_at: Fri, 25 Feb 2011 16:33:37 +0000
+  from_user: encinar
+  id_str: "41173983332274176"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekend starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis &amp; #swCPH"
+  id: 41173983332274176
+  from_user_id: 132944
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "23520418"
+  profile_image_url: http://a1.twimg.com/profile_images/1184060280/dfa1987b-a4d2-4377-b3cf-507dbf4c32af_normal.png
+  created_at: Fri, 25 Feb 2011 16:33:24 +0000
+  from_user: gairifo
+  id_str: "41173927875198976"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @SBootcamp: RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41173927875198976
+  from_user_id: 23520418
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "186194358"
+  profile_image_url: http://a3.twimg.com/profile_images/1192158925/SW_beaker_denmark_normal.png
+  created_at: Fri, 25 Feb 2011 16:32:33 +0000
+  from_user: swCPH
+  id_str: "41173715727298560"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41173715727298560
+  from_user_id: 186194358
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "74847355"
+  profile_image_url: http://a3.twimg.com/profile_images/691394022/sbc_twitter_normal.gif
+  created_at: Fri, 25 Feb 2011 16:32:32 +0000
+  from_user: SBootcamp
+  id_str: "41173713055387648"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41173713055387648
+  from_user_id: 74847355
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "81193246"
+  profile_image_url: http://a3.twimg.com/profile_images/1231932826/Alex_normal.JPG
+  created_at: Fri, 25 Feb 2011 16:31:31 +0000
+  from_user: alexfarcet
+  id_str: "41173457333010432"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41173457333010432
+  from_user_id: 81193246
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "184833"
+  profile_image_url: http://a1.twimg.com/profile_images/1208516212/golf_tournament_normal.jpg
+  created_at: Fri, 25 Feb 2011 15:26:15 +0000
+  from_user: bawigga
+  id_str: "41157032312709120"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @ericfickes: Anybody else starting a business this weekend? http://boulder.startupweekend.org/ #swBoulder"
+  id: 41157032312709120
+  from_user_id: 184833
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "126234516"
+  profile_image_url: http://a0.twimg.com/profile_images/975679958/FB1_normal.jpg
+  created_at: Fri, 25 Feb 2011 03:25:38 +0000
+  from_user: JAlexHerndon
+  id_str: "40975682729287680"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "I\xE2\x80\x99m launching a startup this weekend #swBoulder.  You should too! Come join me at http://boulder.startupweekend.org"
+  id: 40975682729287680
+  from_user_id: 126234516
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "5967477"
+  profile_image_url: http://a0.twimg.com/profile_images/1239518343/Screen_shot_2011-02-09_at_11.15.25_AM_normal.png
+  created_at: Fri, 25 Feb 2011 00:21:32 +0000
+  from_user: danomanion
+  id_str: "40929350455009281"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @StartupDenver: RT @ericfickes: Anybody else starting a business this weekend? http://boulder.startupweekend.org/ #swBoulder"
+  id: 40929350455009281
+  from_user_id: 5967477
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "172720945"
+  profile_image_url: http://a2.twimg.com/profile_images/1185139990/swboulder_normal.jpg
+  created_at: Fri, 25 Feb 2011 00:17:48 +0000
+  from_user: swboulder
+  id_str: "40928411652333568"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @ericfickes: Anybody else starting a business this weekend? http://boulder.startupweekend.org/ #swBoulder"
+  id: 40928411652333568
+  from_user_id: 172720945
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "144072701"
+  profile_image_url: http://a1.twimg.com/profile_images/1116764638/DenverStartup_normal.jpg
+  created_at: Fri, 25 Feb 2011 00:17:47 +0000
+  from_user: StartupDenver
+  id_str: "40928408070393856"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @ericfickes: Anybody else starting a business this weekend? http://boulder.startupweekend.org/ #swBoulder"
+  id: 40928408070393856
+  from_user_id: 144072701
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "292093"
+  profile_image_url: http://a0.twimg.com/profile_images/1181849507/portrait-12.3.10_normal.jpg
+  created_at: Fri, 25 Feb 2011 00:14:47 +0000
+  from_user: ericfickes
+  id_str: "40927651044671488"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Anybody else starting a business this weekend? http://boulder.startupweekend.org/ #swBoulder"
+  id: 40927651044671488
+  from_user_id: 292093
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "20888261"
+  profile_image_url: http://a3.twimg.com/profile_images/793630105/Picture_2_normal.png
+  created_at: Thu, 24 Feb 2011 18:53:53 +0000
+  from_user: DKMayer
+  id_str: "40846896922763265"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swboulder: Huge Event in Boulder this weekend. Sold Out StartupWeekend 5 at the Techstars Bunker. Stuff is going to get built in 54 hours #swBoulder"
+  id: 40846896922763265
+  from_user_id: 20888261
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "158643118"
+  profile_image_url: http://a3.twimg.com/profile_images/1135228884/planetearth1_normal.jpg
+  created_at: Thu, 24 Feb 2011 18:53:53 +0000
+  from_user: tintegrity
+  id_str: "40846895551221760"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swboulder: Huge Event in Boulder this weekend. Sold Out StartupWeekend 5 at the Techstars Bunker. Stuff is going to get built in 54 hours #swBoulder"
+  id: 40846895551221760
+  from_user_id: 158643118
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "14288216"
+  profile_image_url: http://a3.twimg.com/profile_images/131890737/Catapult_2000_021_normal.jpg
+  created_at: Thu, 24 Feb 2011 18:13:00 +0000
+  from_user: mccochran
+  id_str: "40836605761552384"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 778729
+  text: "@jonrrossi  Congrats on Selling Out StartupWeekend!  #swBoulder"
+  id: 40836605761552384
+  from_user_id: 14288216
+  to_user: jonrrossi
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "778729"
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "172720945"
+  profile_image_url: http://a2.twimg.com/profile_images/1185139990/swboulder_normal.jpg
+  created_at: Thu, 24 Feb 2011 17:43:46 +0000
+  from_user: swboulder
+  id_str: "40829251196428288"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Huge Event in Boulder this weekend. Sold Out StartupWeekend 5 at the Techstars Bunker. Stuff is going to get built in 54 hours #swBoulder"
+  id: 40829251196428288
+  from_user_id: 172720945
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "778729"
+  profile_image_url: http://a1.twimg.com/profile_images/828260878/Capture1_normal.JPG
+  created_at: Thu, 24 Feb 2011 17:43:46 +0000
+  from_user: jonrrossi
+  id_str: "40829249984135168"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Huge Event in Boulder this weekend. Sold Out StartupWeekend 5 at the Techstars Bunker. Stuff is going to get built in 54 hours #swBoulder"
+  id: 40829249984135168
+  from_user_id: 778729
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "172720945"
+  profile_image_url: http://a2.twimg.com/profile_images/1185139990/swboulder_normal.jpg
+  created_at: Thu, 24 Feb 2011 17:31:43 +0000
+  from_user: swboulder
+  id_str: "40826218211188736"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "StartupWeekend Boulder is SOLD OUT !!!! Looking forward to a very StartupWeekend. Eye of The Tiger #swBoulder"
+  id: 40826218211188736
+  from_user_id: 172720945
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "37419976"
+  profile_image_url: http://a1.twimg.com/profile_images/1246270829/d_normal.jpg
+  created_at: Thu, 24 Feb 2011 01:13:17 +0000
+  from_user: HopDizzle
+  id_str: "40579986368765952"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "ready for #swBoulder already!"
+  id: 40579986368765952
+  from_user_id: 37419976
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "128306383"
+  profile_image_url: http://a2.twimg.com/profile_images/1139468577/South_Park_Avatar_icon_normal.jpg
+  created_at: Wed, 23 Feb 2011 15:22:00 +0000
+  from_user: focusaurus
+  id_str: "40431186501304320"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "I\xE2\x80\x99m launching a startup this weekend #swBoulder.  You should too! Come join me at http://boulder.startupweekend.org"
+  id: 40431186501304320
+  from_user_id: 128306383
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "24550498"
+  profile_image_url: http://a3.twimg.com/profile_images/1197305293/white-triple-arrow.240p_normal.png
+  created_at: Wed, 23 Feb 2011 05:06:31 +0000
+  from_user: TripleThreatMob
+  id_str: "40276292599291904"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Cool! RT @StartupDenver: Startup Weekend on the cover of March 2011 Entrepreneur #swBoulder http://t.co/M124ug1"
+  id: 40276292599291904
+  from_user_id: 24550498
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "172720945"
+  profile_image_url: http://a2.twimg.com/profile_images/1185139990/swboulder_normal.jpg
+  created_at: Wed, 23 Feb 2011 03:09:46 +0000
+  from_user: swboulder
+  id_str: "40246913865359360"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Startup Weekend on the cover of March 2011 Entrepreneur #swBoulder     http://instagr.am/p/ByTF4/"
+  id: 40246913865359360
+  from_user_id: 172720945
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "144072701"
+  profile_image_url: http://a1.twimg.com/profile_images/1116764638/DenverStartup_normal.jpg
+  created_at: Wed, 23 Feb 2011 03:09:46 +0000
+  from_user: StartupDenver
+  id_str: "40246912745619456"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Startup Weekend on the cover of March 2011 Entrepreneur #swBoulder     http://instagr.am/p/ByTF4/"
+  id: 40246912745619456
+  from_user_id: 144072701
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "778729"
+  profile_image_url: http://a1.twimg.com/profile_images/828260878/Capture1_normal.JPG
+  created_at: Wed, 23 Feb 2011 03:09:46 +0000
+  from_user: jonrrossi
+  id_str: "40246911265021952"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Startup Weekend on the cover of March 2011 Entrepreneur #swBoulder     http://instagr.am/p/ByTF4/"
+  id: 40246911265021952
+  from_user_id: 778729
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "158643118"
+  profile_image_url: http://a3.twimg.com/profile_images/1135228884/planetearth1_normal.jpg
+  created_at: Wed, 23 Feb 2011 01:31:43 +0000
+  from_user: tintegrity
+  id_str: "40222236908462080"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swboulder: Entrepreneur Magazine Cover on @StartupWeekend http://awe.sm/5Gd4E #swBoulder"
+  id: 40222236908462080
+  from_user_id: 158643118
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "42102480"
+  profile_image_url: http://a3.twimg.com/profile_images/1110110878/Spring_72dpi_normal.jpg
+  created_at: Wed, 23 Feb 2011 01:00:09 +0000
+  from_user: catapultpr
+  id_str: "40214294356430848"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swboulder: Entrepreneur Magazine Cover on @StartupWeekend http://awe.sm/5Gd4E #swBoulder"
+  id: 40214294356430848
+  from_user_id: 42102480
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "14288216"
+  profile_image_url: http://a3.twimg.com/profile_images/131890737/Catapult_2000_021_normal.jpg
+  created_at: Wed, 23 Feb 2011 01:00:05 +0000
+  from_user: mccochran
+  id_str: "40214275695980544"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swboulder: Entrepreneur Magazine Cover on @StartupWeekend http://awe.sm/5Gd4E #swBoulder"
+  id: 40214275695980544
+  from_user_id: 14288216
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "266139"
+  profile_image_url: http://a0.twimg.com/profile_images/930226203/tom1_normal.jpg
+  created_at: Tue, 22 Feb 2011 20:14:32 +0000
+  from_user: EvolveTom
+  id_str: "40142415381663744"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @EmpireAve: Just a reminder @dups will be in Colorado this week and is a Judge for #swboulder this coming Sunday! http://t.co/dReG74a #eav"
+  id: 40142415381663744
+  from_user_id: 266139
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "75212490"
+  profile_image_url: http://a1.twimg.com/profile_images/699304033/twitterprof_normal.gif
+  created_at: Tue, 22 Feb 2011 20:12:22 +0000
+  from_user: EmpireAve
+  id_str: "40141870994563072"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Just a reminder @dups will be in Colorado this week and is a Judge for #swboulder this coming Sunday! http://t.co/dReG74a #eav"
+  id: 40141870994563072
+  from_user_id: 75212490
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "11890990"
+  profile_image_url: http://a3.twimg.com/profile_images/1201743971/aaronkwhite-icon_normal.png
+  created_at: Tue, 22 Feb 2011 03:39:17 +0000
+  from_user: aaronkwhite
+  id_str: "39891955018252288"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @StartupDenver: Entrepreneur Magazine Cover on @StartupWeekend http://awe.sm/5Gd4E #swBoulder"
+  id: 39891955018252288
+  from_user_id: 11890990
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "172720945"
+  profile_image_url: http://a2.twimg.com/profile_images/1185139990/swboulder_normal.jpg
+  created_at: Tue, 22 Feb 2011 03:33:45 +0000
+  from_user: swboulder
+  id_str: "39890562882478080"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Entrepreneur Magazine Cover on @StartupWeekend http://awe.sm/5Gd4E #swBoulder"
+  id: 39890562882478080
+  from_user_id: 172720945
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "144072701"
+  profile_image_url: http://a1.twimg.com/profile_images/1116764638/DenverStartup_normal.jpg
+  created_at: Tue, 22 Feb 2011 03:33:45 +0000
+  from_user: StartupDenver
+  id_str: "39890560454107136"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Entrepreneur Magazine Cover on @StartupWeekend http://awe.sm/5Gd4E #swBoulder"
+  id: 39890560454107136
+  from_user_id: 144072701
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "778729"
+  profile_image_url: http://a1.twimg.com/profile_images/828260878/Capture1_normal.JPG
+  created_at: Tue, 22 Feb 2011 03:33:44 +0000
+  from_user: jonrrossi
+  id_str: "39890558105300992"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Entrepreneur Magazine Cover on @StartupWeekend http://awe.sm/5Gd4E #swBoulder"
+  id: 39890558105300992
+  from_user_id: 778729
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "37419976"
+  profile_image_url: http://a1.twimg.com/profile_images/1246270829/d_normal.jpg
+  created_at: Tue, 22 Feb 2011 02:18:07 +0000
+  from_user: HopDizzle
+  id_str: "39871527163789312"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Got my ticket to Startup Weekend Boulder!  #swBoulder"
+  id: 39871527163789312
+  from_user_id: 37419976
+  geo: !map:Hashie::Mash 
+    coordinates: 
+    - 39.6002
+    - -104.8839
+    type: Point
+  iso_language_code: en
+  place: !map:Hashie::Mash 
+    id: a4d5a00cbd823818
+    type: city
+    full_name: Greenwood Village, CO
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter for Android&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "160946278"
+  profile_image_url: http://a3.twimg.com/profile_images/1138755171/snap_icon_normal.png
+  created_at: Mon, 21 Feb 2011 21:58:45 +0000
+  from_user: snapengage
+  id_str: "39806254180352001"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swboulder: EverLater, Graphicly, OneTrueFan, Trada, and Snap Engage will be speaking at StartupWeekend Boulder this weekend #swBoulder"
+  id: 39806254180352001
+  from_user_id: 160946278
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1661981"
+  profile_image_url: http://a0.twimg.com/profile_images/1115306313/Chris_Ignite_FC4_E_normal.jpg
+  created_at: Mon, 21 Feb 2011 21:54:33 +0000
+  from_user: Ruckus
+  id_str: "39805200285827072"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swboulder: EverLater, Graphicly, OneTrueFan, Trada, and Snap Engage will be speaking at StartupWeekend Boulder this weekend #swBoulder"
+  id: 39805200285827072
+  from_user_id: 1661981
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "11890990"
+  profile_image_url: http://a3.twimg.com/profile_images/1201743971/aaronkwhite-icon_normal.png
+  created_at: Mon, 21 Feb 2011 20:53:54 +0000
+  from_user: aaronkwhite
+  id_str: "39789934571298816"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @jonrrossi: EverLater, Graphicly, OneTrueFan, Trada, and Snap Engage will be speaking at StartupWeekend Boulder this weekend #swBoulder"
+  id: 39789934571298816
+  from_user_id: 11890990
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1322440"
+  profile_image_url: http://a1.twimg.com/profile_images/1234657294/DC_normal.jpg
+  created_at: Mon, 21 Feb 2011 20:53:21 +0000
+  from_user: fionaschlachter
+  id_str: "39789797492916224"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Wow. RT @swboulder: EverLater, Graphicly, OneTrueFan, Trada, and Snap Engage will be speaking StartupWeekend Boulder this weekend #swBoulder"
+  id: 39789797492916224
+  from_user_id: 1322440
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "172720945"
+  profile_image_url: http://a2.twimg.com/profile_images/1185139990/swboulder_normal.jpg
+  created_at: Mon, 21 Feb 2011 20:52:37 +0000
+  from_user: swboulder
+  id_str: "39789611165155328"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "EverLater, Graphicly, OneTrueFan, Trada, and Snap Engage will be speaking at StartupWeekend Boulder this weekend #swBoulder"
+  id: 39789611165155328
+  from_user_id: 172720945
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "144072701"
+  profile_image_url: http://a1.twimg.com/profile_images/1116764638/DenverStartup_normal.jpg
+  created_at: Mon, 21 Feb 2011 20:52:36 +0000
+  from_user: StartupDenver
+  id_str: "39789609063813121"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "EverLater, Graphicly, OneTrueFan, Trada, and Snap Engage will be speaking at StartupWeekend Boulder this weekend #swBoulder"
+  id: 39789609063813121
+  from_user_id: 144072701
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "778729"
+  profile_image_url: http://a1.twimg.com/profile_images/828260878/Capture1_normal.JPG
+  created_at: Mon, 21 Feb 2011 20:52:36 +0000
+  from_user: jonrrossi
+  id_str: "39789606907936768"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "EverLater, Graphicly, OneTrueFan, Trada, and Snap Engage will be speaking at StartupWeekend Boulder this weekend #swBoulder"
+  id: 39789606907936768
+  from_user_id: 778729
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "20945789"
+  profile_image_url: http://a1.twimg.com/profile_images/421163789/91713422_normal.jpg
+  created_at: Mon, 21 Feb 2011 20:06:29 +0000
+  from_user: yessmiss
+  id_str: "39778001298132992"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Are you going, or not going, to this year's #swBoulder ? Why?  trying to decide to go or skip, due to #talon'schallenge @ the Beave"
+  id: 39778001298132992
+  from_user_id: 20945789
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "172720945"
+  profile_image_url: http://a2.twimg.com/profile_images/1185139990/swboulder_normal.jpg
+  created_at: Mon, 21 Feb 2011 19:38:18 +0000
+  from_user: swboulder
+  id_str: "39770909917052929"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#swla had @aplusk (Ashton Kutcher) as guest judge which is very cool but #swBoulder will be held in the legendary Techstars Bunker #topthat"
+  id: 39770909917052929
+  from_user_id: 172720945
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "144072701"
+  profile_image_url: http://a1.twimg.com/profile_images/1116764638/DenverStartup_normal.jpg
+  created_at: Mon, 21 Feb 2011 19:38:16 +0000
+  from_user: StartupDenver
+  id_str: "39770903231475713"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#swla had @aplusk (Ashton Kutcher) as guest judge which is very cool but #swBoulder will be held in the legendary Techstars Bunker #topthat"
+  id: 39770903231475713
+  from_user_id: 144072701
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "4002240"
+  profile_image_url: http://a0.twimg.com/profile_images/1250306909/187222_648489700_3608295_n_normal.jpg
+  created_at: Mon, 21 Feb 2011 18:23:42 +0000
+  from_user: jasonarmishaw
+  id_str: "39752136543703040"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 20888261
+  text: "@DKMayer All the best for #swboulder this weekend. You going to be updating your blog during the event?"
+  id: 39752136543703040
+  from_user_id: 4002240
+  to_user: DKMayer
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "20888261"
+  source: "&lt;a href=&quot;http://www.sproutsocial.com&quot; rel=&quot;nofollow&quot;&gt;Sprout Social&lt;/a&gt;"

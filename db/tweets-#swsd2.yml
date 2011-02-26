@@ -1,0 +1,757 @@
+--- 
+- !map:Hashie::Mash 
+  from_user_id_str: "4231132"
+  profile_image_url: http://a3.twimg.com/profile_images/74848522/snow__normal.jpg
+  created_at: Sat, 26 Feb 2011 10:03:21 +0000
+  from_user: nomial
+  id_str: "41438157308309504"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 10789
+  text: "@Scobleizer 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis, #swCPH"
+  id: 41438157308309504
+  from_user_id: 4231132
+  to_user: Scobleizer
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "10789"
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "95725831"
+  profile_image_url: http://a2.twimg.com/profile_images/875846983/Twitter_normal.JPG
+  created_at: Sat, 26 Feb 2011 09:20:01 +0000
+  from_user: RiskContainment
+  id_str: "41427254995206144"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Hey #swaustin #swboulder #swcph #swdub #HoustonSW #swsd2 #SWTunis #SWDSM - Check out Copenhagen SW @ http://gignal.com/events/view/18 #swCPH"
+  id: 41427254995206144
+  from_user_id: 95725831
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "97533769"
+  profile_image_url: http://a0.twimg.com/profile_images/729177945/i_normal.jpg
+  created_at: Sat, 26 Feb 2011 05:21:10 +0000
+  from_user: Incipi
+  id_str: "41367145321336832"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Prototype quickly with WorkXpress http://wxp.incipi.net #swaustin #swboulder #swcph #swdub #HoustonSW #swsd2 #SWTunis #SWDSM #startupweekend"
+  id: 41367145321336832
+  from_user_id: 97533769
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "222716754"
+  profile_image_url: http://a1.twimg.com/profile_images/1246450664/MW_normal.png
+  created_at: Sat, 26 Feb 2011 05:00:35 +0000
+  from_user: mindwallet
+  id_str: "41361964777086976"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Here is what happened at #HoustonSW http://bit.ly/fLdq0g #swCPH #swBoulder #swAustin #swDub #swsd2 #swTunis At Yours? http://bit.ly/gVmb2h"
+  id: 41361964777086976
+  from_user_id: 222716754
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "60015523"
+  profile_image_url: http://a3.twimg.com/profile_images/1254999715/DSC02603_normal.JPG
+  created_at: Sat, 26 Feb 2011 03:24:14 +0000
+  from_user: GinaAssaf
+  id_str: "41337717375635456"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "At startup san Diego weekend #swsd2 just getting started !"
+  id: 41337717375635456
+  from_user_id: 60015523
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "25325"
+  profile_image_url: http://a3.twimg.com/profile_images/1224313717/201006-new-mini-4_normal.jpg
+  created_at: Sat, 26 Feb 2011 02:53:17 +0000
+  from_user: jennyjenjen
+  id_str: "41329928981061633"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#StartupWeekend San Diego 2 has begun! #swsd2 (@ Ansir Innovation Center w/ @junnibug) http://4sq.com/hBcxW6"
+  id: 41329928981061633
+  from_user_id: 25325
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://foursquare.com&quot; rel=&quot;nofollow&quot;&gt;foursquare&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "26043843"
+  profile_image_url: http://a3.twimg.com/profile_images/983274618/011_normal.JPG
+  created_at: Fri, 25 Feb 2011 23:46:34 +0000
+  from_user: adamdani
+  id_str: "41282938515488769"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @digbyj: Startup Weekend themed  #FF #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis - All happening this weekend!!!!!&quot;"
+  id: 41282938515488769
+  from_user_id: 26043843
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\xC2\xAE&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Fri, 25 Feb 2011 23:28:19 +0000
+  from_user: HoustonSW
+  id_str: "41278345257828352"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @seanrmurphy: #swdub taking on the world - well  #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis  at least ;-)"
+  id: 41278345257828352
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Fri, 25 Feb 2011 23:28:17 +0000
+  from_user: sarahmworthy
+  id_str: "41278337745825792"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @seanrmurphy: #swdub taking on the world - well  #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis  at least ;-)"
+  id: 41278337745825792
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "33964227"
+  profile_image_url: http://a0.twimg.com/profile_images/1234354513/facebook_profile_normal.jpg
+  created_at: Fri, 25 Feb 2011 22:27:52 +0000
+  from_user: namestew
+  id_str: "41263132861009921"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @jennyjenjen: #StartupWeekend San Diego starts tonight! If you're on the fence, now is the time to decide: http://bit.ly/hFG30T #swsd2"
+  id: 41263132861009921
+  from_user_id: 33964227
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "24328470"
+  profile_image_url: http://a0.twimg.com/profile_images/402672080/profile-photo_normal.jpg
+  created_at: Fri, 25 Feb 2011 21:31:38 +0000
+  from_user: seanrmurphy
+  id_str: "41248982105718784"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#swdub taking on the world - well  #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis  at least ;-)"
+  id: 41248982105718784
+  from_user_id: 24328470
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "222716754"
+  profile_image_url: http://a1.twimg.com/profile_images/1246450664/MW_normal.png
+  created_at: Fri, 25 Feb 2011 19:36:55 +0000
+  from_user: mindwallet
+  id_str: "41220113801818112"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Tell us about your projects #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis http://www.mindwallet.com/home/StartupWeekend"
+  id: 41220113801818112
+  from_user_id: 222716754
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6095200"
+  profile_image_url: http://a0.twimg.com/profile_images/1183862552/8fbc98ad-a97e-4a6a-9db1-f486ca655aa2_normal.png
+  created_at: Fri, 25 Feb 2011 18:56:44 +0000
+  from_user: digbyj
+  id_str: "41209999162220544"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Startup Weekend themed #FF #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis - All happening this weekend!!!!!"
+  id: 41209999162220544
+  from_user_id: 6095200
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "22284544"
+  profile_image_url: http://a1.twimg.com/profile_images/282483978/logo_for_twitter_normal.png
+  created_at: Fri, 25 Feb 2011 18:46:52 +0000
+  from_user: iotals
+  id_str: "41207516121530368"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41207516121530368
+  from_user_id: 22284544
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "25325"
+  profile_image_url: http://a3.twimg.com/profile_images/1224313717/201006-new-mini-4_normal.jpg
+  created_at: Fri, 25 Feb 2011 18:05:32 +0000
+  from_user: jennyjenjen
+  id_str: "41197113882841088"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#StartupWeekend San Diego starts tonight! If you're on the fence, now is the time to decide: http://bit.ly/hFG30T #swsd2"
+  id: 41197113882841088
+  from_user_id: 25325
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "20888261"
+  profile_image_url: http://a3.twimg.com/profile_images/793630105/Picture_2_normal.png
+  created_at: Fri, 25 Feb 2011 17:02:53 +0000
+  from_user: DKMayer
+  id_str: "41181351499677696"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41181351499677696
+  from_user_id: 20888261
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "35127854"
+  profile_image_url: http://a1.twimg.com/profile_images/128721845/dennis_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:55:38 +0000
+  from_user: dblynov
+  id_str: "41179525626855424"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41179525626855424
+  from_user_id: 35127854
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:53:07 +0000
+  from_user: HoustonSW
+  id_str: "41178890663632897"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41178890663632897
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Fri, 25 Feb 2011 16:53:06 +0000
+  from_user: sarahmworthy
+  id_str: "41178887475961856"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41178887475961856
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "94667567"
+  profile_image_url: http://a0.twimg.com/profile_images/675029842/bl_g_rdsgade_normal.JPG
+  created_at: Fri, 25 Feb 2011 16:49:31 +0000
+  from_user: silversen
+  id_str: "41177985948192769"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swCPH: RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41177985948192769
+  from_user_id: 94667567
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "165916940"
+  profile_image_url: http://a3.twimg.com/profile_images/1213167426/d04f5c5c-ca4b-43c2-87c9-e9d12b3832dd_normal.png
+  created_at: Fri, 25 Feb 2011 16:40:01 +0000
+  from_user: slimKhan
+  id_str: "41175595945693184"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41175595945693184
+  from_user_id: 165916940
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "75614016"
+  profile_image_url: http://a1.twimg.com/profile_images/1247161805/edited_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:39:43 +0000
+  from_user: KaisEG
+  id_str: "41175518002950145"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41175518002950145
+  from_user_id: 75614016
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "791031"
+  profile_image_url: http://a3.twimg.com/profile_images/803754510/n689968178_324295_4585_copy_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:36:15 +0000
+  from_user: nopstrup
+  id_str: "41174647936528384"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41174647936528384
+  from_user_id: 791031
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "132944"
+  profile_image_url: http://a2.twimg.com/profile_images/1121281829/ioio_normal.png
+  created_at: Fri, 25 Feb 2011 16:33:37 +0000
+  from_user: encinar
+  id_str: "41173983332274176"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekend starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis &amp; #swCPH"
+  id: 41173983332274176
+  from_user_id: 132944
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "23520418"
+  profile_image_url: http://a1.twimg.com/profile_images/1184060280/dfa1987b-a4d2-4377-b3cf-507dbf4c32af_normal.png
+  created_at: Fri, 25 Feb 2011 16:33:24 +0000
+  from_user: gairifo
+  id_str: "41173927875198976"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @SBootcamp: RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41173927875198976
+  from_user_id: 23520418
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "186194358"
+  profile_image_url: http://a3.twimg.com/profile_images/1192158925/SW_beaker_denmark_normal.png
+  created_at: Fri, 25 Feb 2011 16:32:33 +0000
+  from_user: swCPH
+  id_str: "41173715727298560"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41173715727298560
+  from_user_id: 186194358
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "74847355"
+  profile_image_url: http://a3.twimg.com/profile_images/691394022/sbc_twitter_normal.gif
+  created_at: Fri, 25 Feb 2011 16:32:32 +0000
+  from_user: SBootcamp
+  id_str: "41173713055387648"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41173713055387648
+  from_user_id: 74847355
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "81193246"
+  profile_image_url: http://a3.twimg.com/profile_images/1231932826/Alex_normal.JPG
+  created_at: Fri, 25 Feb 2011 16:31:31 +0000
+  from_user: alexfarcet
+  id_str: "41173457333010432"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41173457333010432
+  from_user_id: 81193246
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "25325"
+  profile_image_url: http://a3.twimg.com/profile_images/1224313717/201006-new-mini-4_normal.jpg
+  created_at: Wed, 23 Feb 2011 22:38:02 +0000
+  from_user: jennyjenjen
+  id_str: "40540917744017408"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 620478
+  text: "@Odegard I will try to make it but I'm working #swsd2!! I'm sad you're leaving! :( #OdegardMovingAway"
+  id: 40540917744017408
+  from_user_id: 25325
+  to_user: Odegard
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "620478"
+  source: "&lt;a href=&quot;http://tweetvite.com&quot; rel=&quot;nofollow&quot;&gt;Tweetvite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "25325"
+  profile_image_url: http://a3.twimg.com/profile_images/1224313717/201006-new-mini-4_normal.jpg
+  created_at: Wed, 23 Feb 2011 22:04:27 +0000
+  from_user: jennyjenjen
+  id_str: "40532466871574528"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @sdtechscene: The contest to win a free ticket to #StartupWeekend San Diego 2 from @KidZui ends in four hours! http://is.gd/SHJCyk #swsd2"
+  id: 40532466871574528
+  from_user_id: 25325
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "25325"
+  profile_image_url: http://a3.twimg.com/profile_images/1224313717/201006-new-mini-4_normal.jpg
+  created_at: Wed, 23 Feb 2011 22:02:13 +0000
+  from_user: jennyjenjen
+  id_str: "40531905094881280"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 209217201
+  text: "@mkeplinger thanks for tweeting about #StartupWeekend San Diego! :) #swsd2"
+  id: 40531905094881280
+  from_user_id: 25325
+  to_user: mkeplinger
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "209217201"
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "160519406"
+  profile_image_url: http://a1.twimg.com/profile_images/1209859004/bam2_normal.jpg
+  created_at: Wed, 23 Feb 2011 21:38:36 +0000
+  from_user: realcubiksrube
+  id_str: "40525960486850560"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @sdtechscene: Enter to win a free ticket to #StartupWeekend San Diego 2 thanks to @KidZui! Details here: http://is.gd/SHJCyk #swsd2"
+  id: 40525960486850560
+  from_user_id: 160519406
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "94110380"
+  profile_image_url: http://a0.twimg.com/profile_images/693846967/twitter-avatar_normal.jpg
+  created_at: Wed, 23 Feb 2011 20:57:28 +0000
+  from_user: sdtechscene
+  id_str: "40515609716334592"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "The contest to win a free ticket to #StartupWeekend San Diego 2 from @KidZui ends in four hours! http://is.gd/SHJCyk #swsd2"
+  id: 40515609716334592
+  from_user_id: 94110380
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "109087558"
+  profile_image_url: http://a3.twimg.com/profile_images/817629671/JuliePachecoMiyaoProfilePhoto_normal.jpg
+  created_at: Wed, 23 Feb 2011 01:00:27 +0000
+  from_user: juliemiyao
+  id_str: "40214369547726848"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @sdtechscene: Enter to win a free ticket to #StartupWeekend San Diego 2 thanks to @KidZui! Details here: http://is.gd/SHJCyk #swsd2"
+  id: 40214369547726848
+  from_user_id: 109087558
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "25325"
+  profile_image_url: http://a3.twimg.com/profile_images/1224313717/201006-new-mini-4_normal.jpg
+  created_at: Wed, 23 Feb 2011 00:15:40 +0000
+  from_user: jennyjenjen
+  id_str: "40203098236387328"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @sdtechscene: There is still time to enter to win a free ticket to #StartupWeekend San Diego 2 courtesy of @KidZui! http://is.gd/SHJCyk #swsd2"
+  id: 40203098236387328
+  from_user_id: 25325
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "94110380"
+  profile_image_url: http://a0.twimg.com/profile_images/693846967/twitter-avatar_normal.jpg
+  created_at: Wed, 23 Feb 2011 00:12:06 +0000
+  from_user: sdtechscene
+  id_str: "40202202995892224"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "There is still time to enter to win a free ticket to #StartupWeekend San Diego 2 courtesy of @KidZui! http://is.gd/SHJCyk #swsd2"
+  id: 40202202995892224
+  from_user_id: 94110380
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "311983"
+  profile_image_url: http://a1.twimg.com/profile_images/1107785328/ian_chicken_normal.jpg
+  created_at: Tue, 22 Feb 2011 23:53:42 +0000
+  from_user: CydeSwype
+  id_str: "40197569451663361"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @sdtechscene: Enter to win a free ticket to #StartupWeekend San Diego 2 thanks to @KidZui! Details here: http://is.gd/SHJCyk #swsd2"
+  id: 40197569451663361
+  from_user_id: 311983
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "169808499"
+  profile_image_url: http://a2.twimg.com/profile_images/1165257582/twprofile_normal.JPG
+  created_at: Tue, 22 Feb 2011 23:52:30 +0000
+  from_user: MikePmalai
+  id_str: "40197267910565888"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @sdtechscene: Enter to win a free ticket to #StartupWeekend San Diego 2 thanks to @KidZui! Details here: http://is.gd/SHJCyk #swsd2"
+  id: 40197267910565888
+  from_user_id: 169808499
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1382327"
+  profile_image_url: http://a3.twimg.com/profile_images/91566674/n500768715_470650_1405_normal.jpg
+  created_at: Tue, 22 Feb 2011 21:49:48 +0000
+  from_user: khushness
+  id_str: "40166392972058624"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Enter to win a free ticket to #StartupWeekend San Diego 2 thanks to @KidZui! Details here: http://is.gd/SHJCyk #swsd2"
+  id: 40166392972058624
+  from_user_id: 1382327
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "33964227"
+  profile_image_url: http://a0.twimg.com/profile_images/1234354513/facebook_profile_normal.jpg
+  created_at: Tue, 22 Feb 2011 16:47:10 +0000
+  from_user: namestew
+  id_str: "40090232506421248"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @sdtechscene: Don't forget that @KidZui is still giving away one ticket to #StartupWeekend San Diego 2! RT to enter. http://is.gd/SHJCyk #swsd2"
+  id: 40090232506421248
+  from_user_id: 33964227
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "144613565"
+  profile_image_url: http://a2.twimg.com/profile_images/692806760/cooleyHeadShot_normal.jpg
+  created_at: Tue, 22 Feb 2011 06:18:46 +0000
+  from_user: julianImpact
+  id_str: "39932087603695616"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 8348406
+  text: "@GoldVine Cool! Look forward to seeing you there. The schedule and address for #swsd2 are here http://bit.ly/h6TOTW"
+  id: 39932087603695616
+  from_user_id: 144613565
+  to_user: GoldVine
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "8348406"
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "171963889"
+  profile_image_url: http://a0.twimg.com/profile_images/1184485013/twitpic_normal.jpg
+  created_at: Tue, 22 Feb 2011 04:59:38 +0000
+  from_user: Anderson760
+  id_str: "39912173895561217"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @sdtechscene: Enter to win a free ticket to #StartupWeekend San Diego 2 thanks to @KidZui! Details here: http://is.gd/SHJCyk #swsd2"
+  id: 39912173895561217
+  from_user_id: 171963889
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "140023203"
+  profile_image_url: http://a2.twimg.com/profile_images/1116619071/fi-logo_7_2010_normal.png
+  created_at: Mon, 21 Feb 2011 23:51:24 +0000
+  from_user: JeanineJacobson
+  id_str: "39834603191668737"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @julianImpact: Enter to win a free ticket to #StartupWeekend San Diego 2 thanks to @KidZui! Details here: http://is.gd/SHJCyk #swsd2"
+  id: 39834603191668737
+  from_user_id: 140023203
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "51034"
+  profile_image_url: http://a1.twimg.com/profile_images/1208449965/profile_normal.jpg
+  created_at: Mon, 21 Feb 2011 22:48:15 +0000
+  from_user: nicmcc
+  id_str: "39818714492706816"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @julianImpact: Enter to win a free ticket to #StartupWeekend San Diego 2 thanks to @KidZui! Details here: http://is.gd/SHJCyk #swsd2"
+  id: 39818714492706816
+  from_user_id: 51034
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "144613565"
+  profile_image_url: http://a2.twimg.com/profile_images/692806760/cooleyHeadShot_normal.jpg
+  created_at: Mon, 21 Feb 2011 22:39:09 +0000
+  from_user: julianImpact
+  id_str: "39816420640559104"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Enter to win a free ticket to #StartupWeekend San Diego 2 thanks to @KidZui! Details here: http://is.gd/SHJCyk #swsd2"
+  id: 39816420640559104
+  from_user_id: 144613565
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "94110380"
+  profile_image_url: http://a0.twimg.com/profile_images/693846967/twitter-avatar_normal.jpg
+  created_at: Mon, 21 Feb 2011 21:08:28 +0000
+  from_user: sdtechscene
+  id_str: "39793599570911233"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Don't forget that @KidZui is still giving away one ticket to #StartupWeekend San Diego 2! RT to enter. http://is.gd/SHJCyk #swsd2"
+  id: 39793599570911233
+  from_user_id: 94110380
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "129465211"
+  profile_image_url: http://a3.twimg.com/profile_images/1083808861/icon_normal.png
+  created_at: Mon, 21 Feb 2011 18:46:24 +0000
+  from_user: SocialStarfish
+  id_str: "39757850062356480"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @sdtechscene: Enter to win a free ticket to #StartupWeekend San Diego 2 thanks to @KidZui! Details here: http://is.gd/SHJCyk #swsd2"
+  id: 39757850062356480
+  from_user_id: 129465211
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"

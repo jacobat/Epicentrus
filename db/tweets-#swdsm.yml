@@ -1,0 +1,467 @@
+--- 
+- !map:Hashie::Mash 
+  from_user_id_str: "166352782"
+  profile_image_url: http://a0.twimg.com/profile_images/1089192989/41425_1485135270_9220_q_normal.jpg
+  created_at: Sat, 26 Feb 2011 14:26:55 +0000
+  from_user: MidoxTheGeek
+  id_str: "41504488468516864"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @clemcaza: This weekend is awesome :-) #swaustin #swboulder #swdub #swCPH #HoustonSW #SWTunis #SWDSM #startupweekend"
+  id: 41504488468516864
+  from_user_id: 166352782
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "97947579"
+  profile_image_url: http://a3.twimg.com/profile_images/1188109536/dd7457df-98bc-4280-8aa1-4c4c9a810a81_normal.png
+  created_at: Sat, 26 Feb 2011 14:18:00 +0000
+  from_user: clemcaza
+  id_str: "41502242133516288"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "This weekend is awesome :-) #swaustin #swboulder #swdub #swCPH #HoustonSW #SWTunis #SWDSM #startupweekend"
+  id: 41502242133516288
+  from_user_id: 97947579
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "95725831"
+  profile_image_url: http://a2.twimg.com/profile_images/875846983/Twitter_normal.JPG
+  created_at: Sat, 26 Feb 2011 09:20:01 +0000
+  from_user: RiskContainment
+  id_str: "41427254995206144"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Hey #swaustin #swboulder #swcph #swdub #HoustonSW #swsd2 #SWTunis #SWDSM - Check out Copenhagen SW @ http://gignal.com/events/view/18 #swCPH"
+  id: 41427254995206144
+  from_user_id: 95725831
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "97533769"
+  profile_image_url: http://a0.twimg.com/profile_images/729177945/i_normal.jpg
+  created_at: Sat, 26 Feb 2011 05:21:10 +0000
+  from_user: Incipi
+  id_str: "41367145321336832"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Prototype quickly with WorkXpress http://wxp.incipi.net #swaustin #swboulder #swcph #swdub #HoustonSW #swsd2 #SWTunis #SWDSM #startupweekend"
+  id: 41367145321336832
+  from_user_id: 97533769
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "201037360"
+  profile_image_url: http://a1.twimg.com/profile_images/1230834748/StartupIcon_normal.png
+  created_at: Fri, 25 Feb 2011 21:51:29 +0000
+  from_user: SWDesMoines
+  id_str: "41253979828527104"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "No one cares what we eat at #SWDSM? McDonald's it is!"
+  id: 41253979828527104
+  from_user_id: 201037360
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "201037360"
+  profile_image_url: http://a1.twimg.com/profile_images/1230834748/StartupIcon_normal.png
+  created_at: Fri, 25 Feb 2011 21:27:00 +0000
+  from_user: SWDesMoines
+  id_str: "41247817280258048"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "What do you want to eat at #SWDSM? Felix and Oscar's? Jimmy John's? Smokey D's? Other ideas?"
+  id: 41247817280258048
+  from_user_id: 201037360
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "201037360"
+  profile_image_url: http://a1.twimg.com/profile_images/1230834748/StartupIcon_normal.png
+  created_at: Fri, 25 Feb 2011 20:30:41 +0000
+  from_user: SWDesMoines
+  id_str: "41233645540741120"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Over 60 people have signed up for #SWDSM next weekend. That's roughly 30% more than last year and we still have 7 days to go. Woo!"
+  id: 41233645540741120
+  from_user_id: 201037360
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "22964445"
+  profile_image_url: http://a3.twimg.com/profile_images/1202779715/48823_519786791_8257335_n_normal.jpg
+  created_at: Fri, 25 Feb 2011 20:26:22 +0000
+  from_user: bluestemscott
+  id_str: "41232559279046656"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "It would be fun to hack on librarygadget for the weekend but can't spare the time right now. Hope everyone else has fun. #SWDSM"
+  id: 41232559279046656
+  from_user_id: 22964445
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "201037360"
+  profile_image_url: http://a1.twimg.com/profile_images/1230834748/StartupIcon_normal.png
+  created_at: Fri, 25 Feb 2011 19:57:24 +0000
+  from_user: SWDesMoines
+  id_str: "41225266210537472"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 838044
+  text: "@kenny, @jameseliason, @bheme, @abrudtkuhl, @bensinc, and @braddwyer each have a couple more #SWDSM tickets to give away!"
+  id: 41225266210537472
+  from_user_id: 201037360
+  to_user: kenny
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "838044"
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "4089190"
+  profile_image_url: http://a0.twimg.com/profile_images/422214231/headshot_normal.png
+  created_at: Fri, 25 Feb 2011 18:19:12 +0000
+  from_user: jglozano
+  id_str: "41200556362047488"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @SWDesMoines: We have a few free passes left for #SWDSM next weekend. If the ticket price is holding you back, but you want to go, claim one ASAP."
+  id: 41200556362047488
+  from_user_id: 4089190
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "201037360"
+  profile_image_url: http://a1.twimg.com/profile_images/1230834748/StartupIcon_normal.png
+  created_at: Fri, 25 Feb 2011 18:17:40 +0000
+  from_user: SWDesMoines
+  id_str: "41200167931752448"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "We have a few free passes left for #SWDSM next weekend. If the ticket price is holding you back, but you want to go, claim one ASAP."
+  id: 41200167931752448
+  from_user_id: 201037360
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "7035831"
+  profile_image_url: http://a0.twimg.com/profile_images/460033848/0H3K6547_normal.JPG
+  created_at: Fri, 25 Feb 2011 01:38:15 +0000
+  from_user: kate919
+  id_str: "40948658337873920"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 197954034
+  text: "@MesserMarketing  Are you attending? #SWDSM.  http://bit.ly/fN2PVj"
+  id: 40948658337873920
+  from_user_id: 7035831
+  to_user: MesserMarketing
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "197954034"
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "7035831"
+  profile_image_url: http://a0.twimg.com/profile_images/460033848/0H3K6547_normal.JPG
+  created_at: Wed, 23 Feb 2011 18:53:44 +0000
+  from_user: kate919
+  id_str: "40484470662373376"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @SWDesMoines: We have a handful of free tickets left for #SWDSM. Make sure you're doing your part to share this. http://bit.ly/fN2PVj"
+  id: 40484470662373376
+  from_user_id: 7035831
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "106291789"
+  profile_image_url: http://a3.twimg.com/profile_images/471420255/Rob_alt_Pic_normal.jpg
+  created_at: Mon, 21 Feb 2011 21:59:52 +0000
+  from_user: _RobWilliams
+  id_str: "39806537161650176"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @SWDesMoines: We have a handful of free tickets left for #SWDSM. Make sure you're doing your part to share this. http://bit.ly/fN2PVj"
+  id: 39806537161650176
+  from_user_id: 106291789
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "24220088"
+  profile_image_url: http://a3.twimg.com/profile_images/277088976/MYELogo_normal.jpg
+  created_at: Mon, 21 Feb 2011 21:59:02 +0000
+  from_user: MyEntreNet
+  id_str: "39806325106024448"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @SWDesMoines: We have a handful of free tickets left for #SWDSM. Make sure you're doing your part to share this. http://bit.ly/fN2PVj"
+  id: 39806325106024448
+  from_user_id: 24220088
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "151531626"
+  profile_image_url: http://a3.twimg.com/profile_images/1127054455/myAvatar_normal.jpg
+  created_at: Mon, 21 Feb 2011 18:24:35 +0000
+  from_user: DSMWebDev
+  id_str: "39752360574058496"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @FoundryCowork: RT @swdesmoines: We have a handful of free tickets left for #SWDSM. Make sure you're doing your part to share this. http://bit.ly/fN2PVj"
+  id: 39752360574058496
+  from_user_id: 151531626
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "200177872"
+  profile_image_url: http://a2.twimg.com/profile_images/1214738513/n698912605_99353_4091_normal.jpg
+  created_at: Mon, 21 Feb 2011 18:16:40 +0000
+  from_user: _kirps
+  id_str: "39750367692464129"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swdesmoines: We have a handful of free tickets left for #SWDSM. Make sure you're doing your part to share this. http://bit.ly/fN2PVj"
+  id: 39750367692464129
+  from_user_id: 200177872
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.digsby.com/?utm_campaign=twitter&quot; rel=&quot;nofollow&quot;&gt;Digsby&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6660434"
+  profile_image_url: http://a3.twimg.com/profile_images/775569089/FoundryCoworking_4cBlue_normal.png
+  created_at: Mon, 21 Feb 2011 18:05:55 +0000
+  from_user: FoundryCowork
+  id_str: "39747663008108544"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swdesmoines: We have a handful of free tickets left for #SWDSM. Make sure you're doing your part to share this. http://bit.ly/fN2PVj"
+  id: 39747663008108544
+  from_user_id: 6660434
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "8622435"
+  profile_image_url: http://a1.twimg.com/profile_images/1128382024/Hidajat_normal.png
+  created_at: Mon, 21 Feb 2011 18:05:02 +0000
+  from_user: rhidajat
+  id_str: "39747440445751297"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Have a cool idea? Join us! - RT @SWDesMoines: We have a handful of free tickets left for #SWDSM. http://bit.ly/fN2PVj (via @abrudtkuhl)"
+  id: 39747440445751297
+  from_user_id: 8622435
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "10556620"
+  profile_image_url: http://a1.twimg.com/profile_images/221783688/twitter_normal.jpg
+  created_at: Mon, 21 Feb 2011 17:32:45 +0000
+  from_user: aliciacarlo
+  id_str: "39739314912890880"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @macykoch: RT @swdesmoines: We have a handful of free tickets left for #SWDSM. Make sure you're doing your part to share this. http://bit.ly/fN2PVj"
+  id: 39739314912890880
+  from_user_id: 10556620
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "4089190"
+  profile_image_url: http://a0.twimg.com/profile_images/422214231/headshot_normal.png
+  created_at: Mon, 21 Feb 2011 17:20:54 +0000
+  from_user: jglozano
+  id_str: "39736330342633473"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @SWDesMoines: We have a handful of free tickets left for #SWDSM. Make sure you're doing your part to share this. http://bit.ly/fN2PVj"
+  id: 39736330342633473
+  from_user_id: 4089190
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "12514905"
+  profile_image_url: http://a0.twimg.com/profile_images/1184164038/profile_pic_normal.jpg
+  created_at: Mon, 21 Feb 2011 17:20:53 +0000
+  from_user: macykoch
+  id_str: "39736326651777024"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swdesmoines: We have a handful of free tickets left for #SWDSM. Make sure you're doing your part to share this. http://bit.ly/fN2PVj"
+  id: 39736326651777024
+  from_user_id: 12514905
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "838044"
+  profile_image_url: http://a3.twimg.com/profile_images/1225045905/me_normal.jpg
+  created_at: Mon, 21 Feb 2011 17:19:55 +0000
+  from_user: kenny
+  id_str: "39736083721883649"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @SWDesMoines: We have a handful of free tickets left for #SWDSM. Make sure you're doing your part to share this. http://bit.ly/fN2PVj"
+  id: 39736083721883649
+  from_user_id: 838044
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "2229520"
+  profile_image_url: http://a1.twimg.com/profile_images/1113650710/dsc7030242_normal.jpg
+  created_at: Mon, 21 Feb 2011 17:18:08 +0000
+  from_user: norahcarroll
+  id_str: "39735637338890240"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @abrudtkuhl: RT @swdesmoines: We have a handful of free tickets left for #SWDSM. Make sure you're doing your part to share this. http://bit.ly/fN2PVj"
+  id: 39735637338890240
+  from_user_id: 2229520
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "2972"
+  profile_image_url: http://a1.twimg.com/profile_images/639802166/Photo_on_2010-01-18_at_11.59_normal.jpg
+  created_at: Mon, 21 Feb 2011 17:17:51 +0000
+  from_user: abrudtkuhl
+  id_str: "39735565037338624"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swdesmoines: We have a handful of free tickets left for #SWDSM. Make sure you're doing your part to share this. http://bit.ly/fN2PVj"
+  id: 39735565037338624
+  from_user_id: 2972
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "947115"
+  profile_image_url: http://a1.twimg.com/profile_images/1123778965/48WLogo_normal.png
+  created_at: Mon, 21 Feb 2011 17:17:51 +0000
+  from_user: 48Web
+  id_str: "39735563640639488"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swdesmoines: We have a handful of free tickets left for #SWDSM. Make sure you're doing your part to share this. http://bit.ly/fN2PVj"
+  id: 39735563640639488
+  from_user_id: 947115
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "59152198"
+  profile_image_url: http://a3.twimg.com/profile_images/468879675/CatchfireAvatar_normal.jpg
+  created_at: Mon, 21 Feb 2011 17:10:41 +0000
+  from_user: catchfiremedia
+  id_str: "39733761172176896"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @SWDesMoines: We have a handful of free tickets left for #SWDSM. Make sure you're doing your part to share this. http://bit.ly/fN2PVj"
+  id: 39733761172176896
+  from_user_id: 59152198
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "18037577"
+  profile_image_url: http://a2.twimg.com/profile_images/1157244485/vegas_normal.jpg
+  created_at: Mon, 21 Feb 2011 17:06:19 +0000
+  from_user: JsLampe
+  id_str: "39732660418912256"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "This is a no brainer (cc @Jgeneser) RT @SWDesMoines: We have a handful of free tickets left for #SWDSM. Mak\xE2\x80\xA6 (cont) http://deck.ly/~211Tf"
+  id: 39732660418912256
+  from_user_id: 18037577
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "201037360"
+  profile_image_url: http://a1.twimg.com/profile_images/1230834748/StartupIcon_normal.png
+  created_at: Mon, 21 Feb 2011 17:05:31 +0000
+  from_user: SWDesMoines
+  id_str: "39732459541110784"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "We have a handful of free tickets left for #SWDSM. Make sure you're doing your part to share this. http://bit.ly/fN2PVj"
+  id: 39732459541110784
+  from_user_id: 201037360
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"

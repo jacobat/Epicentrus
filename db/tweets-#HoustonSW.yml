@@ -1,0 +1,1964 @@
+--- 
+- !map:Hashie::Mash 
+  from_user_id_str: "166352782"
+  profile_image_url: http://a0.twimg.com/profile_images/1089192989/41425_1485135270_9220_q_normal.jpg
+  created_at: Sat, 26 Feb 2011 14:26:55 +0000
+  from_user: MidoxTheGeek
+  id_str: "41504488468516864"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @clemcaza: This weekend is awesome :-) #swaustin #swboulder #swdub #swCPH #HoustonSW #SWTunis #SWDSM #startupweekend"
+  id: 41504488468516864
+  from_user_id: 166352782
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "97947579"
+  profile_image_url: http://a3.twimg.com/profile_images/1188109536/dd7457df-98bc-4280-8aa1-4c4c9a810a81_normal.png
+  created_at: Sat, 26 Feb 2011 14:18:00 +0000
+  from_user: clemcaza
+  id_str: "41502242133516288"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "This weekend is awesome :-) #swaustin #swboulder #swdub #swCPH #HoustonSW #SWTunis #SWDSM #startupweekend"
+  id: 41502242133516288
+  from_user_id: 97947579
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Sat, 26 Feb 2011 12:26:21 +0000
+  from_user: HoustonSW
+  id_str: "41474147083231232"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @PureCatering RT @kitcheninc: we have some AMAZING sounding pies coming on board for tomorrow's @houstonsw by @lilbakeronline! #HoustonSW"
+  id: 41474147083231232
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Sat, 26 Feb 2011 12:26:21 +0000
+  from_user: sarahmworthy
+  id_str: "41474144851861504"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @PureCatering RT @kitcheninc: we have some AMAZING sounding pies coming on board for tomorrow's @houstonsw by @lilbakeronline! #HoustonSW"
+  id: 41474144851861504
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Sat, 26 Feb 2011 12:25:35 +0000
+  from_user: HoustonSW
+  id_str: "41473953709043712"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @shiondev Heading to @HoustonSW eager to see what the Houston entrepreneurial community has to show #HoustonSW"
+  id: 41473953709043712
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Sat, 26 Feb 2011 12:25:35 +0000
+  from_user: sarahmworthy
+  id_str: "41473951494447104"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @shiondev Heading to @HoustonSW eager to see what the Houston entrepreneurial community has to show #HoustonSW"
+  id: 41473951494447104
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Sat, 26 Feb 2011 12:23:45 +0000
+  from_user: HoustonSW
+  id_str: "41473493090566144"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @mindwallet @sarahmworthy check out http://www.mindwallet.com/home/HoustonSW .  A place to capture what happens this weekend. #HoustonSW"
+  id: 41473493090566144
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Sat, 26 Feb 2011 12:23:45 +0000
+  from_user: sarahmworthy
+  id_str: "41473490192314368"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @mindwallet @sarahmworthy check out http://www.mindwallet.com/home/HoustonSW .  A place to capture what happens this weekend. #HoustonSW"
+  id: 41473490192314368
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "4231132"
+  profile_image_url: http://a3.twimg.com/profile_images/74848522/snow__normal.jpg
+  created_at: Sat, 26 Feb 2011 10:03:21 +0000
+  from_user: nomial
+  id_str: "41438157308309504"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 10789
+  text: "@Scobleizer 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis, #swCPH"
+  id: 41438157308309504
+  from_user_id: 4231132
+  to_user: Scobleizer
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "10789"
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "95725831"
+  profile_image_url: http://a2.twimg.com/profile_images/875846983/Twitter_normal.JPG
+  created_at: Sat, 26 Feb 2011 09:20:01 +0000
+  from_user: RiskContainment
+  id_str: "41427254995206144"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Hey #swaustin #swboulder #swcph #swdub #HoustonSW #swsd2 #SWTunis #SWDSM - Check out Copenhagen SW @ http://gignal.com/events/view/18 #swCPH"
+  id: 41427254995206144
+  from_user_id: 95725831
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Sat, 26 Feb 2011 07:23:08 +0000
+  from_user: HoustonSW
+  id_str: "41397838256680960"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "special for those who are attending the Sun presentations only: buy Sun ticket, come in Sat night after dinner for surprise guest #HoustonSW"
+  id: 41397838256680960
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Sat, 26 Feb 2011 07:21:52 +0000
+  from_user: HoustonSW
+  id_str: "41397521091805185"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "I have sent out the emails to everyone, behind on the online stuff, but cannot wait to see what tomorrow will bring #HoustonSW"
+  id: 41397521091805185
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "95320"
+  profile_image_url: http://a2.twimg.com/profile_images/1209505506/terrifficBlue_normal.jpg
+  created_at: Sat, 26 Feb 2011 06:36:13 +0000
+  from_user: Transition
+  id_str: "41386031450304512"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "My #HoustonSW idea got picked! Time to rise the wind.  \xE2\x80\x9C@Zen_Moments: If you surrender to the wind, you can ride it. ~ Toni Morrison\xE2\x80\x9D"
+  id: 41386031450304512
+  from_user_id: 95320
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Sat, 26 Feb 2011 05:48:01 +0000
+  from_user: HoustonSW
+  id_str: "41373902915510272"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Goodnight everyone at #HoustonSW!  We open tomorrow 9am with #communitycoffee &amp; an awesome breakfast sponsored by #twinflamesproperties"
+  id: 41373902915510272
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Sat, 26 Feb 2011 05:47:24 +0000
+  from_user: sarahmworthy
+  id_str: "41373746635743232"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Goodnight everyone at #HoustonSW!  We open tomorrow 9am with #communitycoffee &amp; an awesome breakfast sponsored by #twinflamesproperties"
+  id: 41373746635743232
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "97533769"
+  profile_image_url: http://a0.twimg.com/profile_images/729177945/i_normal.jpg
+  created_at: Sat, 26 Feb 2011 05:21:10 +0000
+  from_user: Incipi
+  id_str: "41367145321336832"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Prototype quickly with WorkXpress http://wxp.incipi.net #swaustin #swboulder #swcph #swdub #HoustonSW #swsd2 #SWTunis #SWDSM #startupweekend"
+  id: 41367145321336832
+  from_user_id: 97533769
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "2271963"
+  profile_image_url: http://a3.twimg.com/profile_images/72255123/Odd-eyed_logo_--_ImageKind_normal.jpg
+  created_at: Sat, 26 Feb 2011 05:09:32 +0000
+  from_user: odd_eyed
+  id_str: "41364216665481216"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#houstonSW Legal &amp; nursing home teams: I've dealt with those issues. Ask about care-giver &amp; patient needs. &quot;Professionals&quot; not best source."
+  id: 41364216665481216
+  from_user_id: 2271963
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "2271963"
+  profile_image_url: http://a3.twimg.com/profile_images/72255123/Odd-eyed_logo_--_ImageKind_normal.jpg
+  created_at: Sat, 26 Feb 2011 05:03:43 +0000
+  from_user: odd_eyed
+  id_str: "41362752438018048"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#houstonSW Teams: seek out non-techie users to incorporate their experience &amp; needs into product. Knowledge &amp; wisdom asks good questions."
+  id: 41362752438018048
+  from_user_id: 2271963
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "222716754"
+  profile_image_url: http://a1.twimg.com/profile_images/1246450664/MW_normal.png
+  created_at: Sat, 26 Feb 2011 05:00:35 +0000
+  from_user: mindwallet
+  id_str: "41361964777086976"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Here is what happened at #HoustonSW http://bit.ly/fLdq0g #swCPH #swBoulder #swAustin #swDub #swsd2 #swTunis At Yours? http://bit.ly/gVmb2h"
+  id: 41361964777086976
+  from_user_id: 222716754
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Sat, 26 Feb 2011 04:18:53 +0000
+  from_user: HoustonSW
+  id_str: "41351471077400576"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @Transition: @Themoleskin I just pitched @HoustonSW. If everyone hates it I'll pretend it was YOU who pitched. :-) #HoustonSW"
+  id: 41351471077400576
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "264769"
+  profile_image_url: http://a1.twimg.com/profile_images/58725108/tq080822c_normal.jpg
+  created_at: Sat, 26 Feb 2011 03:17:39 +0000
+  from_user: qviews
+  id_str: "41336061627990016"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "The StartUp Weekend is off and running with 10 ideas. Teams are forming. #HoustonSW"
+  id: 41336061627990016
+  from_user_id: 264769
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://rockmelt.com&quot; rel=&quot;nofollow&quot;&gt;RockMelt&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "222716754"
+  profile_image_url: http://a1.twimg.com/profile_images/1246450664/MW_normal.png
+  created_at: Sat, 26 Feb 2011 03:15:53 +0000
+  from_user: mindwallet
+  id_str: "41335617988206592"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "The top 10!  http://bit.ly/dRInHO  We didn't make it but we soldier on! #HoustonSW"
+  id: 41335617988206592
+  from_user_id: 222716754
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "30911"
+  profile_image_url: http://a2.twimg.com/profile_images/937310857/NathanErorTwitter_80X80__normal.jpg
+  created_at: Sat, 26 Feb 2011 02:50:05 +0000
+  from_user: neror
+  id_str: "41329121799835648"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Lots of pitches at #HoustonSW."
+  id: 41329121799835648
+  from_user_id: 30911
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "222716754"
+  profile_image_url: http://a1.twimg.com/profile_images/1246450664/MW_normal.png
+  created_at: Sat, 26 Feb 2011 01:57:00 +0000
+  from_user: mindwallet
+  id_str: "41315766217355264"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Notes for the presentations tonight:  http://bit.ly/dQZ3Bv  #HoustonSW  Add your thoughts on MindWallet."
+  id: 41315766217355264
+  from_user_id: 222716754
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "26043843"
+  profile_image_url: http://a3.twimg.com/profile_images/983274618/011_normal.JPG
+  created_at: Fri, 25 Feb 2011 23:46:34 +0000
+  from_user: adamdani
+  id_str: "41282938515488769"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @digbyj: Startup Weekend themed  #FF #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis - All happening this weekend!!!!!&quot;"
+  id: 41282938515488769
+  from_user_id: 26043843
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\xC2\xAE&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "30911"
+  profile_image_url: http://a2.twimg.com/profile_images/937310857/NathanErorTwitter_80X80__normal.jpg
+  created_at: Fri, 25 Feb 2011 23:41:58 +0000
+  from_user: neror
+  id_str: "41281783974735872"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Fighting traffic to get to #HoustonSW. Looking forward to helping out some perspective entrepreneurs."
+  id: 41281783974735872
+  from_user_id: 30911
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Fri, 25 Feb 2011 23:40:29 +0000
+  from_user: sarahmworthy
+  id_str: "41281410719416322"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Woot, only 10 min. late for #HoustonSW!  #fashionably #effen is here!"
+  id: 41281410719416322
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Fri, 25 Feb 2011 23:28:19 +0000
+  from_user: HoustonSW
+  id_str: "41278345257828352"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @seanrmurphy: #swdub taking on the world - well  #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis  at least ;-)"
+  id: 41278345257828352
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Fri, 25 Feb 2011 23:28:17 +0000
+  from_user: sarahmworthy
+  id_str: "41278337745825792"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @seanrmurphy: #swdub taking on the world - well  #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis  at least ;-)"
+  id: 41278337745825792
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Fri, 25 Feb 2011 22:26:01 +0000
+  from_user: HoustonSW
+  id_str: "41262668929179648"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Want to come to #HoustonSW but can't handle the intensity for all 54hour? Buy a Sunday ticket &amp; watch the judging: http://bit.ly/gPVw7f"
+  id: 41262668929179648
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Fri, 25 Feb 2011 22:11:01 +0000
+  from_user: HoustonSW
+  id_str: "41258894818947072"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Are you ready? #HoustonSW crew is making final preparations!  Doors open at 5:30pm, kickoff at 6:30pm tonight!"
+  id: 41258894818947072
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "24328470"
+  profile_image_url: http://a0.twimg.com/profile_images/402672080/profile-photo_normal.jpg
+  created_at: Fri, 25 Feb 2011 21:31:38 +0000
+  from_user: seanrmurphy
+  id_str: "41248982105718784"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#swdub taking on the world - well  #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis  at least ;-)"
+  id: 41248982105718784
+  from_user_id: 24328470
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "222716754"
+  profile_image_url: http://a1.twimg.com/profile_images/1246450664/MW_normal.png
+  created_at: Fri, 25 Feb 2011 20:37:07 +0000
+  from_user: mindwallet
+  id_str: "41235262826745856"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 21773521
+  text: "@btruax Care to add one more?  Just pushed out MindWallet to hopefully help keep track of #HoustonSW.  Log in at http://www.mindwallet.com"
+  id: 41235262826745856
+  from_user_id: 222716754
+  to_user: btruax
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "21773521"
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Fri, 25 Feb 2011 20:28:01 +0000
+  from_user: sarahmworthy
+  id_str: "41232973252665344"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Crowd sourcing at #HoustonSW Saturday night with special surprise guest: http://bit.ly/dH2x0p Are you coming?"
+  id: 41232973252665344
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "222716754"
+  profile_image_url: http://a1.twimg.com/profile_images/1246450664/MW_normal.png
+  created_at: Fri, 25 Feb 2011 19:36:55 +0000
+  from_user: mindwallet
+  id_str: "41220113801818112"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Tell us about your projects #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis http://www.mindwallet.com/home/StartupWeekend"
+  id: 41220113801818112
+  from_user_id: 222716754
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "222716754"
+  profile_image_url: http://a1.twimg.com/profile_images/1246450664/MW_normal.png
+  created_at: Fri, 25 Feb 2011 19:32:10 +0000
+  from_user: mindwallet
+  id_str: "41218916533407744"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "www.mindwallet.com Launching now @ #houstonsw  Insanely Organized Social Media. Learn more @ http://mindwallet.com/home/howtousemindwallet"
+  id: 41218916533407744
+  from_user_id: 222716754
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "165862946"
+  profile_image_url: http://a2.twimg.com/profile_images/1254547280/purecatering_bigger_normal.png
+  created_at: Fri, 25 Feb 2011 19:03:23 +0000
+  from_user: PureCatering
+  id_str: "41211673700339712"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @sarahmworthy: Anyone with a pickup available to help get tables &amp; chairs from sugarland to #HoustonSW today? Had a vendor bail last min, plz retweet"
+  id: 41211673700339712
+  from_user_id: 165862946
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "113653"
+  profile_image_url: http://a1.twimg.com/profile_images/1240340487/avatar_normal.jpg
+  created_at: Fri, 25 Feb 2011 19:02:22 +0000
+  from_user: beingkatie
+  id_str: "41211417587744768"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @sarahmworthy: @beingkatie &amp; Lorance&amp;Thompson are incredible!  #sponsors #thanks #HoustonSW just picked up a big box from them!"
+  id: 41211417587744768
+  from_user_id: 113653
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "113653"
+  profile_image_url: http://a1.twimg.com/profile_images/1240340487/avatar_normal.jpg
+  created_at: Fri, 25 Feb 2011 19:02:17 +0000
+  from_user: beingkatie
+  id_str: "41211398147145728"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @HoustonSW: @beingkatie &amp; Lorance&amp;Thompson are incredible!  #sponsors #thanks #HoustonSW just picked up a big box from them!"
+  id: 41211398147145728
+  from_user_id: 113653
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6095200"
+  profile_image_url: http://a0.twimg.com/profile_images/1183862552/8fbc98ad-a97e-4a6a-9db1-f486ca655aa2_normal.png
+  created_at: Fri, 25 Feb 2011 18:56:44 +0000
+  from_user: digbyj
+  id_str: "41209999162220544"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Startup Weekend themed #FF #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis - All happening this weekend!!!!!"
+  id: 41209999162220544
+  from_user_id: 6095200
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "981481"
+  profile_image_url: http://a3.twimg.com/profile_images/638232364/photo_normal.jpg
+  created_at: Fri, 25 Feb 2011 18:55:22 +0000
+  from_user: Ramya1
+  id_str: "41209655359180801"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @HoustonSW: Anyone with a pickup available to help get tables &amp; chairs from sugarland to #HoustonSW today? Had a vendor bail last min, plz retweet"
+  id: 41209655359180801
+  from_user_id: 981481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "22284544"
+  profile_image_url: http://a1.twimg.com/profile_images/282483978/logo_for_twitter_normal.png
+  created_at: Fri, 25 Feb 2011 18:46:52 +0000
+  from_user: iotals
+  id_str: "41207516121530368"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41207516121530368
+  from_user_id: 22284544
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1552201"
+  profile_image_url: http://a1.twimg.com/profile_images/947419995/a1aa5be2-a48d-4020-bd08-1de9ea65281c_normal.png
+  created_at: Fri, 25 Feb 2011 18:15:26 +0000
+  from_user: anthonyfitch
+  id_str: "41199605844676608"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @HoustonSW: Anyone with a pickup available to help get tables &amp; chairs from sugarland to #HoustonSW today? Had a vendor bail last min, plz retweet"
+  id: 41199605844676608
+  from_user_id: 1552201
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "836152"
+  profile_image_url: http://a2.twimg.com/profile_images/1089301850/Plumeria__2__normal.jpg
+  created_at: Fri, 25 Feb 2011 18:13:31 +0000
+  from_user: txflygirl
+  id_str: "41199123596197888"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @HoustonSW: Anyone with a pickup available to help get tables &amp; chairs from sugarland to #HoustonSW today? Had a vendor bail last min, plz retweet"
+  id: 41199123596197888
+  from_user_id: 836152
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Fri, 25 Feb 2011 17:59:08 +0000
+  from_user: HoustonSW
+  id_str: "41195505262403584"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Anyone with a pickup available to help get tables &amp; chairs from sugarland to #HoustonSW today? Had a vendor bail last min, plz retweet"
+  id: 41195505262403584
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Fri, 25 Feb 2011 17:59:07 +0000
+  from_user: sarahmworthy
+  id_str: "41195500212469760"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Anyone with a pickup available to help get tables &amp; chairs from sugarland to #HoustonSW today? Had a vendor bail last min, plz retweet"
+  id: 41195500212469760
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "20888261"
+  profile_image_url: http://a3.twimg.com/profile_images/793630105/Picture_2_normal.png
+  created_at: Fri, 25 Feb 2011 17:02:53 +0000
+  from_user: DKMayer
+  id_str: "41181351499677696"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41181351499677696
+  from_user_id: 20888261
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Fri, 25 Feb 2011 17:00:00 +0000
+  from_user: sarahmworthy
+  id_str: "41180623003598848"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#HoustonSW (@ Pappas Bar-B-Q) http://4sq.com/eTuIZW"
+  id: 41180623003598848
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: fr
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://foursquare.com&quot; rel=&quot;nofollow&quot;&gt;foursquare&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "35127854"
+  profile_image_url: http://a1.twimg.com/profile_images/128721845/dennis_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:55:38 +0000
+  from_user: dblynov
+  id_str: "41179525626855424"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41179525626855424
+  from_user_id: 35127854
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:53:07 +0000
+  from_user: HoustonSW
+  id_str: "41178890663632897"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41178890663632897
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Fri, 25 Feb 2011 16:53:06 +0000
+  from_user: sarahmworthy
+  id_str: "41178887475961856"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41178887475961856
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "94667567"
+  profile_image_url: http://a0.twimg.com/profile_images/675029842/bl_g_rdsgade_normal.JPG
+  created_at: Fri, 25 Feb 2011 16:49:31 +0000
+  from_user: silversen
+  id_str: "41177985948192769"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swCPH: RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41177985948192769
+  from_user_id: 94667567
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:41:01 +0000
+  from_user: HoustonSW
+  id_str: "41175846765072385"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Are you coming to #HoustonSW? Bring your waffle iron: http://bit.ly/etOJRX #startupdigest #startupweekend"
+  id: 41175846765072385
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "165916940"
+  profile_image_url: http://a3.twimg.com/profile_images/1213167426/d04f5c5c-ca4b-43c2-87c9-e9d12b3832dd_normal.png
+  created_at: Fri, 25 Feb 2011 16:40:01 +0000
+  from_user: slimKhan
+  id_str: "41175595945693184"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41175595945693184
+  from_user_id: 165916940
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "75614016"
+  profile_image_url: http://a1.twimg.com/profile_images/1247161805/edited_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:39:43 +0000
+  from_user: KaisEG
+  id_str: "41175518002950145"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41175518002950145
+  from_user_id: 75614016
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:37:11 +0000
+  from_user: HoustonSW
+  id_str: "41174882435870721"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 113653
+  text: "@beingkatie &amp; Lorance&amp;Thompson are incredible!  #sponsors #thanks #HoustonSW just picked up a big box from them!"
+  id: 41174882435870721
+  from_user_id: 180042472
+  to_user: beingkatie
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "113653"
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Fri, 25 Feb 2011 16:37:10 +0000
+  from_user: sarahmworthy
+  id_str: "41174878241554432"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 113653
+  text: "@beingkatie &amp; Lorance&amp;Thompson are incredible!  #sponsors #thanks #HoustonSW just picked up a big box from them!"
+  id: 41174878241554432
+  from_user_id: 85857481
+  to_user: beingkatie
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "113653"
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "791031"
+  profile_image_url: http://a3.twimg.com/profile_images/803754510/n689968178_324295_4585_copy_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:36:15 +0000
+  from_user: nopstrup
+  id_str: "41174647936528384"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41174647936528384
+  from_user_id: 791031
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "132944"
+  profile_image_url: http://a2.twimg.com/profile_images/1121281829/ioio_normal.png
+  created_at: Fri, 25 Feb 2011 16:33:37 +0000
+  from_user: encinar
+  id_str: "41173983332274176"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekend starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis &amp; #swCPH"
+  id: 41173983332274176
+  from_user_id: 132944
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "23520418"
+  profile_image_url: http://a1.twimg.com/profile_images/1184060280/dfa1987b-a4d2-4377-b3cf-507dbf4c32af_normal.png
+  created_at: Fri, 25 Feb 2011 16:33:24 +0000
+  from_user: gairifo
+  id_str: "41173927875198976"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @SBootcamp: RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41173927875198976
+  from_user_id: 23520418
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "186194358"
+  profile_image_url: http://a3.twimg.com/profile_images/1192158925/SW_beaker_denmark_normal.png
+  created_at: Fri, 25 Feb 2011 16:32:33 +0000
+  from_user: swCPH
+  id_str: "41173715727298560"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41173715727298560
+  from_user_id: 186194358
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "74847355"
+  profile_image_url: http://a3.twimg.com/profile_images/691394022/sbc_twitter_normal.gif
+  created_at: Fri, 25 Feb 2011 16:32:32 +0000
+  from_user: SBootcamp
+  id_str: "41173713055387648"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41173713055387648
+  from_user_id: 74847355
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "81193246"
+  profile_image_url: http://a3.twimg.com/profile_images/1231932826/Alex_normal.JPG
+  created_at: Fri, 25 Feb 2011 16:31:31 +0000
+  from_user: alexfarcet
+  id_str: "41173457333010432"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41173457333010432
+  from_user_id: 81193246
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Fri, 25 Feb 2011 14:28:30 +0000
+  from_user: sarahmworthy
+  id_str: "41142497002532864"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @HoustonSW: Crowd sourcing at #HoustonSW Saturday night with special surprise guest: http://bit.ly/dH2x0p Are you coming?"
+  id: 41142497002532864
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Fri, 25 Feb 2011 14:27:43 +0000
+  from_user: HoustonSW
+  id_str: "41142298775519233"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "! RT @tatermarketing: Preparing for #houstonSW My bro is coming from #okstate to execute our plans of world domination with our new startup"
+  id: 41142298775519233
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Fri, 25 Feb 2011 14:25:18 +0000
+  from_user: HoustonSW
+  id_str: "41141692153348096"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Crowd sourcing at #HoustonSW Saturday night with special surprise guest: http://bit.ly/dH2x0p Are you coming?"
+  id: 41141692153348096
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "215627038"
+  profile_image_url: http://a1.twimg.com/profile_images/1244683631/tot_normal.jpg
+  created_at: Fri, 25 Feb 2011 14:08:44 +0000
+  from_user: tatermarketing
+  id_str: "41137523610763264"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Preparing for #houstonSW My bro is coming down from #okstate to execute our plans of world domination with our new startup ;)"
+  id: 41137523610763264
+  from_user_id: 215627038
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Fri, 25 Feb 2011 13:45:17 +0000
+  from_user: HoustonSW
+  id_str: "41131622107590656"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Thanks again @Do713 for sponsoring #HoustonSW as a featured event! We can't wait to see you this weekend: http://bit.ly/hV8due"
+  id: 41131622107590656
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Fri, 25 Feb 2011 13:45:16 +0000
+  from_user: sarahmworthy
+  id_str: "41131616340426752"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Thanks again @Do713 for sponsoring #HoustonSW as a featured event! We can't wait to see you this weekend: http://bit.ly/hV8due"
+  id: 41131616340426752
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Fri, 25 Feb 2011 12:42:08 +0000
+  from_user: HoustonSW
+  id_str: "41115730699227136"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "We are so close to #soldout: http://bit.ly/i20Lr2  (there are more tickets listed than we have left due to categories) #HoustonSW"
+  id: 41115730699227136
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Fri, 25 Feb 2011 12:39:36 +0000
+  from_user: HoustonSW
+  id_str: "41115093521534978"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 30115946
+  text: "@olgayefimova we are using #HoustonSW - thanks!"
+  id: 41115093521534978
+  from_user_id: 180042472
+  to_user: olgayefimova
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "30115946"
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Fri, 25 Feb 2011 11:47:03 +0000
+  from_user: HoustonSW
+  id_str: "41101866775486465"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "We have a couple of broke #HCC college students who want to come to #HoustonSW, anyone want to sponsor them? Msg us! Plz retweet"
+  id: 41101866775486465
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Thu, 24 Feb 2011 17:30:17 +0000
+  from_user: HoustonSW
+  id_str: "40825856251142145"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Want to come to #HoustonSW but can't handle the intensity for all 54hour? Buy a Sunday ticket &amp; watch the judging: http://bit.ly/gPVw7f"
+  id: 40825856251142145
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Thu, 24 Feb 2011 17:24:46 +0000
+  from_user: HoustonSW
+  id_str: "40824469958172672"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 49838806
+  text: "@GoodeCompany  we're looking for some #BBQ quotes for ~75 people Sunday for #HoustonSW and you are on my afternoon call list"
+  id: 40824469958172672
+  from_user_id: 180042472
+  to_user: GoodeCompany
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "49838806"
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "912120"
+  profile_image_url: http://a3.twimg.com/profile_images/71901703/Twitter_pic_normal.jpg
+  created_at: Thu, 24 Feb 2011 17:12:03 +0000
+  from_user: bcohen01
+  id_str: "40821267431038976"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @HoustonSW: We have sold out of #jackofalltrade tickets for #HoustonSW!  Not many tixs left overall: http://bit.ly/gPVw7f  #startupweekend"
+  id: 40821267431038976
+  from_user_id: 912120
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Thu, 24 Feb 2011 17:05:40 +0000
+  from_user: HoustonSW
+  id_str: "40819660949553152"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "We have sold out of #jackofalltrade tickets for #HoustonSW!  Not many tixs left overall: http://bit.ly/gPVw7f  #startupweekend"
+  id: 40819660949553152
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Thu, 24 Feb 2011 16:59:02 +0000
+  from_user: sarahmworthy
+  id_str: "40817994741321728"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "good tip!  I'll add them to the list to call today thanks.  #HoustonSW RT @sclanham: @sarahmworthy try Central Texas BBQ in Pearland"
+  id: 40817994741321728
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Thu, 24 Feb 2011 16:21:53 +0000
+  from_user: HoustonSW
+  id_str: "40808643775430656"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "who do you think could feed ~75 people #BBQ Sunday for #HoustonSW? I'm taking down quotes and recommendations!"
+  id: 40808643775430656
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Thu, 24 Feb 2011 16:13:10 +0000
+  from_user: HoustonSW
+  id_str: "40806452138352640"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "With help from @btruax , #HoustonSW just invented a fun game for Friday night kick-off! http://bit.ly/gPVw7f hint: #rodeo is in town"
+  id: 40806452138352640
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Thu, 24 Feb 2011 15:31:23 +0000
+  from_user: HoustonSW
+  id_str: "40795936389206016"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "The countdown to #HoustonSW begins! Less than 2 days until kick-off Feb 25th: http://bit.ly/i20Lr2 will you be there?"
+  id: 40795936389206016
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Thu, 24 Feb 2011 15:22:19 +0000
+  from_user: HoustonSW
+  id_str: "40793651684573184"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#HoustonSW has a facebook page: http://on.fb.me/ehQg9o  please come &quot;like&quot; us and help us get 25 fans!"
+  id: 40793651684573184
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Thu, 24 Feb 2011 14:41:39 +0000
+  from_user: HoustonSW
+  id_str: "40783421131198464"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Are you coming to #HoustonSW? Bring your waffle iron: http://bit.ly/etOJRX #startupdigest  #startupweekend"
+  id: 40783421131198464
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Thu, 24 Feb 2011 13:27:22 +0000
+  from_user: HoustonSW
+  id_str: "40764725214060544"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#HoustonSW has some #girlpower behind it too!  RT @marc1919: 25 Women-Run Startups to Watch http://tinyurl.com/6jmflq3 @fastcompany"
+  id: 40764725214060544
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Thu, 24 Feb 2011 13:11:11 +0000
+  from_user: HoustonSW
+  id_str: "40760650800041984"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "If you can't make it to #HoustonSW but want to show your support: http://bit.ly/g2rpfu after you click &quot;order now&quot;, you can specify #Houston"
+  id: 40760650800041984
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Wed, 23 Feb 2011 22:28:02 +0000
+  from_user: HoustonSW
+  id_str: "40538400318554113"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "I am now #impressed with @Clear and SO appreciative #lastminute #sponsor #HoustonSW very awesome job! u too @beingkatie #gianthug"
+  id: 40538400318554113
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Wed, 23 Feb 2011 21:35:19 +0000
+  from_user: HoustonSW
+  id_str: "40525133286354944"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "What's better than #Effen at #HoustonSW? #Effen and #MakersMark at #HoustonSW: http://bit.ly/e2LPem #sponsors"
+  id: 40525133286354944
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Wed, 23 Feb 2011 19:27:59 +0000
+  from_user: sarahmworthy
+  id_str: "40493091072774144"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @HoustonSW: #HoustonSW registrants- just wait &amp; see what I picked up from our #Effen &amp; #MakersMark #sponsors #ThankYou"
+  id: 40493091072774144
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Wed, 23 Feb 2011 19:27:52 +0000
+  from_user: HoustonSW
+  id_str: "40493058499813377"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#HoustonSW registrants- just wait &amp; see what I picked up from our #Effen &amp; #MakersMark #sponsors #ThankYou"
+  id: 40493058499813377
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Wed, 23 Feb 2011 18:09:08 +0000
+  from_user: HoustonSW
+  id_str: "40473246272978944"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Tonight #HoustonSW and #startupdigest will have a poster at TIWH Poster Presentation Happy Hour! #thanks http://bit.ly/fDwqgb"
+  id: 40473246272978944
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Wed, 23 Feb 2011 18:09:06 +0000
+  from_user: sarahmworthy
+  id_str: "40473237158768640"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Tonight #HoustonSW and #startupdigest will have a poster at TIWH Poster Presentation Happy Hour! #thanks http://bit.ly/fDwqgb"
+  id: 40473237158768640
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Wed, 23 Feb 2011 17:46:44 +0000
+  from_user: HoustonSW
+  id_str: "40467607228395520"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Forbes Magazine: Startup Weekend is a name to know in 2011: http://bit.ly/hxQvV5 #HoustonSW #startup #startupdigest"
+  id: 40467607228395520
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Wed, 23 Feb 2011 17:46:43 +0000
+  from_user: sarahmworthy
+  id_str: "40467604787310592"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Forbes Magazine: Startup Weekend is a name to know in 2011: http://bit.ly/hxQvV5 #HoustonSW #startup #startupdigest"
+  id: 40467604787310592
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Wed, 23 Feb 2011 17:30:01 +0000
+  from_user: HoustonSW
+  id_str: "40463402543493120"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Want to come to #HoustonSW but can't handle the intensity for all 54hour? Buy a Sunday ticket &amp; watch the judging: http://bit.ly/gPVw7f"
+  id: 40463402543493120
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Wed, 23 Feb 2011 16:56:44 +0000
+  from_user: HoustonSW
+  id_str: "40455025381748736"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Make sure to bring out a #waffleiron Sunday for #HoustonSW if you have one for #startupwaffles details coming soon! #startupdigest"
+  id: 40455025381748736
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Wed, 23 Feb 2011 16:56:42 +0000
+  from_user: sarahmworthy
+  id_str: "40455016254935040"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Make sure to bring out a #waffleiron Sunday for #HoustonSW if you have one for #startupwaffles details coming soon! #startupdigest"
+  id: 40455016254935040
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "18759"
+  profile_image_url: http://a2.twimg.com/profile_images/1188773305/Bulldog_Logo_Standard_Left_normal.jpg
+  created_at: Wed, 23 Feb 2011 13:33:57 +0000
+  from_user: marc1919
+  id_str: "40403992806825985"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @HoustonSW: We are seeking prize sponsors for our winning teams and registrants, contact us if you are interested! http://bit.ly/gPVw7f #HoustonSW"
+  id: 40403992806825985
+  from_user_id: 18759
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Wed, 23 Feb 2011 13:32:00 +0000
+  from_user: sarahmworthy
+  id_str: "40403504052965376"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @HoustonSW: The countdown to #HoustonSW begins! Less than 3 days until kick-off Feb 25th: http://bit.ly/i20Lr2 will you be there?"
+  id: 40403504052965376
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Wed, 23 Feb 2011 13:30:56 +0000
+  from_user: HoustonSW
+  id_str: "40403235151806464"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "We are seeking prize sponsors for our winning teams and registrants, contact us if you are interested! http://bit.ly/gPVw7f #HoustonSW"
+  id: 40403235151806464
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Wed, 23 Feb 2011 13:30:25 +0000
+  from_user: HoustonSW
+  id_str: "40403104679735296"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "The countdown to #HoustonSW begins! Less than 3 days until kick-off Feb 25th: http://bit.ly/i20Lr2 final agenda will be posted tonight!"
+  id: 40403104679735296
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Tue, 22 Feb 2011 23:52:17 +0000
+  from_user: HoustonSW
+  id_str: "40197213162307584"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "After #HoustonSW and #SXSWi - #yurisnight April 12th! http://bit.ly/ep3WCO #sponsorswanted"
+  id: 40197213162307584
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Tue, 22 Feb 2011 23:52:15 +0000
+  from_user: sarahmworthy
+  id_str: "40197206614999040"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "After #HoustonSW and #SXSWi - #yurisnight April 12th! http://bit.ly/ep3WCO #sponsorswanted"
+  id: 40197206614999040
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Tue, 22 Feb 2011 21:27:22 +0000
+  from_user: HoustonSW
+  id_str: "40160743659798528"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#Houston is the best city ever and the #startup and #entrepreneurial community here is unrivaled. #THANKS to all helping with #HoustonSW"
+  id: 40160743659798528
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Tue, 22 Feb 2011 21:27:21 +0000
+  from_user: sarahmworthy
+  id_str: "40160740946100224"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#Houston is the best city ever and the #startup and #entrepreneurial community here is unrivaled. #THANKS to all helping with #HoustonSW"
+  id: 40160740946100224
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "205631706"
+  profile_image_url: http://a1.twimg.com/profile_images/1222439224/photo7_normal.jpg
+  created_at: Tue, 22 Feb 2011 18:08:12 +0000
+  from_user: singanu
+  id_str: "40110623476023296"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @HoustonSW: Gain exposure to #Houston entrepreneurs, investors, incubators, and other community leaders- sponsor #HoustonSW http://bit.ly/f7dTnJ #swag"
+  id: 40110623476023296
+  from_user_id: 205631706
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Tue, 22 Feb 2011 17:30:33 +0000
+  from_user: HoustonSW
+  id_str: "40101149742866432"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Want to come to #HoustonSW but can't handle the intensity for all 54hour? Buy a Sunday ticket &amp; watch the judging: http://bit.ly/gPVw7f"
+  id: 40101149742866432
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Tue, 22 Feb 2011 17:21:58 +0000
+  from_user: HoustonSW
+  id_str: "40098988468207616"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Tickets are going fast, but we have just 1 week before #HoustonSW: http://bit.ly/i20Lr2 help us sell out the house!"
+  id: 40098988468207616
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Tue, 22 Feb 2011 17:21:45 +0000
+  from_user: HoustonSW
+  id_str: "40098932306608128"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Gain exposure to #Houston entrepreneurs, investors, incubators, and other community leaders- sponsor #HoustonSW http://bit.ly/f7dTnJ #swag"
+  id: 40098932306608128
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Tue, 22 Feb 2011 16:54:07 +0000
+  from_user: HoustonSW
+  id_str: "40091979266277376"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 194864
+  text: "@gracerodriguez I'm putting all the schedule/agenda stuff together but still waiting on a few items #HoustonSW #speakers #agenda"
+  id: 40091979266277376
+  from_user_id: 180042472
+  to_user: gracerodriguez
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "194864"
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Tue, 22 Feb 2011 15:11:26 +0000
+  from_user: HoustonSW
+  id_str: "40066140667527169"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 215627038
+  text: "@tatermarketing Check out our #FAQ here: http://bit.ly/eMenln and let me know if you have anyone who wants to #sponsor us!  #HoustonSW"
+  id: 40066140667527169
+  from_user_id: 180042472
+  to_user: tatermarketing
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "215627038"
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "215627038"
+  profile_image_url: http://a1.twimg.com/profile_images/1244683631/tot_normal.jpg
+  created_at: Tue, 22 Feb 2011 15:07:20 +0000
+  from_user: tatermarketing
+  id_str: "40065105446187008"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 85857481
+  text: "@sarahmworthy #HoustonSW What do I need to bring? Chair, Table, WiFi Card, Power Strips, Food, Laptop, Desktop, etc."
+  id: 40065105446187008
+  from_user_id: 215627038
+  to_user: sarahmworthy
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "85857481"
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "215627038"
+  profile_image_url: http://a1.twimg.com/profile_images/1244683631/tot_normal.jpg
+  created_at: Tue, 22 Feb 2011 15:03:52 +0000
+  from_user: tatermarketing
+  id_str: "40064232976285696"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Going to Houston Startup Weekend http://t.co/jPKhvu1 #HoustonSW"
+  id: 40064232976285696
+  from_user_id: 215627038
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/tweetbutton&quot; rel=&quot;nofollow&quot;&gt;Tweet Button&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Tue, 22 Feb 2011 14:17:10 +0000
+  from_user: HoustonSW
+  id_str: "40052481543254016"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "5 more tickets sold this AM! Make sure you don't wait until the last minute or #HoustonSW will be #soldout http://bit.ly/i20Lr2"
+  id: 40052481543254016
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Tue, 22 Feb 2011 00:03:43 +0000
+  from_user: sarahmworthy
+  id_str: "39837703876907008"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 173187912
+  text: "@alexthedriver I need a raincheck for the Houston Twitter Dead Cow Eating Society meetup and the Wordpress meetup until after #HoustonSW"
+  id: 39837703876907008
+  from_user_id: 85857481
+  to_user: alexthedriver
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "173187912"
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Mon, 21 Feb 2011 23:32:14 +0000
+  from_user: HoustonSW
+  id_str: "39829782854246400"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "We have a #mystery special event Saturday after dinner and I can't tell you until #satnight: http://bit.ly/i20Lr2 #HoustonSW"
+  id: 39829782854246400
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Mon, 21 Feb 2011 23:29:39 +0000
+  from_user: sarahmworthy
+  id_str: "39829131986337793"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 173187912
+  text: "@alexthedriver how last minute can I rsvp for that? and i'm really swamped getting ready for #HoustonSW among everything"
+  id: 39829131986337793
+  from_user_id: 85857481
+  to_user: alexthedriver
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "173187912"
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Mon, 21 Feb 2011 22:46:00 +0000
+  from_user: HoustonSW
+  id_str: "39818144570814464"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @OpenCoffeeHOU: Let's support the Houston startup community! We are looking for fun giveaways Gift cards,software,flash... #HoustonSW"
+  id: 39818144570814464
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Mon, 21 Feb 2011 22:44:58 +0000
+  from_user: HoustonSW
+  id_str: "39817885010501632"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @bcohen01: Thank you to @chocolatdarte for agreeing to support Startup Weekend Houston #HoustonSW"
+  id: 39817885010501632
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "912120"
+  profile_image_url: http://a3.twimg.com/profile_images/71901703/Twitter_pic_normal.jpg
+  created_at: Mon, 21 Feb 2011 20:57:32 +0000
+  from_user: bcohen01
+  id_str: "39790850397446144"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @HoustonSW: #HoustonSW now has a Facebook page - http://on.fb.me/ehQg9o Please go &quot;like&quot; it and tell others!"
+  id: 39790850397446144
+  from_user_id: 912120
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "912120"
+  profile_image_url: http://a3.twimg.com/profile_images/71901703/Twitter_pic_normal.jpg
+  created_at: Mon, 21 Feb 2011 20:57:26 +0000
+  from_user: bcohen01
+  id_str: "39790825034481664"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @HoustonSW: We are seeking prize sponsors for our winning teams and registrants, contact us if you are interested! http://bit.ly/gPVw7f #HoustonSW"
+  id: 39790825034481664
+  from_user_id: 912120
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Mon, 21 Feb 2011 17:30:29 +0000
+  from_user: HoustonSW
+  id_str: "39738745666146304"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Want to come to #HoustonSW but can't handle the intensity for all 54hour? Buy a Sunday ticket &amp; watch the judging: http://bit.ly/gPVw7f"
+  id: 39738745666146304
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Mon, 21 Feb 2011 16:13:01 +0000
+  from_user: HoustonSW
+  id_str: "39719249262022656"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "We are seeking prize sponsors for our winning teams and registrants, contact us if you are interested! http://bit.ly/gPVw7f #HoustonSW"
+  id: 39719249262022656
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Mon, 21 Feb 2011 16:01:03 +0000
+  from_user: HoustonSW
+  id_str: "39716235579105280"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#HoustonSW now has a Facebook page - http://on.fb.me/ehQg9o Please go &quot;like&quot; it and tell others!"
+  id: 39716235579105280
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
