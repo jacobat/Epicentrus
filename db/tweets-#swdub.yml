@@ -1477,114 +1477,326 @@
   to_user_id_str: "418725"
   source: "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter for Android&lt;/a&gt;"
 - !map:Hashie::Mash 
-  from_user_id_str: "14280135"
-  profile_image_url: http://a3.twimg.com/profile_images/1250590957/profilePic2_normal.jpg
-  created_at: Thu, 24 Feb 2011 08:25:48 +0000
-  from_user: stephendowney
-  id_str: "40688834781913088"
-  metadata: !map:Hashie::Mash 
-    result_type: recent
-  to_user_id: 
-  text: "&quot;@ei_pbrowne: Just announced - new #EntIrl fund for #Cloud #Saas and Games #Startups - 2 week deadline, more at http://t.co/Yv2l2lu&quot; #swdub"
-  id: 40688834781913088
-  from_user_id: 14280135
-  geo: 
-  iso_language_code: en
-  to_user_id_str: 
-  source: "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter for Android&lt;/a&gt;"
-- !map:Hashie::Mash 
-  from_user_id_str: "14280135"
-  profile_image_url: http://a3.twimg.com/profile_images/1250590957/profilePic2_normal.jpg
-  created_at: Wed, 23 Feb 2011 22:31:08 +0000
-  from_user: stephendowney
-  id_str: "40539182182965248"
-  metadata: !map:Hashie::Mash 
-    result_type: recent
-  to_user_id: 
-  text: "Having the Craic at #swdub"
-  id: 40539182182965248
-  from_user_id: 14280135
-  geo: 
-  iso_language_code: en
-  to_user_id_str: 
-  source: "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter for Android&lt;/a&gt;"
-- !map:Hashie::Mash 
-  from_user_id_str: "4231132"
-  profile_image_url: http://a3.twimg.com/profile_images/74848522/snow__normal.jpg
-  created_at: Wed, 23 Feb 2011 20:24:00 +0000
-  from_user: nomial
-  id_str: "40507184475418624"
-  metadata: !map:Hashie::Mash 
-    result_type: recent
-  to_user_id: 
-  text: "On my way to startup meet-up! #swdub"
-  id: 40507184475418624
-  from_user_id: 4231132
-  geo: 
-  iso_language_code: en
-  to_user_id_str: 
-  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
-- !map:Hashie::Mash 
-  from_user_id_str: "14280135"
-  profile_image_url: http://a3.twimg.com/profile_images/1250590957/profilePic2_normal.jpg
-  created_at: Wed, 23 Feb 2011 18:56:20 +0000
-  from_user: stephendowney
-  id_str: "40485126362243072"
-  metadata: !map:Hashie::Mash 
-    result_type: recent
-  to_user_id: 
-  text: "Home for dinner then back into town for #swdub"
-  id: 40485126362243072
-  from_user_id: 14280135
-  geo: 
-  iso_language_code: en
-  to_user_id_str: 
-  source: "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter for Android&lt;/a&gt;"
-- !map:Hashie::Mash 
   from_user_id_str: "22284544"
   profile_image_url: http://a1.twimg.com/profile_images/282483978/logo_for_twitter_normal.png
-  created_at: Wed, 23 Feb 2011 13:07:20 +0000
+  created_at: Sat, 26 Feb 2011 18:30:08 +0000
   from_user: iotals
-  id_str: "40397294453006337"
+  id_str: "41565695259062272"
   metadata: !map:Hashie::Mash 
     result_type: recent
   to_user_id: 
-  text: "RT @stephendowney: Startup Weekend Dublin Schedule for this weekend: http://bit.ly/gMgLsK #swdub"
-  id: 40397294453006337
+  text: "RT @clemcaza: Facilitating #StartupWeekend Dubin! Which take place in an old fashion Guiness building. Love the spirit of the teams :-) #swdub"
+  id: 41565695259062272
   from_user_id: 22284544
   geo: 
   iso_language_code: en
   to_user_id_str: 
-  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
 - !map:Hashie::Mash 
-  from_user_id_str: "24221748"
-  profile_image_url: http://a3.twimg.com/profile_images/1136601939/shot_1286117789349_normal.jpg
-  created_at: Wed, 23 Feb 2011 13:06:28 +0000
-  from_user: raphaelsavina
-  id_str: "40397077259354112"
+  from_user_id_str: "3300650"
+  profile_image_url: http://a2.twimg.com/profile_images/121318263/Ainc-logo1_normal.jpg
+  created_at: Sat, 26 Feb 2011 18:20:17 +0000
+  from_user: awesome_inc
+  id_str: "41563214777040896"
   metadata: !map:Hashie::Mash 
     result_type: recent
   to_user_id: 
-  text: "RT @stephendowney: Startup Weekend Dublin Schedule for this weekend: http://bit.ly/gMgLsK #swdub"
-  id: 40397077259354112
-  from_user_id: 24221748
+  text: "RT @SBootcamp: RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41563214777040896
+  from_user_id: 3300650
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "97947579"
+  profile_image_url: http://a3.twimg.com/profile_images/1188109536/dd7457df-98bc-4280-8aa1-4c4c9a810a81_normal.png
+  created_at: Sat, 26 Feb 2011 17:54:37 +0000
+  from_user: clemcaza
+  id_str: "41556758510043136"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Are you made to build a startup or just losers? http://t.co/rJxTHbU #swdub #swtunis #swcph #startupweekend"
+  id: 41556758510043136
+  from_user_id: 97947579
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "68114281"
+  profile_image_url: http://a3.twimg.com/profile_images/1136852049/image_normal.jpg
+  created_at: Sat, 26 Feb 2011 17:15:43 +0000
+  from_user: hayespr
+  id_str: "41546967687495680"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @CorinnaHardgrav: Brilliant session at the NDRC start up weekend, great ideas, great energy, and Conor Murphy of DataHug a complete star.  #SWDub"
+  id: 41546967687495680
+  from_user_id: 68114281
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "210113523"
+  profile_image_url: http://a3.twimg.com/profile_images/1229204041/61464_441549573366_581153366_5485871_6720461_n_normal.jpg
+  created_at: Sat, 26 Feb 2011 17:04:39 +0000
+  from_user: briandaly_ie
+  id_str: "41544180719157248"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "more codeing  #swaustin #swboulder #swdub #swCPH #HoustonSW #SWTunis #SWDSM #startupweekend http://t.co/ZZ1mRMM http://twitpic.com/440l59"
+  id: 41544180719157248
+  from_user_id: 210113523
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitpic.com&quot; rel=&quot;nofollow&quot;&gt;Twitpic&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "210113523"
+  profile_image_url: http://a3.twimg.com/profile_images/1229204041/61464_441549573366_581153366_5485871_6720461_n_normal.jpg
+  created_at: Sat, 26 Feb 2011 17:03:38 +0000
+  from_user: briandaly_ie
+  id_str: "41543927051853824"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Coders in action!  #swaustin #swboulder #swdub #swCPH #HoustonSW #SWTunis #SWDSM #startupweekend http://t.co/ZZ1mR http://twitpic.com/440kri"
+  id: 41543927051853824
+  from_user_id: 210113523
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitpic.com&quot; rel=&quot;nofollow&quot;&gt;Twitpic&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "210113523"
+  profile_image_url: http://a3.twimg.com/profile_images/1229204041/61464_441549573366_581153366_5485871_6720461_n_normal.jpg
+  created_at: Sat, 26 Feb 2011 16:56:20 +0000
+  from_user: briandaly_ie
+  id_str: "41542087119867904"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "briandaly_ie: change me! @ swdub  #swaustin #swboulder #swdub #swCPH #HoustonSW #SWTunis #SWDSM #startupweekend http://t.co/ZZ1mRMM"
+  id: 41542087119867904
+  from_user_id: 210113523
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "210113523"
+  profile_image_url: http://a3.twimg.com/profile_images/1229204041/61464_441549573366_581153366_5485871_6720461_n_normal.jpg
+  created_at: Sat, 26 Feb 2011 16:56:06 +0000
+  from_user: briandaly_ie
+  id_str: "41542028902928384"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Geeks are funny too! #swaustin #swboulder #swdub #swCPH #Hou... on Twitpic http://t.co/bJcmS82"
+  id: 41542028902928384
+  from_user_id: 210113523
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "210113523"
+  profile_image_url: http://a3.twimg.com/profile_images/1229204041/61464_441549573366_581153366_5485871_6720461_n_normal.jpg
+  created_at: Sat, 26 Feb 2011 16:55:37 +0000
+  from_user: briandaly_ie
+  id_str: "41541909541294081"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "http://t.co/QXD5mfK - Net-Ocracy @ Startup weekend Dublin Day 2 in picture #swdub"
+  id: 41541909541294081
+  from_user_id: 210113523
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "210113523"
+  profile_image_url: http://a3.twimg.com/profile_images/1229204041/61464_441549573366_581153366_5485871_6720461_n_normal.jpg
+  created_at: Sat, 26 Feb 2011 16:54:53 +0000
+  from_user: briandaly_ie
+  id_str: "41541722953625600"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Startup weekend Dublin Day 2 in picture #swdub http://t.co/QZYpYjK"
+  id: 41541722953625600
+  from_user_id: 210113523
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "4432246"
+  profile_image_url: http://a1.twimg.com/profile_images/952786381/SpyBond_Gallery_5_normal.jpg
+  created_at: Sat, 26 Feb 2011 16:48:42 +0000
+  from_user: rtoconnor
+  id_str: "41540169530085376"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @CorinnaHardgrav: Brilliant session at the NDRC start up weekend, great ideas, great energy, and Conor Murphy of DataHug a complete star.  #SWDub"
+  id: 41540169530085376
+  from_user_id: 4432246
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "210113523"
+  profile_image_url: http://a3.twimg.com/profile_images/1229204041/61464_441549573366_581153366_5485871_6720461_n_normal.jpg
+  created_at: Sat, 26 Feb 2011 16:37:11 +0000
+  from_user: briandaly_ie
+  id_str: "41537270410514432"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Geeks are funny too! #swaustin #swboulder #swdub #swCPH #Hou... on Twitpic http://t.co/bLxHuc2 via @AddThis"
+  id: 41537270410514432
+  from_user_id: 210113523
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/tweetbutton&quot; rel=&quot;nofollow&quot;&gt;Tweet Button&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "210113523"
+  profile_image_url: http://a3.twimg.com/profile_images/1229204041/61464_441549573366_581153366_5485871_6720461_n_normal.jpg
+  created_at: Sat, 26 Feb 2011 16:36:24 +0000
+  from_user: briandaly_ie
+  id_str: "41537072388902912"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "change me! @ swdub #swaustin #swboulder #swdub #swCPH #HoustonSW #SWTunis #SWDSM #startupweekend http://bit.ly/hl9Cik"
+  id: 41537072388902912
+  from_user_id: 210113523
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://tweetmeme.com&quot; rel=&quot;nofollow&quot;&gt;TweetMeme&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "151064158"
+  profile_image_url: http://a0.twimg.com/profile_images/1254109583/lets-get-it-started_normal.jpg
+  created_at: Sat, 26 Feb 2011 16:24:53 +0000
+  from_user: AdamStelle
+  id_str: "41534174980603904"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @clemcaza: This weekend is awesome :-) #swaustin #swboulder #swdub #swCPH #HoustonSW #SWTunis #SWDSM #startupweekend"
+  id: 41534174980603904
+  from_user_id: 151064158
   geo: 
   iso_language_code: en
   to_user_id_str: 
   source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
 - !map:Hashie::Mash 
-  from_user_id_str: "14280135"
-  profile_image_url: http://a3.twimg.com/profile_images/1250590957/profilePic2_normal.jpg
-  created_at: Wed, 23 Feb 2011 11:50:26 +0000
-  from_user: stephendowney
-  id_str: "40377944727748608"
+  from_user_id_str: "3621494"
+  profile_image_url: http://a2.twimg.com/profile_images/1104095951/27448_1028568011_2751_q_normal.jpg
+  created_at: Sat, 26 Feb 2011 15:43:19 +0000
+  from_user: richard_hunt
+  id_str: "41523711978901504"
   metadata: !map:Hashie::Mash 
     result_type: recent
   to_user_id: 
-  text: "Startup Weekend Dublin Schedule for this weekend: http://bit.ly/gMgLsK #swdub"
-  id: 40377944727748608
-  from_user_id: 14280135
+  text: "Coding for mywebtext (LikeTxt) in full swing. #swdub"
+  id: 41523711978901504
+  from_user_id: 3621494
+  geo: 
+  iso_language_code: en
+  place: !map:Hashie::Mash 
+    id: cd7c17e3e56d7920
+    type: neighborhood
+    full_name: Temple Bar, Dublin
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "97947579"
+  profile_image_url: http://a3.twimg.com/profile_images/1188109536/dd7457df-98bc-4280-8aa1-4c4c9a810a81_normal.png
+  created_at: Sat, 26 Feb 2011 15:33:58 +0000
+  from_user: clemcaza
+  id_str: "41521361163788288"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "\xE2\x80\x9C@FredMartinent: Do early startups need marketing budget? http://t.co/s2tMNg8\xE2\x80\x9D #swdub"
+  id: 41521361163788288
+  from_user_id: 97947579
   geo: 
   iso_language_code: en
   to_user_id_str: 
-  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "153777564"
+  profile_image_url: http://a1.twimg.com/profile_images/1204950276/Diane_Couprie__portrait_normal.jpg
+  created_at: Sat, 26 Feb 2011 15:29:56 +0000
+  from_user: DCouprie
+  id_str: "41520344745377792"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @clemcaza: This weekend is awesome :-) #swaustin #swboulder #swdub #swCPH #HoustonSW #SWTunis #SWDSM #startupweekend"
+  id: 41520344745377792
+  from_user_id: 153777564
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "49425944"
+  profile_image_url: http://a0.twimg.com/profile_images/1182415697/twprofile_normal.jpeg
+  created_at: Sat, 26 Feb 2011 15:29:23 +0000
+  from_user: gcouprie
+  id_str: "41520205716922368"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @clemcaza: This weekend is awesome :-) #swaustin #swboulder #swdub #swCPH #HoustonSW #SWTunis #SWDSM #startupweekend"
+  id: 41520205716922368
+  from_user_id: 49425944
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "92835991"
+  profile_image_url: http://a0.twimg.com/profile_images/1142282997/UA_twitter_normal.jpg
+  created_at: Sat, 26 Feb 2011 15:21:58 +0000
+  from_user: unitedaccel
+  id_str: "41518342036529152"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @tetuanvalley: RT @amir_harel: hi #swdub if somone still haven't found a project to work for we are looking f... http://bit.ly/iebv7X"
+  id: 41518342036529152
+  from_user_id: 92835991
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "65020"
+  profile_image_url: http://a0.twimg.com/profile_images/1244028818/john_breslin_cornered_medium_normal.png
+  created_at: Sat, 26 Feb 2011 15:14:00 +0000
+  from_user: johnbreslin
+  id_str: "41516335099953152"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @newtechpost: Dublin Startup Weekend at the NDRC Digital Hub, Crane Street - Uploaded by @tom_murphy http://t.co/ttwy2wo via  #swdub"
+  id: 41516335099953152
+  from_user_id: 65020
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/tweetbutton&quot; rel=&quot;nofollow&quot;&gt;Tweet Button&lt;/a&gt;"
