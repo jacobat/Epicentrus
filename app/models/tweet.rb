@@ -1,7 +1,11 @@
 class Tweet < ActiveRecord::Base
   serialize :data
-  
+
   class << self
+
+    def latest
+      order('created_at DESC').first
+    end
 
     def hashtags
       epicenters.map do |epicenter| epicenter['tag'] end
