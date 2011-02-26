@@ -45,11 +45,11 @@
   };
 
 	$(function () {
-    var hour = 60*60*1000;
-    var day = 24 * hour;
+    	var hour = 60*60*1000;
+    	var day = 24 * hour;
 		var resolution = hour; // 1 hour
 		var minDate = roundTime(new Date().getTime() - (2 * day), resolution); // 2011-02-21T15:00:00+01:00
-    var maxDate = roundTime(new Date().getTime(), resolution); // 2011-02-25T17:00:00+01:00
+    	var maxDate = roundTime(new Date().getTime(), resolution); // 2011-02-25T17:00:00+01:00
 		var max = Math.floor((maxDate.getTime() - minDate.getTime()) / resolution);
 		currentHistoryId = max;
 	    $('#slider').slider({
@@ -66,7 +66,14 @@
 	
 	var markers = [];
 	var currentHistoryId;
-	var currentThresholdDivider = 1;
+	var currentThresholdDivider = 2;
+	
+	function loadHistory() {
+		var url = 'http://93.90.116.253/tweetstats';
+		$.getJSON(url, null, function (data, textStatus) {
+			console.log(data);
+		});
+	}
 	
 	function updateMarkers() {
 		for (var i in epicenters) {
@@ -76,13 +83,20 @@
 				if (markers[i] != undefined && hist[currentHistoryId] != undefined) {
 					var reach = Math.floor(hist[currentHistoryId].reach/currentThresholdDivider);
 					var impact = Math.floor(hist[currentHistoryId].impact/currentThresholdDivider);
-					if (reach > 10)
-						reach = 10;
-					if (impact > 10)
-						impact = 10;
+					if (reach > 4)
+						reach = 4;
+					if (impact > 4)
+						impact = 3;
 					
 					if (reach > 0 && impact > 0) {
-						markers[i].setIcon(new google.maps.MarkerImage('http://chart.apis.google.com/chart?chst=d_map_pin_letter&chld='+reach+'|'+intCol[impact]+'|000000'));
+						markers[i].setIcon(
+							new google.maps.MarkerImage(
+								'images/epicenter_icons.png',
+								new google.maps.Size(52, 52), // Size of marker
+							      new google.maps.Point(((reach-1)*52), ((impact-1)*52)), // Origin in sprite: (reach, impact)
+							      new google.maps.Point(26, 26) // Anchor (where the center is) in relation to the origin
+								)
+							);
 						markers[i].setVisible(true);
 					} else {
 						markers[i].setVisible(false);
