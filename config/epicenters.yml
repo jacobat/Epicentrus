@@ -1,0 +1,49 @@
+--- 
+- name: StartupWeekend Copenhagen
+  diameter: 4
+  tag: "#swcph"
+  lng: 12.524779
+  lat: 55.680476
+  intensity: 3
+- name: StartupWeekend Austin
+  diameter: 5
+  tag: "#swaustin"
+  lng: -97.743988
+  lat: 30.283381
+  intensity: 6
+- name: StartupWeekend Boulder
+  diameter: 8
+  tag: "#swboulder"
+  lng: -105.268936
+  lat: 40.020253
+  intensity: 5
+- name: StartupWeekend Dublin
+  diameter: 7
+  tag: "#swdub"
+  lng: -6.265984
+  lat: 53.349937
+  intensity: 4
+- name: StartupWeekend Houston
+  diameter: 6
+  tag: "#HoustonSW"
+  lng: -95.386047
+  lat: 29.791792
+  intensity: 3
+- name: StartupWeekend San Diego
+  diameter: 8
+  tag: "#swsd2"
+  lng: -117.154083
+  lat: 32.726642
+  intensity: 9
+- name: StartupWeekend Tunis
+  diameter: 1
+  tag: "#swtunis"
+  lng: 9.700928
+  lat: 34.152727
+  intensity: 2
+- name: StartupWeekend Des Moine
+  diameter: 5
+  tag: "#swdsm"
+  lng: -93.608665
+  lat: 41.606458
+  intensity: 4

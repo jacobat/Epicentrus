@@ -1,0 +1,4783 @@
+--- 
+- !map:Hashie::Mash 
+  from_user_id_str: "2984580"
+  profile_image_url: http://a3.twimg.com/profile_images/802159027/luisriverag_normal.jpg
+  created_at: Sat, 26 Feb 2011 14:42:01 +0000
+  from_user: luisriverag
+  id_str: "41508285248962560"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @SBootcamp RT @swcph: Here's the list of teams - Copenhagen Startup Weekend http://ht.ly/43Tdk #swCPH"
+  id: 41508285248962560
+  from_user_id: 2984580
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "44647007"
+  profile_image_url: http://a2.twimg.com/profile_images/1184233684/Rasmus_Bjerngaard_4_normal.jpg
+  created_at: Sat, 26 Feb 2011 14:33:13 +0000
+  from_user: bjerngaard
+  id_str: "41506072673918976"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swCPH: Here's the list of teams - Copenhagen Startup Weekend http://ht.ly/43Tdk #swCPH"
+  id: 41506072673918976
+  from_user_id: 44647007
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "21875697"
+  profile_image_url: http://a2.twimg.com/profile_images/491305927/martin_bjerregaard_nielsen_normal.png
+  created_at: Sat, 26 Feb 2011 14:32:46 +0000
+  from_user: Verlet
+  id_str: "41505957439606784"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Working and enjoying cake and sandwiches with busy people at #swCPH :-)"
+  id: 41505957439606784
+  from_user_id: 21875697
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "8542612"
+  profile_image_url: http://a2.twimg.com/profile_images/1195614898/MRS_picture_little.jpg_normal.jpg
+  created_at: Sat, 26 Feb 2011 14:32:14 +0000
+  from_user: MortenStengaard
+  id_str: "41505824538894336"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @YashTar: We need quick help for our new service created at #swCPH just takes 1 min http://www.surveymonkey.com/s/FTLQZ7Q @roomstant THX :)"
+  id: 41505824538894336
+  from_user_id: 8542612
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "166352782"
+  profile_image_url: http://a0.twimg.com/profile_images/1089192989/41425_1485135270_9220_q_normal.jpg
+  created_at: Sat, 26 Feb 2011 14:26:55 +0000
+  from_user: MidoxTheGeek
+  id_str: "41504488468516864"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @clemcaza: This weekend is awesome :-) #swaustin #swboulder #swdub #swCPH #HoustonSW #SWTunis #SWDSM #startupweekend"
+  id: 41504488468516864
+  from_user_id: 166352782
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "20222891"
+  profile_image_url: http://a1.twimg.com/profile_images/1156149206/October_31__2010_-_03-07-34_-__normal.jpg
+  created_at: Sat, 26 Feb 2011 14:24:43 +0000
+  from_user: wbednarski
+  id_str: "41503934325604352"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "d300.pl - Photos from Startup Weekend Copenhagen! #swCPH"
+  id: 41503934325604352
+  from_user_id: 20222891
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "8542612"
+  profile_image_url: http://a2.twimg.com/profile_images/1195614898/MRS_picture_little.jpg_normal.jpg
+  created_at: Sat, 26 Feb 2011 14:22:07 +0000
+  from_user: MortenStengaard
+  id_str: "41503279527501824"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "is down with a flue but following #swcph from the sofa; keep on tweeting! @ideasoutloud @JonasWho @tahitahi @svenningsen"
+  id: 41503279527501824
+  from_user_id: 8542612
+  geo: !map:Hashie::Mash 
+    coordinates: 
+    - 55.6884
+    - 12.5635
+    type: Point
+  iso_language_code: en
+  place: !map:Hashie::Mash 
+    id: f8776546008b81b5
+    type: neighborhood
+    full_name: "Ravnsborgs, K\xC3\xB8benhavn"
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter for Android&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "97947579"
+  profile_image_url: http://a3.twimg.com/profile_images/1188109536/dd7457df-98bc-4280-8aa1-4c4c9a810a81_normal.png
+  created_at: Sat, 26 Feb 2011 14:18:00 +0000
+  from_user: clemcaza
+  id_str: "41502242133516288"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "This weekend is awesome :-) #swaustin #swboulder #swdub #swCPH #HoustonSW #SWTunis #SWDSM #startupweekend"
+  id: 41502242133516288
+  from_user_id: 97947579
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "28713352"
+  profile_image_url: http://a3.twimg.com/profile_images/1100505033/Profile_Shot_2_normal.jpg
+  created_at: Sat, 26 Feb 2011 13:56:53 +0000
+  from_user: eddincph
+  id_str: "41496930802466816"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#swcph is well stocked up!  http://ow.ly/i/8A4m"
+  id: 41496930802466816
+  from_user_id: 28713352
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "105115313"
+  profile_image_url: http://a1.twimg.com/profile_images/1201232747/Jesper_hoejformat-operate-small_normal.jpg
+  created_at: Sat, 26 Feb 2011 13:09:35 +0000
+  from_user: vingband
+  id_str: "41485023584456705"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Will someone PLEASE tweet something negative about #swcph ??? #struckbyenvy"
+  id: 41485023584456705
+  from_user_id: 105115313
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.ubuntu.com&quot; rel=&quot;nofollow&quot;&gt;Ubuntu&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "21548686"
+  profile_image_url: http://a1.twimg.com/profile_images/1114624090/TVSS_logo_orange_normal.jpg
+  created_at: Sat, 26 Feb 2011 12:42:14 +0000
+  from_user: tetuanvalley
+  id_str: "41478144099745792"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @amir_harel: hi #swdub if somone still haven't found a project to work for we are looking for some to join an idea at #swcph"
+  id: 41478144099745792
+  from_user_id: 21548686
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://seesmic.com/seesmic_mobile/android/&quot; rel=&quot;nofollow&quot;&gt;Seesmic for Android&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "2984580"
+  profile_image_url: http://a3.twimg.com/profile_images/802159027/luisriverag_normal.jpg
+  created_at: Sat, 26 Feb 2011 12:42:12 +0000
+  from_user: luisriverag
+  id_str: "41478133421064193"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @amir_harel: hi #swdub if somone still haven't found a project to work for we are looking for some to join an idea at #swcph"
+  id: 41478133421064193
+  from_user_id: 2984580
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://seesmic.com/seesmic_mobile/android/&quot; rel=&quot;nofollow&quot;&gt;Seesmic for Android&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "21548686"
+  profile_image_url: http://a1.twimg.com/profile_images/1114624090/TVSS_logo_orange_normal.jpg
+  created_at: Sat, 26 Feb 2011 12:41:13 +0000
+  from_user: tetuanvalley
+  id_str: "41477886812758016"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: RT @swcph: Here's the list of teams - Copenhagen Startup Weekend http://ht.ly/43Tdk #swCPH"
+  id: 41477886812758016
+  from_user_id: 21548686
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://seesmic.com/seesmic_mobile/android/&quot; rel=&quot;nofollow&quot;&gt;Seesmic for Android&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1313164"
+  profile_image_url: http://a0.twimg.com/profile_images/864401473/JK_infrared_square_normal.jpg
+  created_at: Sat, 26 Feb 2011 12:29:25 +0000
+  from_user: jkaljundi
+  id_str: "41474917849513984"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @SBootcamp: RT @swcph: Here's the list of teams - Copenhagen Startup Weekend http://ht.ly/43Tdk #swCPH"
+  id: 41474917849513984
+  from_user_id: 1313164
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "229475297"
+  profile_image_url: http://a1.twimg.com/sticky/default_profile_images/default_profile_0_normal.png
+  created_at: Sat, 26 Feb 2011 12:22:55 +0000
+  from_user: roomstant
+  id_str: "41473281060122624"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: |-
+    Just made awesome mockups done for our core concept! #swCPH
+    http://img826.imageshack.us/i/mockups.jpg/
+  id: 41473281060122624
+  from_user_id: 229475297
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1155966"
+  profile_image_url: http://a1.twimg.com/profile_images/809023617/gusmurray_2_normal.jpg
+  created_at: Sat, 26 Feb 2011 12:21:55 +0000
+  from_user: ideasoutloud
+  id_str: "41473028953083905"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Half time at #swcph with some exciting ideas coming to realization! Looking forward to the pitches tomorrow."
+  id: 41473028953083905
+  from_user_id: 1155966
+  geo: !map:Hashie::Mash 
+    coordinates: 
+    - 55.6806
+    - 12.5247
+    type: Point
+  iso_language_code: en
+  place: !map:Hashie::Mash 
+    id: 957c90ef2788392e
+    type: neighborhood
+    full_name: "Frederiksberg, K\xC3\xB8benhavn"
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "229514074"
+  profile_image_url: http://a2.twimg.com/sticky/default_profile_images/default_profile_1_normal.png
+  created_at: Sat, 26 Feb 2011 12:19:05 +0000
+  from_user: Everplaces
+  id_str: "41472316831436800"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Great energy at the lunch update pitches at #swCPH Lot's of teams doing amazing stuff! Can't wait for pitches tomorrow :)"
+  id: 41472316831436800
+  from_user_id: 229514074
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "229504568"
+  profile_image_url: http://a3.twimg.com/sticky/default_profile_images/default_profile_6_normal.png
+  created_at: Sat, 26 Feb 2011 12:18:33 +0000
+  from_user: Digroli
+  id_str: "41472180785135616"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Digroli is alive! Follow and Like us on Facebook http://www.facebook.com/pages/Digroli/201492836529552 #swCPH"
+  id: 41472180785135616
+  from_user_id: 229504568
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "474447"
+  profile_image_url: http://a1.twimg.com/profile_images/54452981/morten_normal.jpg
+  created_at: Sat, 26 Feb 2011 12:17:52 +0000
+  from_user: vadskaer
+  id_str: "41472010517352450"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @iconfinder: Help my friends at #swcph -&gt; We need quick help for our new service created at #swCPH (just takes 1 min) http://t.co/nSQ5ghR RT @roomstant"
+  id: 41472010517352450
+  from_user_id: 474447
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "8388207"
+  profile_image_url: http://a2.twimg.com/profile_images/587734607/DSC01881-kopi1_normal.jpg
+  created_at: Sat, 26 Feb 2011 12:15:58 +0000
+  from_user: svenningsen
+  id_str: "41471531611729920"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Status update at #swcph  @ CBS howitzvej http://instagr.am/p/B28xU/"
+  id: 41471531611729920
+  from_user_id: 8388207
+  geo: !map:Hashie::Mash 
+    coordinates: 
+    - 55.6802
+    - 12.5249
+    type: Point
+  iso_language_code: en
+  place: !map:Hashie::Mash 
+    id: 957c90ef2788392e
+    type: neighborhood
+    full_name: "Frederiksberg, K\xC3\xB8benhavn"
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://instagr.am&quot; rel=&quot;nofollow&quot;&gt;instagram&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6095200"
+  profile_image_url: http://a0.twimg.com/profile_images/1183862552/8fbc98ad-a97e-4a6a-9db1-f486ca655aa2_normal.png
+  created_at: Sat, 26 Feb 2011 12:13:11 +0000
+  from_user: digbyj
+  id_str: "41470831964065792"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Interesting updates from the teams half way through day 2 - amazed once again how far they have come in under 24 hours! #swCPH"
+  id: 41470831964065792
+  from_user_id: 6095200
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "214130"
+  profile_image_url: http://a2.twimg.com/profile_images/76697051/n620814159_6281_normal.jpg
+  created_at: Sat, 26 Feb 2011 12:10:20 +0000
+  from_user: mikebevz
+  id_str: "41470113660010496"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Projects status #swcph  @ CBS howitzvej http://instagr.am/p/B28XT/"
+  id: 41470113660010496
+  from_user_id: 214130
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://instagr.am&quot; rel=&quot;nofollow&quot;&gt;instagram&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "3060256"
+  profile_image_url: http://a1.twimg.com/profile_images/299851698/ls_8914_n600028377_101131_1493_normal.jpg
+  created_at: Sat, 26 Feb 2011 12:09:25 +0000
+  from_user: ChristianErfurt
+  id_str: "41469882650460160"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swCPH: Here's the list of teams - Copenhagen Startup Weekend http://ht.ly/43Tdk #swCPH"
+  id: 41469882650460160
+  from_user_id: 3060256
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "104105985"
+  profile_image_url: http://a0.twimg.com/profile_images/1231119738/image_normal.jpg
+  created_at: Sat, 26 Feb 2011 12:03:13 +0000
+  from_user: handanyildiran
+  id_str: "41468323606704129"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @tahitahi: OMG the Everplaces team kick ass! #swCPH  http://instagr.am/p/B25qV/"
+  id: 41468323606704129
+  from_user_id: 104105985
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://instagr.am&quot; rel=&quot;nofollow&quot;&gt;instagram&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "229514074"
+  profile_image_url: http://a2.twimg.com/sticky/default_profile_images/default_profile_1_normal.png
+  created_at: Sat, 26 Feb 2011 11:58:43 +0000
+  from_user: Everplaces
+  id_str: "41467191677161472"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "and we're live and tweeting!! RT @tahitahi OMG the @Everplaces team kick ass! #swCPH http://instagr.am/p/B25qV/"
+  id: 41467191677161472
+  from_user_id: 229514074
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "103114318"
+  profile_image_url: http://a3.twimg.com/profile_images/756529832/willis_face2_normal.jpg
+  created_at: Sat, 26 Feb 2011 11:51:36 +0000
+  from_user: wfjackson3
+  id_str: "41465401216868352"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Pro: I got to see some of Copenhagen. Con: we didn't obtain any useful customer validation, either positive or negative. #swCPH"
+  id: 41465401216868352
+  from_user_id: 103114318
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "724332"
+  profile_image_url: http://a0.twimg.com/profile_images/288225174/jonas_FB_normal.jpg
+  created_at: Sat, 26 Feb 2011 11:50:59 +0000
+  from_user: JonasWho
+  id_str: "41465244731715584"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @YashTar: We need quick help for our new service created at #swCPH just takes 1 min http://www.surveymonkey.com/s/FTLQZ7Q @roomstant THX :)"
+  id: 41465244731715584
+  from_user_id: 724332
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "74847355"
+  profile_image_url: http://a3.twimg.com/profile_images/691394022/sbc_twitter_normal.gif
+  created_at: Sat, 26 Feb 2011 11:50:32 +0000
+  from_user: SBootcamp
+  id_str: "41465129946054656"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swcph: Here's the list of teams - Copenhagen Startup Weekend http://ht.ly/43Tdk #swCPH"
+  id: 41465129946054656
+  from_user_id: 74847355
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "81193246"
+  profile_image_url: http://a3.twimg.com/profile_images/1231932826/Alex_normal.JPG
+  created_at: Sat, 26 Feb 2011 11:50:31 +0000
+  from_user: alexfarcet
+  id_str: "41465128872321025"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swcph: Here's the list of teams - Copenhagen Startup Weekend http://ht.ly/43Tdk #swCPH"
+  id: 41465128872321025
+  from_user_id: 81193246
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "186194358"
+  profile_image_url: http://a3.twimg.com/profile_images/1192158925/SW_beaker_denmark_normal.png
+  created_at: Sat, 26 Feb 2011 11:49:05 +0000
+  from_user: swCPH
+  id_str: "41464765368909824"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Here's the list of teams - Copenhagen Startup Weekend http://ht.ly/43Tdk #swCPH"
+  id: 41464765368909824
+  from_user_id: 186194358
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "91646819"
+  profile_image_url: http://a0.twimg.com/profile_images/779522888/2f_logg_normal.gif
+  created_at: Sat, 26 Feb 2011 11:48:05 +0000
+  from_user: secondflush_de
+  id_str: "41464516340355072"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @roomstant: We need quick help for our new service created at #swCPH just takes 1 min http://www.surveymonkey.com/s/FTLQZ7Q THX :)"
+  id: 41464516340355072
+  from_user_id: 91646819
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "146202622"
+  profile_image_url: http://a1.twimg.com/profile_images/1124890061/1786_PL2_2397-1_normal.jpg
+  created_at: Sat, 26 Feb 2011 11:45:29 +0000
+  from_user: nickmartn
+  id_str: "41463860103876608"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @roomstant: We need quick help for our new service created at #swCPH just takes 1 min http://www.surveymonkey.com/s/FTLQZ7Q THX :)"
+  id: 41463860103876608
+  from_user_id: 146202622
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "21948544"
+  profile_image_url: http://a2.twimg.com/profile_images/31794772/Photo_7_normal.jpg
+  created_at: Sat, 26 Feb 2011 11:37:07 +0000
+  from_user: jrisch
+  id_str: "41461756932915200"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "http://twitpic.com/43xpds Gus from epicenter working #swcph"
+  id: 41461756932915200
+  from_user_id: 21948544
+  geo: !map:Hashie::Mash 
+    coordinates: 
+    - 55.6803
+    - 12.522
+    type: Point
+  iso_language_code: en
+  place: !map:Hashie::Mash 
+    id: 957c90ef2788392e
+    type: neighborhood
+    full_name: "Frederiksberg, K\xC3\xB8benhavn"
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "52095656"
+  profile_image_url: http://a0.twimg.com/profile_images/1239412156/sswc5_normal.jpg
+  created_at: Sat, 26 Feb 2011 11:35:09 +0000
+  from_user: tahitahi
+  id_str: "41461262537854976"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "OMG the Everplaces team kick ass! #swCPH  http://instagr.am/p/B25qV/"
+  id: 41461262537854976
+  from_user_id: 52095656
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://instagr.am&quot; rel=&quot;nofollow&quot;&gt;instagram&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "108184289"
+  profile_image_url: http://a1.twimg.com/profile_images/1166070709/avitar2_normal.jpg
+  created_at: Sat, 26 Feb 2011 11:27:38 +0000
+  from_user: ChrisKaalund
+  id_str: "41459370185203712"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Team team team #swCPH"
+  id: 41459370185203712
+  from_user_id: 108184289
+  geo: 
+  iso_language_code: pl
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "21948544"
+  profile_image_url: http://a2.twimg.com/profile_images/31794772/Photo_7_normal.jpg
+  created_at: Sat, 26 Feb 2011 11:27:24 +0000
+  from_user: jrisch
+  id_str: "41459309414068224"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "http://twitpic.com/43xmc2 epicenter brainstorm #swcph"
+  id: 41459309414068224
+  from_user_id: 21948544
+  geo: !map:Hashie::Mash 
+    coordinates: 
+    - 55.6806
+    - 12.5243
+    type: Point
+  iso_language_code: fr
+  place: !map:Hashie::Mash 
+    id: 957c90ef2788392e
+    type: neighborhood
+    full_name: "Frederiksberg, K\xC3\xB8benhavn"
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "9570922"
+  profile_image_url: http://a0.twimg.com/profile_images/1154455291/d3fbb3f98bd4997600bbc3f3095416f5_normal.png
+  created_at: Sat, 26 Feb 2011 11:26:14 +0000
+  from_user: iconfinder
+  id_str: "41459014986502144"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Help my friends at #swcph -&gt; We need quick help for our new service created at #swCPH (just takes 1 min) http://t.co/nSQ5ghR RT @roomstant"
+  id: 41459014986502144
+  from_user_id: 9570922
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "9022566"
+  profile_image_url: http://a1.twimg.com/profile_images/122932703/niels_normal.jpg
+  created_at: Sat, 26 Feb 2011 11:24:43 +0000
+  from_user: nielsbusch
+  id_str: "41458633489395712"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @roomstant: We need quick help for our new service created at #swCPH just takes 1 min http://www.surveymonkey.com/s/FTLQZ7Q THX :)"
+  id: 41458633489395712
+  from_user_id: 9022566
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6461503"
+  profile_image_url: http://a2.twimg.com/profile_images/206028943/twitterprofil_normal.jpg
+  created_at: Sat, 26 Feb 2011 11:22:40 +0000
+  from_user: michimarder
+  id_str: "41458119125110784"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @roomstant: We need quick help for our new service created at #swCPH just takes 1 min http://www.surveymonkey.com/s/FTLQZ7Q THX :)"
+  id: 41458119125110784
+  from_user_id: 6461503
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "229475297"
+  profile_image_url: http://a1.twimg.com/sticky/default_profile_images/default_profile_0_normal.png
+  created_at: Sat, 26 Feb 2011 11:22:29 +0000
+  from_user: roomstant
+  id_str: "41458073663053824"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "We need quick help for our new service created at #swCPH just takes 1 min http://www.surveymonkey.com/s/FTLQZ7Q THX :)"
+  id: 41458073663053824
+  from_user_id: 229475297
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "15464511"
+  profile_image_url: http://a1.twimg.com/profile_images/1206477952/33480_151097118259400_144501958918916_209660_8070936_n_normal.jpg
+  created_at: Sat, 26 Feb 2011 11:21:22 +0000
+  from_user: nrmogensen
+  id_str: "41457789872254976"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @YashTar: We need quick help for our new service created at #swCPH just takes 1 min http://www.surveymonkey.com/s/FTLQZ7Q @roomstant THX :)"
+  id: 41457789872254976
+  from_user_id: 15464511
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "106683733"
+  profile_image_url: http://a3.twimg.com/profile_images/1049620843/IMAG0197_normal.jpg
+  created_at: Sat, 26 Feb 2011 11:19:48 +0000
+  from_user: YashTar
+  id_str: "41457399709569024"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "We need quick help for our new service created at #swCPH just takes 1 min http://www.surveymonkey.com/s/FTLQZ7Q @roomstant THX :)"
+  id: 41457399709569024
+  from_user_id: 106683733
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "3114359"
+  profile_image_url: http://a1.twimg.com/profile_images/68167386/n682238463_197827_4267_normal.jpg
+  created_at: Sat, 26 Feb 2011 11:18:13 +0000
+  from_user: amir_harel
+  id_str: "41456997878468608"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "hi #SWTUNIS if somone still haven't found a project to work for we are looking for some devs and biz guys to join an idea at #swcph"
+  id: 41456997878468608
+  from_user_id: 3114359
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "17556"
+  profile_image_url: http://a0.twimg.com/profile_images/832826388/me_before_normal.JPG
+  created_at: Sat, 26 Feb 2011 11:14:18 +0000
+  from_user: kiddouk
+  id_str: "41456015090126848"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Following #swcph from France ... Slightly jealous ... Compensating with cheese."
+  id: 41456015090126848
+  from_user_id: 17556
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/app/twitter/id333903271?mt=8&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPad&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "3114359"
+  profile_image_url: http://a1.twimg.com/profile_images/68167386/n682238463_197827_4267_normal.jpg
+  created_at: Sat, 26 Feb 2011 11:14:06 +0000
+  from_user: amir_harel
+  id_str: "41455965282770944"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "hi #swdub if somone still haven't found a project to work for we are looking for some devs and biz guys to join an idea at #swcph"
+  id: 41455965282770944
+  from_user_id: 3114359
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "17556"
+  profile_image_url: http://a0.twimg.com/profile_images/832826388/me_before_normal.JPG
+  created_at: Sat, 26 Feb 2011 11:12:57 +0000
+  from_user: kiddouk
+  id_str: "41455672683925505"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @buyukkotukurt: Getting ready for #swcph Thank you #eventbird for awesome application."
+  id: 41455672683925505
+  from_user_id: 17556
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "8388207"
+  profile_image_url: http://a2.twimg.com/profile_images/587734607/DSC01881-kopi1_normal.jpg
+  created_at: Sat, 26 Feb 2011 11:10:35 +0000
+  from_user: svenningsen
+  id_str: "41455080158937088"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @jrisch: http://twitpic.com/43x8d2 epicenter backend discussion #swcph"
+  id: 41455080158937088
+  from_user_id: 8388207
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "8388207"
+  profile_image_url: http://a2.twimg.com/profile_images/587734607/DSC01881-kopi1_normal.jpg
+  created_at: Sat, 26 Feb 2011 11:09:24 +0000
+  from_user: svenningsen
+  id_str: "41454778357645312"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @JonasWho: Strong and productive team Everplaces is kicking ass at #swcph Too many teammembers to mention. Domain nailed."
+  id: 41454778357645312
+  from_user_id: 8388207
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "724332"
+  profile_image_url: http://a0.twimg.com/profile_images/288225174/jonas_FB_normal.jpg
+  created_at: Sat, 26 Feb 2011 11:07:14 +0000
+  from_user: JonasWho
+  id_str: "41454235921022976"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Strong and productive team Everplaces is kicking ass at #swcph Too many teammembers to mention. Domain nailed."
+  id: 41454235921022976
+  from_user_id: 724332
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "127372566"
+  profile_image_url: http://a3.twimg.com/profile_images/909784252/Piotr_Nedzynski_normal.JPG
+  created_at: Sat, 26 Feb 2011 11:02:37 +0000
+  from_user: nedzynski
+  id_str: "41453073180131328"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @achristoffersen: view from #swcph http://yfrog.com/h3da7bpj"
+  id: 41453073180131328
+  from_user_id: 127372566
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "102000304"
+  profile_image_url: http://a2.twimg.com/profile_images/1123076807/Headshot_normal.jpg
+  created_at: Sat, 26 Feb 2011 10:46:49 +0000
+  from_user: AbsoluteADT
+  id_str: "41449095856005120"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @kristianholtedk: heard Nick from @planely talk at #swcph yesterday. This guy's got something"
+  id: 41449095856005120
+  from_user_id: 102000304
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "7906560"
+  profile_image_url: http://a1.twimg.com/profile_images/1250385661/6_normal.jpg
+  created_at: Sat, 26 Feb 2011 10:45:51 +0000
+  from_user: achristoffersen
+  id_str: "41448852590571520"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "view from #swcph http://yfrog.com/h3da7bpj"
+  id: 41448852590571520
+  from_user_id: 7906560
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "146202622"
+  profile_image_url: http://a1.twimg.com/profile_images/1124890061/1786_PL2_2397-1_normal.jpg
+  created_at: Sat, 26 Feb 2011 10:45:32 +0000
+  from_user: nickmartn
+  id_str: "41448774182248448"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Ready to 'like' new FB pages as they go live. Who's gonna be first? #swcph #startups #beingfirstmatters"
+  id: 41448774182248448
+  from_user_id: 146202622
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "21948544"
+  profile_image_url: http://a2.twimg.com/profile_images/31794772/Photo_7_normal.jpg
+  created_at: Sat, 26 Feb 2011 10:45:24 +0000
+  from_user: jrisch
+  id_str: "41448738857680896"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "http://twitpic.com/43x8d2 epicenter backend discussion #swcph"
+  id: 41448738857680896
+  from_user_id: 21948544
+  geo: !map:Hashie::Mash 
+    coordinates: 
+    - 55.6803
+    - 12.522
+    type: Point
+  iso_language_code: en
+  place: !map:Hashie::Mash 
+    id: 957c90ef2788392e
+    type: neighborhood
+    full_name: "Frederiksberg, K\xC3\xB8benhavn"
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "125211594"
+  profile_image_url: http://a1.twimg.com/profile_images/1203179505/Gignal-G-big_normal.png
+  created_at: Sat, 26 Feb 2011 10:39:23 +0000
+  from_user: Gignal
+  id_str: "41447227712995328"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Come on guys @ #swCph! Take photos, Bambuser, check-in &amp; tweet! We're following your Gignal from Bangkok to Skagen - http://gignal.com/swcph"
+  id: 41447227712995328
+  from_user_id: 125211594
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "214518670"
+  profile_image_url: http://a3.twimg.com/profile_images/1246186125/Billede_normal.jpg
+  created_at: Sat, 26 Feb 2011 10:39:05 +0000
+  from_user: kristianholtedk
+  id_str: "41447149111611392"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "heard Nick from @planely talk at #swcph yesterday. This guy's got something"
+  id: 41447149111611392
+  from_user_id: 214518670
+  geo: 
+  iso_language_code: en
+  place: !map:Hashie::Mash 
+    id: df521fe0f601d56a
+    type: neighborhood
+    full_name: "Indre By, K\xC3\xB8benhavn"
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "165150116"
+  profile_image_url: http://a0.twimg.com/profile_images/1196375512/planely-window-square-300dpi_normal.png
+  created_at: Sat, 26 Feb 2011 10:33:37 +0000
+  from_user: planely
+  id_str: "41445774558642176"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Come on Startup Weekend Copenhagen! Make some noise! What's going on? #swcph"
+  id: 41445774558642176
+  from_user_id: 165150116
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "28528"
+  profile_image_url: http://a3.twimg.com/profile_images/51998478/therese_i_new_york2_normal.jpg
+  created_at: Sat, 26 Feb 2011 10:07:42 +0000
+  from_user: qedtherese
+  id_str: "41439253296709632"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Agree with @Bodekaer .The guys at Startup Weekend CPH should tweet some more - following #swcph from Bangkok."
+  id: 41439253296709632
+  from_user_id: 28528
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "4231132"
+  profile_image_url: http://a3.twimg.com/profile_images/74848522/snow__normal.jpg
+  created_at: Sat, 26 Feb 2011 10:03:21 +0000
+  from_user: nomial
+  id_str: "41438157308309504"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 10789
+  text: "@Scobleizer 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis, #swCPH"
+  id: 41438157308309504
+  from_user_id: 4231132
+  to_user: Scobleizer
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "10789"
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "214130"
+  profile_image_url: http://a2.twimg.com/profile_images/76697051/n620814159_6281_normal.jpg
+  created_at: Sat, 26 Feb 2011 09:54:33 +0000
+  from_user: mikebevz
+  id_str: "41435941767872513"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Must have stories #swcph  @ CBS howitzvej http://instagr.am/p/B2yU0/"
+  id: 41435941767872513
+  from_user_id: 214130
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://instagr.am&quot; rel=&quot;nofollow&quot;&gt;instagram&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "8388207"
+  profile_image_url: http://a2.twimg.com/profile_images/587734607/DSC01881-kopi1_normal.jpg
+  created_at: Sat, 26 Feb 2011 09:30:06 +0000
+  from_user: svenningsen
+  id_str: "41429789596323840"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @Kim_Balle: Teams are in place and the rooms are buzzing with work-energy #swCPH"
+  id: 41429789596323840
+  from_user_id: 8388207
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "8388207"
+  profile_image_url: http://a2.twimg.com/profile_images/587734607/DSC01881-kopi1_normal.jpg
+  created_at: Sat, 26 Feb 2011 09:29:33 +0000
+  from_user: svenningsen
+  id_str: "41429652111237120"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: |-
+    RT @Bodekaer: Awesome to follow #swcph all the way from Bali with the cool Eventbird app :)
+    Tweet some more guys! :D
+  id: 41429652111237120
+  from_user_id: 8388207
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "20222891"
+  profile_image_url: http://a1.twimg.com/profile_images/1156149206/October_31__2010_-_03-07-34_-__normal.jpg
+  created_at: Sat, 26 Feb 2011 09:23:28 +0000
+  from_user: wbednarski
+  id_str: "41428123312599042"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Working on mockup #swCPH"
+  id: 41428123312599042
+  from_user_id: 20222891
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "15464511"
+  profile_image_url: http://a1.twimg.com/profile_images/1206477952/33480_151097118259400_144501958918916_209660_8070936_n_normal.jpg
+  created_at: Sat, 26 Feb 2011 09:21:43 +0000
+  from_user: nrmogensen
+  id_str: "41427682017296385"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Roomstant - instant room deals for the night #swCPH"
+  id: 41427682017296385
+  from_user_id: 15464511
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "95725831"
+  profile_image_url: http://a2.twimg.com/profile_images/875846983/Twitter_normal.JPG
+  created_at: Sat, 26 Feb 2011 09:20:01 +0000
+  from_user: RiskContainment
+  id_str: "41427254995206144"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Hey #swaustin #swboulder #swcph #swdub #HoustonSW #swsd2 #SWTunis #SWDSM - Check out Copenhagen SW @ http://gignal.com/events/view/18 #swCPH"
+  id: 41427254995206144
+  from_user_id: 95725831
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "144596815"
+  profile_image_url: http://a1.twimg.com/profile_images/1104843954/1281990630_splash_beta_lightblue_normal.png
+  created_at: Sat, 26 Feb 2011 09:06:56 +0000
+  from_user: trendsonline_dk
+  id_str: "41423958985146368"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Sitting in train cabin 21 on my way to #swCPH Looking forward to hear about the ideas"
+  id: 41423958985146368
+  from_user_id: 144596815
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "7906560"
+  profile_image_url: http://a1.twimg.com/profile_images/1250385661/6_normal.jpg
+  created_at: Sat, 26 Feb 2011 08:59:15 +0000
+  from_user: achristoffersen
+  id_str: "41422026203865088"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Its comming together #swcph"
+  id: 41422026203865088
+  from_user_id: 7906560
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "117121323"
+  profile_image_url: http://a2.twimg.com/profile_images/905236884/logo_stort_v2-korn-1_normal.jpg
+  created_at: Sat, 26 Feb 2011 08:51:37 +0000
+  from_user: Kim_Balle
+  id_str: "41420104604327936"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Teams are in place and the rooms are buzzing with work-energy #swCPH"
+  id: 41420104604327936
+  from_user_id: 117121323
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "214130"
+  profile_image_url: http://a2.twimg.com/profile_images/76697051/n620814159_6281_normal.jpg
+  created_at: Sat, 26 Feb 2011 08:47:22 +0000
+  from_user: mikebevz
+  id_str: "41419037254615040"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Writing user stories #swcph  @ CBS howitzvej http://instagr.am/p/B2tcP/"
+  id: 41419037254615040
+  from_user_id: 214130
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://instagr.am&quot; rel=&quot;nofollow&quot;&gt;instagram&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "117121323"
+  profile_image_url: http://a2.twimg.com/profile_images/905236884/logo_stort_v2-korn-1_normal.jpg
+  created_at: Sat, 26 Feb 2011 08:40:26 +0000
+  from_user: Kim_Balle
+  id_str: "41417292587732992"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "If somebody is missing their iPhone we have found a nice 4g at the breakfest table . . .  Let us know if you want it back :) #swCPH"
+  id: 41417292587732992
+  from_user_id: 117121323
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "95725831"
+  profile_image_url: http://a2.twimg.com/profile_images/875846983/Twitter_normal.JPG
+  created_at: Sat, 26 Feb 2011 08:33:48 +0000
+  from_user: RiskContainment
+  id_str: "41415620884959232"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Totally impressed with the crowd at #swCPH :-D Thrilled to be a part of my team. The dedication &amp; commitment is amazing #Verycool"
+  id: 41415620884959232
+  from_user_id: 95725831
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "95725831"
+  profile_image_url: http://a2.twimg.com/profile_images/875846983/Twitter_normal.JPG
+  created_at: Sat, 26 Feb 2011 08:29:30 +0000
+  from_user: RiskContainment
+  id_str: "41414540553887744"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 2582499
+  text: "@bodekaer You can follow all the tweets and flickr pics and checkins at the #swCPH Gignal http://gignal.com/events/view/18"
+  id: 41414540553887744
+  from_user_id: 95725831
+  to_user: Bodekaer
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "2582499"
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6461503"
+  profile_image_url: http://a2.twimg.com/profile_images/206028943/twitterprofil_normal.jpg
+  created_at: Sat, 26 Feb 2011 08:18:27 +0000
+  from_user: michimarder
+  id_str: "41411759541592064"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @achristoffersen: #swcph is hardcore. A frustrating cool learning experience. So much to learn from so many cool guys (and a few girls)."
+  id: 41411759541592064
+  from_user_id: 6461503
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "2582499"
+  profile_image_url: http://a3.twimg.com/profile_images/879096064/Michael_Winning_normal.jpg
+  created_at: Sat, 26 Feb 2011 07:56:07 +0000
+  from_user: Bodekaer
+  id_str: "41406139002257408"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: |-
+    Awesome to follow #swcph all the way from Bali with the cool Eventbird app :)
+    Tweet some more guys! :D
+  id: 41406139002257408
+  from_user_id: 2582499
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "95725831"
+  profile_image_url: http://a2.twimg.com/profile_images/875846983/Twitter_normal.JPG
+  created_at: Sat, 26 Feb 2011 07:55:18 +0000
+  from_user: RiskContainment
+  id_str: "41405932793499648"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "And the odds of it getting fixed on a weekend are... not good :-)  RT @chriskaalund: 6 fucking flights and the elevator is broken #swcph"
+  id: 41405932793499648
+  from_user_id: 95725831
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "791031"
+  profile_image_url: http://a3.twimg.com/profile_images/803754510/n689968178_324295_4585_copy_normal.jpg
+  created_at: Sat, 26 Feb 2011 07:41:22 +0000
+  from_user: nopstrup
+  id_str: "41402426921582592"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Time to get started on Day 2. Looking forward to working with the team(s), building great software and big business #swCPH"
+  id: 41402426921582592
+  from_user_id: 791031
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "28713352"
+  profile_image_url: http://a3.twimg.com/profile_images/1100505033/Profile_Shot_2_normal.jpg
+  created_at: Sat, 26 Feb 2011 07:34:30 +0000
+  from_user: eddincph
+  id_str: "41400697211584512"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Back to work until midnight at #swcph after just 4 hours sleep. Now I know Maggie Thatcher felt during the 80s!"
+  id: 41400697211584512
+  from_user_id: 28713352
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "21948544"
+  profile_image_url: http://a2.twimg.com/profile_images/31794772/Photo_7_normal.jpg
+  created_at: Sat, 26 Feb 2011 07:23:24 +0000
+  from_user: jrisch
+  id_str: "41397905948545024"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Damn. Already late for #swcph"
+  id: 41397905948545024
+  from_user_id: 21948544
+  geo: !map:Hashie::Mash 
+    coordinates: 
+    - 55.9197
+    - 12.311
+    type: Point
+  iso_language_code: en
+  place: !map:Hashie::Mash 
+    id: bcee01c035f8e0c4
+    type: city
+    full_name: "Hiller\xC3\xB8d, Hovedstaden"
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "108184289"
+  profile_image_url: http://a1.twimg.com/profile_images/1166070709/avitar2_normal.jpg
+  created_at: Sat, 26 Feb 2011 07:17:09 +0000
+  from_user: ChrisKaalund
+  id_str: "41396331255832576"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "6 fucking flights and the elevator is broken #swcph"
+  id: 41396331255832576
+  from_user_id: 108184289
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "365747"
+  profile_image_url: http://a1.twimg.com/profile_images/1163493275/Picture_1_normal.png
+  created_at: Sat, 26 Feb 2011 07:01:14 +0000
+  from_user: redsoda
+  id_str: "41392329164210176"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Gearing myself up for advising The teams at #swcph - looking forward to see you all later today ;)"
+  id: 41392329164210176
+  from_user_id: 365747
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "97533769"
+  profile_image_url: http://a0.twimg.com/profile_images/729177945/i_normal.jpg
+  created_at: Sat, 26 Feb 2011 05:21:10 +0000
+  from_user: Incipi
+  id_str: "41367145321336832"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Prototype quickly with WorkXpress http://wxp.incipi.net #swaustin #swboulder #swcph #swdub #HoustonSW #swsd2 #SWTunis #SWDSM #startupweekend"
+  id: 41367145321336832
+  from_user_id: 97533769
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "222716754"
+  profile_image_url: http://a1.twimg.com/profile_images/1246450664/MW_normal.png
+  created_at: Sat, 26 Feb 2011 05:00:35 +0000
+  from_user: mindwallet
+  id_str: "41361964777086976"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Here is what happened at #HoustonSW http://bit.ly/fLdq0g #swCPH #swBoulder #swAustin #swDub #swsd2 #swTunis At Yours? http://bit.ly/gVmb2h"
+  id: 41361964777086976
+  from_user_id: 222716754
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "4983650"
+  profile_image_url: http://a0.twimg.com/profile_images/308553097/diving1_normal.jpg
+  created_at: Sat, 26 Feb 2011 04:12:17 +0000
+  from_user: tkolind
+  id_str: "41349809935753216"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 52095656
+  text: "@tahitahi @jonaswho @nfsaxberg @bjerngaard @alexfarcet @swcph #wishiwasthere #swcph"
+  id: 41349809935753216
+  from_user_id: 4983650
+  to_user: tahitahi
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "52095656"
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "7906560"
+  profile_image_url: http://a1.twimg.com/profile_images/1250385661/6_normal.jpg
+  created_at: Sat, 26 Feb 2011 01:20:57 +0000
+  from_user: achristoffersen
+  id_str: "41306693996511232"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "4 hours to sleep until day 2 of #swcph. Tomorrow we need to nail a business model for love. #notThatKindOfLoveYouPervert #greatTeam"
+  id: 41306693996511232
+  from_user_id: 7906560
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "7906560"
+  profile_image_url: http://a1.twimg.com/profile_images/1250385661/6_normal.jpg
+  created_at: Sat, 26 Feb 2011 01:18:28 +0000
+  from_user: achristoffersen
+  id_str: "41306065379409920"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#swcph is hardcore. A frustrating cool learning experience. So much to learn from so many cool guys (and a few girls)."
+  id: 41306065379409920
+  from_user_id: 7906560
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "146433885"
+  profile_image_url: http://a1.twimg.com/profile_images/1231092446/Sk_rmbillede_2011-01-31_kl._21.40.29_normal.png
+  created_at: Sat, 26 Feb 2011 00:49:04 +0000
+  from_user: MortenKrarupK
+  id_str: "41298667562479616"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "On my way home from a long day at #swcph Didnt expect to run into a party-dancing Crew with a ghettoblaster in the metro.. #tootired"
+  id: 41298667562479616
+  from_user_id: 146433885
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "28713352"
+  profile_image_url: http://a3.twimg.com/profile_images/1100505033/Profile_Shot_2_normal.jpg
+  created_at: Sat, 26 Feb 2011 00:21:03 +0000
+  from_user: eddincph
+  id_str: "41291618103328768"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Time to go home from #swcph - tomorrow kicks off in less than 8 hours!"
+  id: 41291618103328768
+  from_user_id: 28713352
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "791031"
+  profile_image_url: http://a3.twimg.com/profile_images/803754510/n689968178_324295_4585_copy_normal.jpg
+  created_at: Fri, 25 Feb 2011 23:49:30 +0000
+  from_user: nopstrup
+  id_str: "41283679850336256"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Just home after kickoff and pitching. We just put together the best team #ftw #swCPH"
+  id: 41283679850336256
+  from_user_id: 791031
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "26043843"
+  profile_image_url: http://a3.twimg.com/profile_images/983274618/011_normal.JPG
+  created_at: Fri, 25 Feb 2011 23:46:34 +0000
+  from_user: adamdani
+  id_str: "41282938515488769"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @digbyj: Startup Weekend themed  #FF #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis - All happening this weekend!!!!!&quot;"
+  id: 41282938515488769
+  from_user_id: 26043843
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\xC2\xAE&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "127372566"
+  profile_image_url: http://a3.twimg.com/profile_images/909784252/Piotr_Nedzynski_normal.JPG
+  created_at: Fri, 25 Feb 2011 23:44:58 +0000
+  from_user: nedzynski
+  id_str: "41282536026013696"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: |-
+    1st day of #swCPH was awesome. Great pitches and great energy! 
+    Looking forward to tomorrow...
+  id: 41282536026013696
+  from_user_id: 127372566
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Fri, 25 Feb 2011 23:28:19 +0000
+  from_user: HoustonSW
+  id_str: "41278345257828352"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @seanrmurphy: #swdub taking on the world - well  #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis  at least ;-)"
+  id: 41278345257828352
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Fri, 25 Feb 2011 23:28:17 +0000
+  from_user: sarahmworthy
+  id_str: "41278337745825792"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @seanrmurphy: #swdub taking on the world - well  #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis  at least ;-)"
+  id: 41278337745825792
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "117121323"
+  profile_image_url: http://a2.twimg.com/profile_images/905236884/logo_stort_v2-korn-1_normal.jpg
+  created_at: Fri, 25 Feb 2011 23:10:18 +0000
+  from_user: Kim_Balle
+  id_str: "41273814805528576"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Great first day at Startup Weekend Copenhagen so far... We have some cool teams created working on some big ideas. #swCPH"
+  id: 41273814805528576
+  from_user_id: 117121323
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6095200"
+  profile_image_url: http://a0.twimg.com/profile_images/1183862552/8fbc98ad-a97e-4a6a-9db1-f486ca655aa2_normal.png
+  created_at: Fri, 25 Feb 2011 22:59:02 +0000
+  from_user: digbyj
+  id_str: "41270977098821633"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @wfjackson3: Dear Twitter, I need contacts in the retail industry doing in store marketing. Please RT. #swCPH."
+  id: 41270977098821633
+  from_user_id: 6095200
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "350755"
+  profile_image_url: http://a3.twimg.com/profile_images/1123673250/whereisciao_normal.jpeg
+  created_at: Fri, 25 Feb 2011 22:43:27 +0000
+  from_user: whereisciao
+  id_str: "41267055659319296"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @wfjackson3: Dear Twitter, I need contacts in the retail industry doing in store marketing. Please RT. #swCPH."
+  id: 41267055659319296
+  from_user_id: 350755
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "3497405"
+  profile_image_url: http://a0.twimg.com/profile_images/129065945/Tam_kids_normal.jpg
+  created_at: Fri, 25 Feb 2011 22:40:48 +0000
+  from_user: DVSGEM
+  id_str: "41266388110680064"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @wfjackson3: Dear Twitter, I need contacts in the retail industry doing in store marketing. Please RT. #swCPH."
+  id: 41266388110680064
+  from_user_id: 3497405
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "111667967"
+  profile_image_url: http://a1.twimg.com/profile_images/1133123080/Optimized-Robin_normal.JPG
+  created_at: Fri, 25 Feb 2011 22:40:21 +0000
+  from_user: robin_ahn
+  id_str: "41266277259550720"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @wfjackson3: Dear Twitter, I need contacts in the retail industry doing in store marketing. Please RT. #swCPH."
+  id: 41266277259550720
+  from_user_id: 111667967
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "103114318"
+  profile_image_url: http://a3.twimg.com/profile_images/756529832/willis_face2_normal.jpg
+  created_at: Fri, 25 Feb 2011 22:39:29 +0000
+  from_user: wfjackson3
+  id_str: "41266059155742720"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Dear Twitter, I need contacts in the retail industry doing in store marketing. Please RT. #swCPH."
+  id: 41266059155742720
+  from_user_id: 103114318
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "103114318"
+  profile_image_url: http://a3.twimg.com/profile_images/756529832/willis_face2_normal.jpg
+  created_at: Fri, 25 Feb 2011 22:31:19 +0000
+  from_user: wfjackson3
+  id_str: "41264002667520000"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 556996
+  text: "@lpillow are you busy? I need some data for my startup weekend team. #swCPH"
+  id: 41264002667520000
+  from_user_id: 103114318
+  to_user: lpillow
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "556996"
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6095200"
+  profile_image_url: http://a0.twimg.com/profile_images/1183862552/8fbc98ad-a97e-4a6a-9db1-f486ca655aa2_normal.png
+  created_at: Fri, 25 Feb 2011 22:23:25 +0000
+  from_user: digbyj
+  id_str: "41262015901204480"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 24328470
+  text: "@seanrmurphy -Wanna do some Skype conferencing tomorrow between #swCPH and #swDub ?"
+  id: 41262015901204480
+  from_user_id: 6095200
+  to_user: seanrmurphy
+  geo: !map:Hashie::Mash 
+    coordinates: 
+    - 55.6595
+    - 12.603
+    type: Point
+  iso_language_code: en
+  place: !map:Hashie::Mash 
+    id: 061f54dab162981a
+    type: neighborhood
+    full_name: "Tingvejs, K\xC3\xB8benhavn"
+  to_user_id_str: "24328470"
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "144596815"
+  profile_image_url: http://a1.twimg.com/profile_images/1104843954/1281990630_splash_beta_lightblue_normal.png
+  created_at: Fri, 25 Feb 2011 22:16:44 +0000
+  from_user: trendsonline_dk
+  id_str: "41260333557485568"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Online trend # 1 - Startupweekend er vejen mod stjernerne http://bit.ly/hxpyl9 - #swCPH #onlinetrends #erhvervsbladet #in"
+  id: 41260333557485568
+  from_user_id: 144596815
+  geo: 
+  iso_language_code: da
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1161980"
+  profile_image_url: http://a1.twimg.com/profile_images/1191863227/ecrojo_normal.png
+  created_at: Fri, 25 Feb 2011 21:47:54 +0000
+  from_user: ed_celis
+  id_str: "41253078384656384"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Lots of impressive stuff &amp; talent at #swCPH but I'll wager on The Kiwi, The Finn, and The Three Musketeers. #Startups"
+  id: 41253078384656384
+  from_user_id: 1161980
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1161980"
+  profile_image_url: http://a1.twimg.com/profile_images/1191863227/ecrojo_normal.png
+  created_at: Fri, 25 Feb 2011 21:38:43 +0000
+  from_user: ed_celis
+  id_str: "41250764114505728"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 81193246
+  text: "@alexfarcet launches #swCPH 2011 http://instagr.am/p/B16Vu/"
+  id: 41250764114505728
+  from_user_id: 1161980
+  to_user: alexfarcet
+  geo: 
+  iso_language_code: fr
+  to_user_id_str: "81193246"
+  source: "&lt;a href=&quot;http://instagr.am&quot; rel=&quot;nofollow&quot;&gt;instagram&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "186194358"
+  profile_image_url: http://a3.twimg.com/profile_images/1192158925/SW_beaker_denmark_normal.png
+  created_at: Fri, 25 Feb 2011 21:38:01 +0000
+  from_user: swCPH
+  id_str: "41250587685298176"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @4nd3rs: Holdene er sat, nu skal der udvikles! ...en h\xC3\xA5ndfuld RET coole startup-ideer p\xC3\xA5 bane! Gl\xC3\xA6der mig til at h\xC3\xB8re mere s\xC3\xB8ndag. #swCPH"
+  id: 41250587685298176
+  from_user_id: 186194358
+  geo: 
+  iso_language_code: da
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "24328470"
+  profile_image_url: http://a0.twimg.com/profile_images/402672080/profile-photo_normal.jpg
+  created_at: Fri, 25 Feb 2011 21:31:38 +0000
+  from_user: seanrmurphy
+  id_str: "41248982105718784"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#swdub taking on the world - well  #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis  at least ;-)"
+  id: 41248982105718784
+  from_user_id: 24328470
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "2312479"
+  profile_image_url: http://a1.twimg.com/profile_images/725686202/and_portr_t_befunky_normal.jpg
+  created_at: Fri, 25 Feb 2011 21:02:14 +0000
+  from_user: 4ND3RS
+  id_str: "41241583747596288"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 109500448
+  text: "@Digital_Agenda Startup Weekend Copenhagen hvis du Googler det. 70-80 n\xC3\xB8rder der udvikler og pitcher p\xC3\xA5 52 timer. Supercool! #swCPH"
+  id: 41241583747596288
+  from_user_id: 2312479
+  to_user: Digital_Agenda
+  geo: 
+  iso_language_code: da
+  to_user_id_str: "109500448"
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "8388207"
+  profile_image_url: http://a2.twimg.com/profile_images/587734607/DSC01881-kopi1_normal.jpg
+  created_at: Fri, 25 Feb 2011 21:00:12 +0000
+  from_user: svenningsen
+  id_str: "41241072919248896"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @buyukkotukurt: Getting ready for #swcph Thank you #eventbird for awesome application."
+  id: 41241072919248896
+  from_user_id: 8388207
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "223942"
+  profile_image_url: http://a2.twimg.com/profile_images/1194287103/niklas_twitter_normal.jpg
+  created_at: Fri, 25 Feb 2011 21:00:09 +0000
+  from_user: nikstep
+  id_str: "41241059858202624"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Jeg h\xC3\xA5ber der er godt gang i #swcph, gl\xC3\xA6der mig meget til at kigge forbi i morgen og tale!"
+  id: 41241059858202624
+  from_user_id: 223942
+  geo: 
+  iso_language_code: da
+  place: !map:Hashie::Mash 
+    id: ca68c24a81a05801
+    type: neighborhood
+    full_name: "Amager \xC3\x98st, K\xC3\xB8benhavn"
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "8388207"
+  profile_image_url: http://a2.twimg.com/profile_images/587734607/DSC01881-kopi1_normal.jpg
+  created_at: Fri, 25 Feb 2011 20:59:32 +0000
+  from_user: svenningsen
+  id_str: "41240903247073281"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @JonasWho: Going to #swcph tonight. Looking forward to some great pitches. Oh and BTW... #EventBird rocks \\m/"
+  id: 41240903247073281
+  from_user_id: 8388207
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "8388207"
+  profile_image_url: http://a2.twimg.com/profile_images/587734607/DSC01881-kopi1_normal.jpg
+  created_at: Fri, 25 Feb 2011 20:58:02 +0000
+  from_user: svenningsen
+  id_str: "41240525721837568"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @ErolKazan: pretty neat the app for #swCPH"
+  id: 41240525721837568
+  from_user_id: 8388207
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "105742"
+  profile_image_url: http://a1.twimg.com/profile_images/415286337/johns-33_normal.jpg
+  created_at: Fri, 25 Feb 2011 20:40:13 +0000
+  from_user: sechrest
+  id_str: "41236041549623296"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: Huge respect to the Tunis Startup Weekend crew for pulling off an event now #swTunis #swCPH"
+  id: 41236041549623296
+  from_user_id: 105742
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "103114318"
+  profile_image_url: http://a3.twimg.com/profile_images/756529832/willis_face2_normal.jpg
+  created_at: Fri, 25 Feb 2011 20:33:00 +0000
+  from_user: wfjackson3
+  id_str: "41234225827037184"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Ok, I am finally at #swCPH. This is going to be tough, I am already exhausted."
+  id: 41234225827037184
+  from_user_id: 103114318
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "2312479"
+  profile_image_url: http://a1.twimg.com/profile_images/725686202/and_portr_t_befunky_normal.jpg
+  created_at: Fri, 25 Feb 2011 20:31:48 +0000
+  from_user: 4ND3RS
+  id_str: "41233924256436224"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Holdene er sat, nu skal der udvikles! Der er i hvert en h\xC3\xA5ndfuld RET coole startup-ideer p\xC3\xA5 bane! Gl\xC3\xA6der mig til at h\xC3\xB8re mere s\xC3\xB8ndag. #swCPH"
+  id: 41233924256436224
+  from_user_id: 2312479
+  geo: 
+  iso_language_code: da
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/app/twitter/id333903271?mt=8&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPad&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "214130"
+  profile_image_url: http://a2.twimg.com/profile_images/76697051/n620814159_6281_normal.jpg
+  created_at: Fri, 25 Feb 2011 20:29:23 +0000
+  from_user: mikebevz
+  id_str: "41233317324009472"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Hiring developers #swcph  @ CBS howitzvej http://instagr.am/p/B12Rr/"
+  id: 41233317324009472
+  from_user_id: 214130
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://instagr.am&quot; rel=&quot;nofollow&quot;&gt;instagram&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "81879447"
+  profile_image_url: http://a0.twimg.com/profile_images/1165529036/cla_avatar_late_2010_100_normal.jpg
+  created_at: Fri, 25 Feb 2011 20:21:32 +0000
+  from_user: CCarnino
+  id_str: "41231339634176000"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @SBootcamp: We're streaming live on Bambuser via the Copenhagen Startup Weekend site http://ht.ly/43wf9 #swCPH"
+  id: 41231339634176000
+  from_user_id: 81879447
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "348487"
+  profile_image_url: http://a3.twimg.com/profile_images/1254636377/nfs_green_normal.jpg
+  created_at: Fri, 25 Feb 2011 20:14:07 +0000
+  from_user: nfsaxberg
+  id_str: "41229474871640064"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 34918547
+  text: "@Arican You got it - if #swcph wants it! #need"
+  id: 41229474871640064
+  from_user_id: 348487
+  to_user: Arican
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "34918547"
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "33056901"
+  profile_image_url: http://a0.twimg.com/profile_images/1175295979/senne-vaeyens-cut-l_normal.jpg
+  created_at: Fri, 25 Feb 2011 20:10:31 +0000
+  from_user: svaeyens
+  id_str: "41228570227507200"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Saw some nice pitches at #swcph"
+  id: 41228570227507200
+  from_user_id: 33056901
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "791031"
+  profile_image_url: http://a3.twimg.com/profile_images/803754510/n689968178_324295_4585_copy_normal.jpg
+  created_at: Fri, 25 Feb 2011 19:58:52 +0000
+  from_user: nopstrup
+  id_str: "41225636261543936"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "So, I finally pitched an idea and ended up with 0 votes. All my own votes goes to Conferize #swCPH"
+  id: 41225636261543936
+  from_user_id: 791031
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/app/twitter/id333903271?mt=8&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPad&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "52112787"
+  profile_image_url: http://a2.twimg.com/profile_images/1152393451/DSC06076_normal.jpg
+  created_at: Fri, 25 Feb 2011 19:41:42 +0000
+  from_user: NickBruun
+  id_str: "41221315734159360"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Gus the Pitch Machine just nailed our pitch at #swcph @ideasoutloud #rockstar"
+  id: 41221315734159360
+  from_user_id: 52112787
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "222716754"
+  profile_image_url: http://a1.twimg.com/profile_images/1246450664/MW_normal.png
+  created_at: Fri, 25 Feb 2011 19:36:55 +0000
+  from_user: mindwallet
+  id_str: "41220113801818112"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Tell us about your projects #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis http://www.mindwallet.com/home/StartupWeekend"
+  id: 41220113801818112
+  from_user_id: 222716754
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "20807767"
+  profile_image_url: http://a2.twimg.com/profile_images/254341323/2ba313f_normal.jpg
+  created_at: Fri, 25 Feb 2011 19:23:47 +0000
+  from_user: TactileEnt
+  id_str: "41216809638035456"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "awesome pitch session at #swcph"
+  id: 41216809638035456
+  from_user_id: 20807767
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6095200"
+  profile_image_url: http://a0.twimg.com/profile_images/1183862552/8fbc98ad-a97e-4a6a-9db1-f486ca655aa2_normal.png
+  created_at: Fri, 25 Feb 2011 19:23:28 +0000
+  from_user: digbyj
+  id_str: "41216728289513472"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Following the life of Gus - the #swCPH documentary :) http://twitpic.com/43oaxm"
+  id: 41216728289513472
+  from_user_id: 6095200
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitpic.com&quot; rel=&quot;nofollow&quot;&gt;Twitpic&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "2984580"
+  profile_image_url: http://a3.twimg.com/profile_images/802159027/luisriverag_normal.jpg
+  created_at: Fri, 25 Feb 2011 19:22:11 +0000
+  from_user: luisriverag
+  id_str: "41216403923156992"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @tahitahi: RT @4ND3RS: RT @swCPH: We're streaming live on Bambuser via the Copenhagen Startup Weekend site http://ht.ly/43wfz #swCPH"
+  id: 41216403923156992
+  from_user_id: 2984580
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "37046712"
+  profile_image_url: http://a1.twimg.com/profile_images/1032857944/b-boint-betcafe.com_normal.jpg
+  created_at: Fri, 25 Feb 2011 19:19:45 +0000
+  from_user: betcafe
+  id_str: "41215794864062464"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 6095200
+  text: "@digbyj Hello Copenhagen ! #swCPH  Regards from http://BETCAFE.com ;)"
+  id: 41215794864062464
+  from_user_id: 37046712
+  to_user: digbyj
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "6095200"
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "108184289"
+  profile_image_url: http://a1.twimg.com/profile_images/1166070709/avitar2_normal.jpg
+  created_at: Fri, 25 Feb 2011 19:18:57 +0000
+  from_user: ChrisKaalund
+  id_str: "41215590454530048"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Pitches are great but someone shoot the guy that keep on screaming 10 sec #swCPH"
+  id: 41215590454530048
+  from_user_id: 108184289
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "10893669"
+  profile_image_url: http://a3.twimg.com/profile_images/151329245/n808748278_1453095_7483758_normal.jpg
+  created_at: Fri, 25 Feb 2011 19:17:25 +0000
+  from_user: Swiatecki
+  id_str: "41215206117875712"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Hope you are having a great time! Ps. Ask Lasse Chor about The Mac and The beer. /a SW alumni #swcph"
+  id: 41215206117875712
+  from_user_id: 10893669
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "9570922"
+  profile_image_url: http://a0.twimg.com/profile_images/1154455291/d3fbb3f98bd4997600bbc3f3095416f5_normal.png
+  created_at: Fri, 25 Feb 2011 19:16:49 +0000
+  from_user: iconfinder
+  id_str: "41215053503926272"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 3114359
+  text: "@amir_harel @bjerngaard Great work, guys! #swcph"
+  id: 41215053503926272
+  from_user_id: 9570922
+  to_user: amir_harel
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "3114359"
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "3114359"
+  profile_image_url: http://a1.twimg.com/profile_images/68167386/n682238463_197827_4267_normal.jpg
+  created_at: Fri, 25 Feb 2011 19:13:26 +0000
+  from_user: amir_harel
+  id_str: "41214202060341248"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "I pitched talking layers and I'm the guy with the white shirt ;) #swcph"
+  id: 41214202060341248
+  from_user_id: 3114359
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "4778028"
+  profile_image_url: http://a0.twimg.com/profile_images/529500789/kthphoto_normal.jpg
+  created_at: Fri, 25 Feb 2011 19:06:54 +0000
+  from_user: stoffr
+  id_str: "41212560669810688"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#Swcph Pitch 21 http://t.co/iS5aB56"
+  id: 41212560669810688
+  from_user_id: 4778028
+  geo: 
+  iso_language_code: pl
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter for Android&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "3114359"
+  profile_image_url: http://a1.twimg.com/profile_images/68167386/n682238463_197827_4267_normal.jpg
+  created_at: Fri, 25 Feb 2011 19:00:20 +0000
+  from_user: amir_harel
+  id_str: "41210906113212416"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "just pitched at #swcph what a rush!!!"
+  id: 41210906113212416
+  from_user_id: 3114359
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "44647007"
+  profile_image_url: http://a2.twimg.com/profile_images/1184233684/Rasmus_Bjerngaard_4_normal.jpg
+  created_at: Fri, 25 Feb 2011 19:00:00 +0000
+  from_user: bjerngaard
+  id_str: "41210824798384128"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Pitching ongoing at StartupWeekend Copenhagen #swcph"
+  id: 41210824798384128
+  from_user_id: 44647007
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "3060256"
+  profile_image_url: http://a1.twimg.com/profile_images/299851698/ls_8914_n600028377_101131_1493_normal.jpg
+  created_at: Fri, 25 Feb 2011 18:56:55 +0000
+  from_user: ChristianErfurt
+  id_str: "41210046952112128"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Rock out with your c%ck out - #swCPH is amazing! Pitch pitch pitch"
+  id: 41210046952112128
+  from_user_id: 3060256
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6095200"
+  profile_image_url: http://a0.twimg.com/profile_images/1183862552/8fbc98ad-a97e-4a6a-9db1-f486ca655aa2_normal.png
+  created_at: Fri, 25 Feb 2011 18:56:44 +0000
+  from_user: digbyj
+  id_str: "41209999162220544"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Startup Weekend themed #FF #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis - All happening this weekend!!!!!"
+  id: 41209999162220544
+  from_user_id: 6095200
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "2312479"
+  profile_image_url: http://a1.twimg.com/profile_images/725686202/and_portr_t_befunky_normal.jpg
+  created_at: Fri, 25 Feb 2011 18:54:00 +0000
+  from_user: 4ND3RS
+  id_str: "41209311149555712"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Der pitches p\xC3\xA5 livet l\xC3\xB8s til Startup Weekend #swCPH (@ CBS howitzvej) http://picplz.com/WbJG"
+  id: 41209311149555712
+  from_user_id: 2312479
+  geo: !map:Hashie::Mash 
+    coordinates: 
+    - 55.6802
+    - 12.5249
+    type: Point
+  iso_language_code: da
+  place: !map:Hashie::Mash 
+    id: 957c90ef2788392e
+    type: neighborhood
+    full_name: "Frederiksberg, K\xC3\xB8benhavn"
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://picplz.com/&quot; rel=&quot;nofollow&quot;&gt;picplz&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6095200"
+  profile_image_url: http://a0.twimg.com/profile_images/1183862552/8fbc98ad-a97e-4a6a-9db1-f486ca655aa2_normal.png
+  created_at: Fri, 25 Feb 2011 18:53:38 +0000
+  from_user: digbyj
+  id_str: "41209219315138560"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Sorry about the streaming at #swCPH - we will make sure that the final presentations on Sunday will be awesome :)"
+  id: 41209219315138560
+  from_user_id: 6095200
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "22284544"
+  profile_image_url: http://a1.twimg.com/profile_images/282483978/logo_for_twitter_normal.png
+  created_at: Fri, 25 Feb 2011 18:46:52 +0000
+  from_user: iotals
+  id_str: "41207516121530368"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41207516121530368
+  from_user_id: 22284544
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "117232"
+  profile_image_url: http://a0.twimg.com/profile_images/279844901/1242517_normal.jpg
+  created_at: Fri, 25 Feb 2011 18:43:23 +0000
+  from_user: wulffeld
+  id_str: "41206640652980224"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Pitchers #swcph  http://plixi.com/p/79921588"
+  id: 41206640652980224
+  from_user_id: 117232
+  geo: 
+  iso_language_code: fr
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "60702383"
+  profile_image_url: http://a0.twimg.com/profile_images/422421848/n695479961_653_normal.jpg
+  created_at: Fri, 25 Feb 2011 18:36:48 +0000
+  from_user: cborodescu
+  id_str: "41204983550590976"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Great to be at Startup Weekend CPH #swCPH Happy to be meeting familiar faces #mentors"
+  id: 41204983550590976
+  from_user_id: 60702383
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter for Android&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "8868851"
+  profile_image_url: http://a2.twimg.com/profile_images/124492867/n522967075_1538469_4267308.jpg_normal.jpeg
+  created_at: Fri, 25 Feb 2011 18:32:23 +0000
+  from_user: chorDK
+  id_str: "41203872118734848"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Pitches, pitches, pitches, pitches, pitches!!! #swcph"
+  id: 41203872118734848
+  from_user_id: 8868851
+  geo: 
+  iso_language_code: fr
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/app/twitter/id333903271?mt=8&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPad&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "186194358"
+  profile_image_url: http://a3.twimg.com/profile_images/1192158925/SW_beaker_denmark_normal.png
+  created_at: Fri, 25 Feb 2011 18:31:19 +0000
+  from_user: swCPH
+  id_str: "41203605176467456"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @nickmartn: Bring on the pitches! #swcph"
+  id: 41203605176467456
+  from_user_id: 186194358
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "146202622"
+  profile_image_url: http://a1.twimg.com/profile_images/1124890061/1786_PL2_2397-1_normal.jpg
+  created_at: Fri, 25 Feb 2011 18:27:55 +0000
+  from_user: nickmartn
+  id_str: "41202748246601728"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Bring on the pitches! #swcph"
+  id: 41202748246601728
+  from_user_id: 146202622
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1161980"
+  profile_image_url: http://a1.twimg.com/profile_images/1191863227/ecrojo_normal.png
+  created_at: Fri, 25 Feb 2011 18:15:12 +0000
+  from_user: ed_celis
+  id_str: "41199549569695744"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Watching dreams being launched #swCPH #Happy #Startups"
+  id: 41199549569695744
+  from_user_id: 1161980
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "2312479"
+  profile_image_url: http://a1.twimg.com/profile_images/725686202/and_portr_t_befunky_normal.jpg
+  created_at: Fri, 25 Feb 2011 18:10:12 +0000
+  from_user: 4ND3RS
+  id_str: "41198289072308224"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Looking forward to talking to last Startup Weekend stars from Memolane - as well as the people behind the new ideas, of course! #swCPH"
+  id: 41198289072308224
+  from_user_id: 2312479
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/app/twitter/id333903271?mt=8&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPad&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "52095656"
+  profile_image_url: http://a0.twimg.com/profile_images/1239412156/sswc5_normal.jpg
+  created_at: Fri, 25 Feb 2011 18:09:49 +0000
+  from_user: tahitahi
+  id_str: "41198191760244736"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @4ND3RS: RT @swCPH: We're streaming live on Bambuser via the Copenhagen Startup Weekend site http://ht.ly/43wfz #swCPH"
+  id: 41198191760244736
+  from_user_id: 52095656
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "92835991"
+  profile_image_url: http://a0.twimg.com/profile_images/1142282997/UA_twitter_normal.jpg
+  created_at: Fri, 25 Feb 2011 18:09:13 +0000
+  from_user: unitedaccel
+  id_str: "41198041599836160"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "SBootCamp: We're streaming live on Bambuser via the Copenhagen Startup Weekend site http://ht.ly/43wf9 #swCPH http://bit.ly/hiY3u3"
+  id: 41198041599836160
+  from_user_id: 92835991
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "92835991"
+  profile_image_url: http://a0.twimg.com/profile_images/1142282997/UA_twitter_normal.jpg
+  created_at: Fri, 25 Feb 2011 18:09:12 +0000
+  from_user: unitedaccel
+  id_str: "41198040417050624"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @tetuanvalley: RT @swCPH: Did you know.. #swCPH is brought to you by @sBootCamp &amp; co! Dont forget to check th... http://bit.ly/giubTy"
+  id: 41198040417050624
+  from_user_id: 92835991
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "2312479"
+  profile_image_url: http://a1.twimg.com/profile_images/725686202/and_portr_t_befunky_normal.jpg
+  created_at: Fri, 25 Feb 2011 18:07:15 +0000
+  from_user: 4ND3RS
+  id_str: "41197547779403777"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swCPH: We're streaming live on Bambuser via the Copenhagen Startup Weekend site http://ht.ly/43wfz #swCPH"
+  id: 41197547779403777
+  from_user_id: 2312479
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "52095656"
+  profile_image_url: http://a0.twimg.com/profile_images/1239412156/sswc5_normal.jpg
+  created_at: Fri, 25 Feb 2011 18:07:03 +0000
+  from_user: tahitahi
+  id_str: "41197496910749696"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Like 200 mad startup fanatics under one roof, startup weekend kicking off! #swCPH  http://yfrog.com/hsgwombj"
+  id: 41197496910749696
+  from_user_id: 52095656
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "108184289"
+  profile_image_url: http://a1.twimg.com/profile_images/1166070709/avitar2_normal.jpg
+  created_at: Fri, 25 Feb 2011 18:06:47 +0000
+  from_user: ChrisKaalund
+  id_str: "41197430011731968"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "And off we are #swcph  http://yfrog.com/gye9jrlj"
+  id: 41197430011731968
+  from_user_id: 108184289
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "2312479"
+  profile_image_url: http://a1.twimg.com/profile_images/725686202/and_portr_t_befunky_normal.jpg
+  created_at: Fri, 25 Feb 2011 18:06:16 +0000
+  from_user: 4ND3RS
+  id_str: "41197301716361216"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "P\xC3\xA5 plads til velkomsten til Startup Weekend i K\xC3\xA6benhavn. Alex Farcet varmer op :-) #swCPH"
+  id: 41197301716361216
+  from_user_id: 2312479
+  geo: 
+  iso_language_code: da
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/app/twitter/id333903271?mt=8&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPad&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "791031"
+  profile_image_url: http://a3.twimg.com/profile_images/803754510/n689968178_324295_4585_copy_normal.jpg
+  created_at: Fri, 25 Feb 2011 18:03:19 +0000
+  from_user: nopstrup
+  id_str: "41196556162043904"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Time for some serious pitching! #swCPH"
+  id: 41196556162043904
+  from_user_id: 791031
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "71174766"
+  profile_image_url: http://a0.twimg.com/profile_images/515993137/ph7_normal.jpg
+  created_at: Fri, 25 Feb 2011 18:01:42 +0000
+  from_user: pavelhradecky
+  id_str: "41196150811926528"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swCPH: We are now live to the world!! http://bit.ly/swCPHlive #swCPH"
+  id: 41196150811926528
+  from_user_id: 71174766
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6806782"
+  profile_image_url: http://a2.twimg.com/profile_images/1195041014/66878_479105569790_712094790_5485315_7782326_n_normal.jpg
+  created_at: Fri, 25 Feb 2011 18:01:33 +0000
+  from_user: christianrex
+  id_str: "41196114682052608"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#swCPH is lift-off!!!"
+  id: 41196114682052608
+  from_user_id: 6806782
+  geo: 
+  iso_language_code: "no"
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "3114359"
+  profile_image_url: http://a1.twimg.com/profile_images/68167386/n682238463_197827_4267_normal.jpg
+  created_at: Fri, 25 Feb 2011 18:00:59 +0000
+  from_user: amir_harel
+  id_str: "41195972461600768"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "pitching starts at #swcph"
+  id: 41195972461600768
+  from_user_id: 3114359
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "21948544"
+  profile_image_url: http://a2.twimg.com/profile_images/31794772/Photo_7_normal.jpg
+  created_at: Fri, 25 Feb 2011 17:59:19 +0000
+  from_user: jrisch
+  id_str: "41195552456581120"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Dinner is over. Now it's time for the pitches. #swcph"
+  id: 41195552456581120
+  from_user_id: 21948544
+  geo: !map:Hashie::Mash 
+    coordinates: 
+    - 55.6807
+    - 12.5246
+    type: Point
+  iso_language_code: en
+  place: !map:Hashie::Mash 
+    id: 957c90ef2788392e
+    type: neighborhood
+    full_name: "Frederiksberg, K\xC3\xB8benhavn"
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "94667567"
+  profile_image_url: http://a0.twimg.com/profile_images/675029842/bl_g_rdsgade_normal.JPG
+  created_at: Fri, 25 Feb 2011 17:55:56 +0000
+  from_user: silversen
+  id_str: "41194700950081536"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swCPH: We're streaming live on Bambuser via the Copenhagen Startup Weekend site http://ht.ly/43wfz #swCPH"
+  id: 41194700950081536
+  from_user_id: 94667567
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "94667567"
+  profile_image_url: http://a0.twimg.com/profile_images/675029842/bl_g_rdsgade_normal.JPG
+  created_at: Fri, 25 Feb 2011 17:54:53 +0000
+  from_user: silversen
+  id_str: "41194433819066368"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swCPH: Gignal screen is up and running at Copenhagen Startup Weekend http://gignal.com/events/view/18 #swCPH"
+  id: 41194433819066368
+  from_user_id: 94667567
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "186194358"
+  profile_image_url: http://a3.twimg.com/profile_images/1192158925/SW_beaker_denmark_normal.png
+  created_at: Fri, 25 Feb 2011 17:54:04 +0000
+  from_user: swCPH
+  id_str: "41194230869135360"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "We're streaming live on Bambuser via the Copenhagen Startup Weekend site http://ht.ly/43wfz #swCPH"
+  id: 41194230869135360
+  from_user_id: 186194358
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "74847355"
+  profile_image_url: http://a3.twimg.com/profile_images/691394022/sbc_twitter_normal.gif
+  created_at: Fri, 25 Feb 2011 17:54:04 +0000
+  from_user: SBootcamp
+  id_str: "41194229778620416"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "We're streaming live on Bambuser via the Copenhagen Startup Weekend site http://ht.ly/43wf9 #swCPH"
+  id: 41194229778620416
+  from_user_id: 74847355
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "186194358"
+  profile_image_url: http://a3.twimg.com/profile_images/1192158925/SW_beaker_denmark_normal.png
+  created_at: Fri, 25 Feb 2011 17:53:20 +0000
+  from_user: swCPH
+  id_str: "41194047020204032"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Gignal screen is up and running at Copenhagen Startup Weekend http://gignal.com/events/view/18 #swCPH"
+  id: 41194047020204032
+  from_user_id: 186194358
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "172181630"
+  profile_image_url: http://a1.twimg.com/profile_images/1250395777/ThanPolasOne_normal.jpg
+  created_at: Fri, 25 Feb 2011 17:47:26 +0000
+  from_user: thanpolas
+  id_str: "41192560160555008"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swCPH: We are now live to the world!! http://bit.ly/swCPHlive #swCPH"
+  id: 41192560160555008
+  from_user_id: 172181630
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "20222891"
+  profile_image_url: http://a1.twimg.com/profile_images/1156149206/October_31__2010_-_03-07-34_-__normal.jpg
+  created_at: Fri, 25 Feb 2011 17:45:35 +0000
+  from_user: wbednarski
+  id_str: "41192097260244992"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swCPH: We are now live to the world!! http://bit.ly/swCPHlive #swCPH"
+  id: 41192097260244992
+  from_user_id: 20222891
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6095200"
+  profile_image_url: http://a0.twimg.com/profile_images/1183862552/8fbc98ad-a97e-4a6a-9db1-f486ca655aa2_normal.png
+  created_at: Fri, 25 Feb 2011 17:45:22 +0000
+  from_user: digbyj
+  id_str: "41192042558136320"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swCPH: We are now live to the world!! http://bit.ly/swCPHlive #swCPH"
+  id: 41192042558136320
+  from_user_id: 6095200
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "175826487"
+  profile_image_url: http://a3.twimg.com/profile_images/1181446693/beaker_watermark_normal.png
+  created_at: Fri, 25 Feb 2011 17:45:03 +0000
+  from_user: swHighTech
+  id_str: "41191960517681152"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swCPH: We are now live to the world!! http://bit.ly/swCPHlive #swCPH"
+  id: 41191960517681152
+  from_user_id: 175826487
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "186194358"
+  profile_image_url: http://a3.twimg.com/profile_images/1192158925/SW_beaker_denmark_normal.png
+  created_at: Fri, 25 Feb 2011 17:39:30 +0000
+  from_user: swCPH
+  id_str: "41190562891710464"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "We are now live to the world!! http://bit.ly/swCPHlive #swCPH"
+  id: 41190562891710464
+  from_user_id: 186194358
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "3486409"
+  profile_image_url: http://a3.twimg.com/profile_images/1114589277/ok_ventures_normal.jpg
+  created_at: Fri, 25 Feb 2011 17:27:43 +0000
+  from_user: okuriventures
+  id_str: "41187600786128896"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swCPH: Did you know.. #swCPH is brought to you by @sBootCamp &amp; co! Dont forget to check them out after on how they can kick start your project :)"
+  id: 41187600786128896
+  from_user_id: 3486409
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "2984580"
+  profile_image_url: http://a3.twimg.com/profile_images/802159027/luisriverag_normal.jpg
+  created_at: Fri, 25 Feb 2011 17:27:35 +0000
+  from_user: luisriverag
+  id_str: "41187566405287936"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swCPH: Did you know.. #swCPH is brought to you by @sBootCamp &amp; co! Dont forget to check them out after on how they can kick start your project :)"
+  id: 41187566405287936
+  from_user_id: 2984580
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "21548686"
+  profile_image_url: http://a1.twimg.com/profile_images/1114624090/TVSS_logo_orange_normal.jpg
+  created_at: Fri, 25 Feb 2011 17:27:29 +0000
+  from_user: tetuanvalley
+  id_str: "41187538274230272"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swCPH: Did you know.. #swCPH is brought to you by @sBootCamp &amp; co! Dont forget to check them out after on how they can kick start your project :)"
+  id: 41187538274230272
+  from_user_id: 21548686
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "144596815"
+  profile_image_url: http://a1.twimg.com/profile_images/1104843954/1281990630_splash_beta_lightblue_normal.png
+  created_at: Fri, 25 Feb 2011 17:10:57 +0000
+  from_user: trendsonline_dk
+  id_str: "41183381496676352"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Looking forward to swCPH coming tomorrow and interviewing teams and individuals for http://bit.ly/iiID1G. interested? #swCPH #pr #startup"
+  id: 41183381496676352
+  from_user_id: 144596815
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "20888261"
+  profile_image_url: http://a3.twimg.com/profile_images/793630105/Picture_2_normal.png
+  created_at: Fri, 25 Feb 2011 17:02:53 +0000
+  from_user: DKMayer
+  id_str: "41181351499677696"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41181351499677696
+  from_user_id: 20888261
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "348487"
+  profile_image_url: http://a3.twimg.com/profile_images/1254636377/nfs_green_normal.jpg
+  created_at: Fri, 25 Feb 2011 17:02:28 +0000
+  from_user: nfsaxberg
+  id_str: "41181246214111232"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Somethings cooking rt @Gignal If u didn't make it to Startup Weekend Copenhagen follow the Gignal! http://bit.ly/grVqtE #swCPH #ShareTheBuzz"
+  id: 41181246214111232
+  from_user_id: 348487
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/app/twitter/id333903271?mt=8&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPad&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "35127854"
+  profile_image_url: http://a1.twimg.com/profile_images/128721845/dennis_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:55:38 +0000
+  from_user: dblynov
+  id_str: "41179525626855424"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41179525626855424
+  from_user_id: 35127854
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:53:07 +0000
+  from_user: HoustonSW
+  id_str: "41178890663632897"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41178890663632897
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Fri, 25 Feb 2011 16:53:06 +0000
+  from_user: sarahmworthy
+  id_str: "41178887475961856"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41178887475961856
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "94667567"
+  profile_image_url: http://a0.twimg.com/profile_images/675029842/bl_g_rdsgade_normal.JPG
+  created_at: Fri, 25 Feb 2011 16:49:31 +0000
+  from_user: silversen
+  id_str: "41177985948192769"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swCPH: RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41177985948192769
+  from_user_id: 94667567
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "165916940"
+  profile_image_url: http://a3.twimg.com/profile_images/1213167426/d04f5c5c-ca4b-43c2-87c9-e9d12b3832dd_normal.png
+  created_at: Fri, 25 Feb 2011 16:40:01 +0000
+  from_user: slimKhan
+  id_str: "41175595945693184"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41175595945693184
+  from_user_id: 165916940
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "75614016"
+  profile_image_url: http://a1.twimg.com/profile_images/1247161805/edited_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:39:43 +0000
+  from_user: KaisEG
+  id_str: "41175518002950145"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41175518002950145
+  from_user_id: 75614016
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "3114359"
+  profile_image_url: http://a1.twimg.com/profile_images/68167386/n682238463_197827_4267_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:39:04 +0000
+  from_user: amir_harel
+  id_str: "41175357176553472"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "ppl are making their own t-shirts at #swcph so you can tell who they are and what they do. smart &amp; fun"
+  id: 41175357176553472
+  from_user_id: 3114359
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "791031"
+  profile_image_url: http://a3.twimg.com/profile_images/803754510/n689968178_324295_4585_copy_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:36:15 +0000
+  from_user: nopstrup
+  id_str: "41174647936528384"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41174647936528384
+  from_user_id: 791031
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "81193246"
+  profile_image_url: http://a3.twimg.com/profile_images/1231932826/Alex_normal.JPG
+  created_at: Fri, 25 Feb 2011 16:35:21 +0000
+  from_user: alexfarcet
+  id_str: "41174419787358208"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 132944
+  text: "@encinar Thanks, great vibes received and definitely in the house! #swCPH"
+  id: 41174419787358208
+  from_user_id: 81193246
+  to_user: encinar
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "132944"
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "791031"
+  profile_image_url: http://a3.twimg.com/profile_images/803754510/n689968178_324295_4585_copy_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:35:15 +0000
+  from_user: nopstrup
+  id_str: "41174395590418433"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Startup Weekend FTW #swCPH (@ CBS howitzvej) http://4sq.com/g5oxSn"
+  id: 41174395590418433
+  from_user_id: 791031
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://foursquare.com&quot; rel=&quot;nofollow&quot;&gt;foursquare&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "132944"
+  profile_image_url: http://a2.twimg.com/profile_images/1121281829/ioio_normal.png
+  created_at: Fri, 25 Feb 2011 16:33:37 +0000
+  from_user: encinar
+  id_str: "41173983332274176"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekend starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis &amp; #swCPH"
+  id: 41173983332274176
+  from_user_id: 132944
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "23520418"
+  profile_image_url: http://a1.twimg.com/profile_images/1184060280/dfa1987b-a4d2-4377-b3cf-507dbf4c32af_normal.png
+  created_at: Fri, 25 Feb 2011 16:33:24 +0000
+  from_user: gairifo
+  id_str: "41173927875198976"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @SBootcamp: RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41173927875198976
+  from_user_id: 23520418
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "186194358"
+  profile_image_url: http://a3.twimg.com/profile_images/1192158925/SW_beaker_denmark_normal.png
+  created_at: Fri, 25 Feb 2011 16:32:33 +0000
+  from_user: swCPH
+  id_str: "41173715727298560"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41173715727298560
+  from_user_id: 186194358
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "74847355"
+  profile_image_url: http://a3.twimg.com/profile_images/691394022/sbc_twitter_normal.gif
+  created_at: Fri, 25 Feb 2011 16:32:32 +0000
+  from_user: SBootcamp
+  id_str: "41173713055387648"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41173713055387648
+  from_user_id: 74847355
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "81193246"
+  profile_image_url: http://a3.twimg.com/profile_images/1231932826/Alex_normal.JPG
+  created_at: Fri, 25 Feb 2011 16:31:31 +0000
+  from_user: alexfarcet
+  id_str: "41173457333010432"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41173457333010432
+  from_user_id: 81193246
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "3114359"
+  profile_image_url: http://a1.twimg.com/profile_images/68167386/n682238463_197827_4267_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:23:57 +0000
+  from_user: amir_harel
+  id_str: "41171550451412993"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Arrived at startup weekend Copenhagen very excited to be here #swcph (@ Copenhagen School Of Entrepreneurship) http://4sq.com/fr3pQB"
+  id: 41171550451412993
+  from_user_id: 3114359
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://foursquare.com&quot; rel=&quot;nofollow&quot;&gt;foursquare&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "3114359"
+  profile_image_url: http://a1.twimg.com/profile_images/68167386/n682238463_197827_4267_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:22:35 +0000
+  from_user: amir_harel
+  id_str: "41171205771759616"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 132944
+  text: "@encinar thanks wish u were here with us :) #swcph"
+  id: 41171205771759616
+  from_user_id: 3114359
+  to_user: encinar
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "132944"
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "15464511"
+  profile_image_url: http://a1.twimg.com/profile_images/1206477952/33480_151097118259400_144501958918916_209660_8070936_n_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:20:21 +0000
+  from_user: nrmogensen
+  id_str: "41170645333180416"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Er klar til at give den max gas til StartupWeekend! #swCPH"
+  id: 41170645333180416
+  from_user_id: 15464511
+  geo: 
+  iso_language_code: da
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "214130"
+  profile_image_url: http://a2.twimg.com/profile_images/76697051/n620814159_6281_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:15:21 +0000
+  from_user: mikebevz
+  id_str: "41169386433806336"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Cph startupWeekend starts #swcph  @ CBS howitzvej http://instagr.am/p/B1nMw/"
+  id: 41169386433806336
+  from_user_id: 214130
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://instagr.am&quot; rel=&quot;nofollow&quot;&gt;instagram&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "132944"
+  profile_image_url: http://a2.twimg.com/profile_images/1121281829/ioio_normal.png
+  created_at: Fri, 25 Feb 2011 16:13:59 +0000
+  from_user: encinar
+  id_str: "41169044610625536"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Sending lots of good vibes to #SWCPH team and participants. Enjoy the Startup Weekend!! :) cc: @alexfarcet @luisriverag"
+  id: 41169044610625536
+  from_user_id: 132944
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "697920"
+  profile_image_url: http://a3.twimg.com/profile_images/1243916592/aGTCCixW_normal
+  created_at: Fri, 25 Feb 2011 16:12:34 +0000
+  from_user: tpedersen
+  id_str: "41168686345621504"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @ChrisKaalund: If u didn't make it to #swCPH follow the Gignal! http://bit.ly/grVqtE\xE2\x80\x9D (cc @hackavoid )"
+  id: 41168686345621504
+  from_user_id: 697920
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "8868851"
+  profile_image_url: http://a2.twimg.com/profile_images/124492867/n522967075_1538469_4267308.jpg_normal.jpeg
+  created_at: Fri, 25 Feb 2011 15:58:11 +0000
+  from_user: chorDK
+  id_str: "41165066762063872"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Fuzz building slowly at #swcph... Silence before the storm ! http://yfrog.com/gycxtbgj"
+  id: 41165066762063872
+  from_user_id: 8868851
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "77765513"
+  profile_image_url: http://a3.twimg.com/profile_images/1150748325/20100811_1erol_normal.png
+  created_at: Fri, 25 Feb 2011 15:55:20 +0000
+  from_user: ErolKazan
+  id_str: "41164352002334720"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Nice Gimmick @ #swCPH ... Twitterwall  http://t.co/AgHPYv0"
+  id: 41164352002334720
+  from_user_id: 77765513
+  geo: 
+  iso_language_code: de
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "146433885"
+  profile_image_url: http://a1.twimg.com/profile_images/1231092446/Sk_rmbillede_2011-01-31_kl._21.40.29_normal.png
+  created_at: Fri, 25 Feb 2011 15:52:14 +0000
+  from_user: MortenKrarupK
+  id_str: "41163568346972160"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "You know where the metro is headin'?! I do.. Its off to #swcph and one hell of a weekend!"
+  id: 41163568346972160
+  from_user_id: 146433885
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "125211594"
+  profile_image_url: http://a1.twimg.com/profile_images/1203179505/Gignal-G-big_normal.png
+  created_at: Fri, 25 Feb 2011 15:50:08 +0000
+  from_user: Gignal
+  id_str: "41163040611110912"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 218003460
+  text: "@gormcasper Anytime! Enjoy :) #swcph"
+  id: 41163040611110912
+  from_user_id: 125211594
+  to_user: gormcasper
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "218003460"
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "77765513"
+  profile_image_url: http://a3.twimg.com/profile_images/1150748325/20100811_1erol_normal.png
+  created_at: Fri, 25 Feb 2011 15:50:03 +0000
+  from_user: ErolKazan
+  id_str: "41163019316760576"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "First people arrived at #swCPH http://t.co/dXdZ5CR"
+  id: 41163019316760576
+  from_user_id: 77765513
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "75047721"
+  profile_image_url: http://a0.twimg.com/profile_images/493374708/n506776570_6514_normal.jpg
+  created_at: Fri, 25 Feb 2011 15:49:09 +0000
+  from_user: jens_sorensen
+  id_str: "41162795596787712"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#swCPH about to start!"
+  id: 41162795596787712
+  from_user_id: 75047721
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://messaging.nokia.com/site/main.do&quot; rel=&quot;nofollow&quot;&gt; Ovi by Nokia &lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "9570922"
+  profile_image_url: http://a0.twimg.com/profile_images/1154455291/d3fbb3f98bd4997600bbc3f3095416f5_normal.png
+  created_at: Fri, 25 Feb 2011 15:48:42 +0000
+  from_user: iconfinder
+  id_str: "41162682300235776"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Stopping by at #swcph at CBS, Copenhagen"
+  id: 41162682300235776
+  from_user_id: 9570922
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "108184289"
+  profile_image_url: http://a1.twimg.com/profile_images/1166070709/avitar2_normal.jpg
+  created_at: Fri, 25 Feb 2011 15:41:35 +0000
+  from_user: ChrisKaalund
+  id_str: "41160888396283904"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Before the storm #swcph  http://yfrog.com/hsva5hej"
+  id: 41160888396283904
+  from_user_id: 108184289
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "108184289"
+  profile_image_url: http://a1.twimg.com/profile_images/1166070709/avitar2_normal.jpg
+  created_at: Fri, 25 Feb 2011 15:39:20 +0000
+  from_user: ChrisKaalund
+  id_str: "41160322022637568"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "If u didn't make it to #swCPH follow the Gignal! http://bit.ly/grVqtE\xE2\x80\x9D (cc @hackavoid )"
+  id: 41160322022637568
+  from_user_id: 108184289
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "391949"
+  profile_image_url: http://a0.twimg.com/profile_images/724254538/DSC00242_normal.JPG
+  created_at: Fri, 25 Feb 2011 15:38:05 +0000
+  from_user: jacobat
+  id_str: "41160010495049728"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Heading for #swcph. Hoping it will rival the experience from last time."
+  id: 41160010495049728
+  from_user_id: 391949
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "3114359"
+  profile_image_url: http://a1.twimg.com/profile_images/68167386/n682238463_197827_4267_normal.jpg
+  created_at: Fri, 25 Feb 2011 15:35:38 +0000
+  from_user: amir_harel
+  id_str: "41159392917336064"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "arrived at Copenhagen, they weren't kidden when they say everybody drives a bike here, thats cool. going to pitch tonight at #swCPH"
+  id: 41159392917336064
+  from_user_id: 3114359
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6806782"
+  profile_image_url: http://a2.twimg.com/profile_images/1195041014/66878_479105569790_712094790_5485315_7782326_n_normal.jpg
+  created_at: Fri, 25 Feb 2011 15:29:27 +0000
+  from_user: christianrex
+  id_str: "41157835500957696"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "is enroute #swCPH with @digby &amp; @idea72com - and all the leftover entrepreneurial spirit we can conjure!"
+  id: 41157835500957696
+  from_user_id: 6806782
+  geo: !map:Hashie::Mash 
+    coordinates: 
+    - 55.8135
+    - 12.5288
+    type: Point
+  iso_language_code: en
+  place: !map:Hashie::Mash 
+    id: 718be4f797a12c84
+    type: city
+    full_name: Rudersdal, Hovedstaden
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter for Android&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "95725831"
+  profile_image_url: http://a2.twimg.com/profile_images/875846983/Twitter_normal.JPG
+  created_at: Fri, 25 Feb 2011 15:24:36 +0000
+  from_user: RiskContainment
+  id_str: "41156614052388864"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Finally out the door to #swCPH after a looong phone call to Delta Airlines. #betterusabilitycouldsolvesooooomanyproblems"
+  id: 41156614052388864
+  from_user_id: 95725831
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "791031"
+  profile_image_url: http://a3.twimg.com/profile_images/803754510/n689968178_324295_4585_copy_normal.jpg
+  created_at: Fri, 25 Feb 2011 15:12:54 +0000
+  from_user: nopstrup
+  id_str: "41153672868134912"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "I've made plans for #swCPH 2011 http://planca.st/QXq"
+  id: 41153672868134912
+  from_user_id: 791031
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://plancast.com&quot; rel=&quot;nofollow&quot;&gt;Plancast&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "218003460"
+  profile_image_url: http://a2.twimg.com/profile_images/1246450472/gorm_normal.jpeg
+  created_at: Fri, 25 Feb 2011 14:59:17 +0000
+  from_user: gormcasper
+  id_str: "41150243923820545"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Printed ticket (Thx Nikolaj!), cancel other plans, shower, shit, n shave... and ready to go to Startupweekend.. See you there! #swCPH"
+  id: 41150243923820545
+  from_user_id: 218003460
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "94667567"
+  profile_image_url: http://a0.twimg.com/profile_images/675029842/bl_g_rdsgade_normal.JPG
+  created_at: Fri, 25 Feb 2011 14:54:15 +0000
+  from_user: silversen
+  id_str: "41148979508944896"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "just set it up \\o/ #nowonthebigscreen RT @RiskContainment RT @gignal: If u didn't make it to #swCPH follow the Gignal! http://bit.ly/grVqtE"
+  id: 41148979508944896
+  from_user_id: 94667567
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "20222891"
+  profile_image_url: http://a1.twimg.com/profile_images/1156149206/October_31__2010_-_03-07-34_-__normal.jpg
+  created_at: Fri, 25 Feb 2011 14:53:20 +0000
+  from_user: wbednarski
+  id_str: "41148748159655936"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Startup Weekend app for iPhone - everyone is from Zurich, Switzerland #fail #swCPH"
+  id: 41148748159655936
+  from_user_id: 20222891
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "95725831"
+  profile_image_url: http://a2.twimg.com/profile_images/875846983/Twitter_normal.JPG
+  created_at: Fri, 25 Feb 2011 14:44:04 +0000
+  from_user: RiskContainment
+  id_str: "41146413236617216"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Tic-toc... RT @gignal: If you didn't make it to Startup Weekend Copenhagen - follow the Gignal! http://bit.ly/grVqtE #swCPH #ShareTheBuzz"
+  id: 41146413236617216
+  from_user_id: 95725831
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "146202622"
+  profile_image_url: http://a1.twimg.com/profile_images/1124890061/1786_PL2_2397-1_normal.jpg
+  created_at: Fri, 25 Feb 2011 14:27:15 +0000
+  from_user: nickmartn
+  id_str: "41142183130177536"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: Huge respect to the Tunis Startup Weekend crew for pulling off an event now #swTunis #swCPH"
+  id: 41142183130177536
+  from_user_id: 146202622
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "81193246"
+  profile_image_url: http://a3.twimg.com/profile_images/1231932826/Alex_normal.JPG
+  created_at: Fri, 25 Feb 2011 14:06:45 +0000
+  from_user: alexfarcet
+  id_str: "41137022777298944"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Huge respect to the Tunis Startup Weekend crew for pulling off an event now #swTunis #swCPH"
+  id: 41137022777298944
+  from_user_id: 81193246
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "186194358"
+  profile_image_url: http://a3.twimg.com/profile_images/1192158925/SW_beaker_denmark_normal.png
+  created_at: Fri, 25 Feb 2011 13:52:28 +0000
+  from_user: swCPH
+  id_str: "41133428761960449"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "All systems go --&gt; Copenhagen Startup Weekend no. 2 #swCPH"
+  id: 41133428761960449
+  from_user_id: 186194358
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "106683733"
+  profile_image_url: http://a3.twimg.com/profile_images/1049620843/IMAG0197_normal.jpg
+  created_at: Fri, 25 Feb 2011 13:05:50 +0000
+  from_user: YashTar
+  id_str: "41121695989235712"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @Gignal: If you didn't make it to Startup Weekend Copenhagen - follow the Gignal! http://bit.ly/grVqtE #swCPH #ShareTheBuzz (Cc @gormcasper)"
+  id: 41121695989235712
+  from_user_id: 106683733
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "186194358"
+  profile_image_url: http://a3.twimg.com/profile_images/1192158925/SW_beaker_denmark_normal.png
+  created_at: Fri, 25 Feb 2011 12:56:18 +0000
+  from_user: swCPH
+  id_str: "41119293693374464"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @Gignal: If you didn't make it to Startup Weekend Copenhagen - follow the Gignal! http://bit.ly/grVqtE #swCPH #ShareTheBuzz (Cc @gormcasper)"
+  id: 41119293693374464
+  from_user_id: 186194358
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6461503"
+  profile_image_url: http://a2.twimg.com/profile_images/206028943/twitterprofil_normal.jpg
+  created_at: Fri, 25 Feb 2011 12:55:48 +0000
+  from_user: michimarder
+  id_str: "41119168870748160"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Off to copenhagen for Startup Weekend. #swcph"
+  id: 41119168870748160
+  from_user_id: 6461503
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.htc.com&quot; rel=&quot;nofollow&quot;&gt;  HTC Peep&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "125211594"
+  profile_image_url: http://a1.twimg.com/profile_images/1203179505/Gignal-G-big_normal.png
+  created_at: Fri, 25 Feb 2011 12:53:47 +0000
+  from_user: Gignal
+  id_str: "41118660584022016"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "If you didn't make it to Startup Weekend Copenhagen - follow the Gignal! http://bit.ly/grVqtE #swCPH #ShareTheBuzz (Cc @gormcasper)"
+  id: 41118660584022016
+  from_user_id: 125211594
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "218003460"
+  profile_image_url: http://a2.twimg.com/profile_images/1246450472/gorm_normal.jpeg
+  created_at: Fri, 25 Feb 2011 12:37:39 +0000
+  from_user: gormcasper
+  id_str: "41114599637913600"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "No startupweekend for me :'( Tickets got sold out. Teams: if you're short of a front-end guy, then get in contact with me ;-) #swCPH"
+  id: 41114599637913600
+  from_user_id: 218003460
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "29337"
+  profile_image_url: http://a2.twimg.com/profile_images/57997325/IMG_1073_-_Version_2__1__normal.jpg
+  created_at: Fri, 25 Feb 2011 12:29:58 +0000
+  from_user: hvirring
+  id_str: "41112668509188096"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "I've made plans for #swCPH 2011 and 2 other events  http://planca.st/QXC"
+  id: 41112668509188096
+  from_user_id: 29337
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://plancast.com&quot; rel=&quot;nofollow&quot;&gt;Plancast&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "106683733"
+  profile_image_url: http://a3.twimg.com/profile_images/1049620843/IMAG0197_normal.jpg
+  created_at: Fri, 25 Feb 2011 12:18:20 +0000
+  from_user: YashTar
+  id_str: "41109739085631488"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "having tea at vendersgade street and waiting for #swCPH to start!!"
+  id: 41109739085631488
+  from_user_id: 106683733
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "185268624"
+  profile_image_url: http://a2.twimg.com/profile_images/1195155206/P5010001_edit_3_normal.jpg
+  created_at: Fri, 25 Feb 2011 12:02:52 +0000
+  from_user: etailerdk
+  id_str: "41105848700772353"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Sidder snart i toget p\xC3\xA5 vej til #swcph - det bliver for fedt!!!"
+  id: 41105848700772353
+  from_user_id: 185268624
+  geo: 
+  iso_language_code: da
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "2710336"
+  profile_image_url: http://a3.twimg.com/profile_images/66001351/bonsai_normal.PNG
+  created_at: Fri, 25 Feb 2011 11:43:02 +0000
+  from_user: damiansen
+  id_str: "41100858024398848"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @nedzynski: Going to #swCPH. It's going to be epic. See you there."
+  id: 41100858024398848
+  from_user_id: 2710336
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "127372566"
+  profile_image_url: http://a3.twimg.com/profile_images/909784252/Piotr_Nedzynski_normal.JPG
+  created_at: Fri, 25 Feb 2011 11:42:40 +0000
+  from_user: nedzynski
+  id_str: "41100762318635008"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Going to #swCPH. It's going to be epic. See you there."
+  id: 41100762318635008
+  from_user_id: 127372566
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "77765513"
+  profile_image_url: http://a3.twimg.com/profile_images/1150748325/20100811_1erol_normal.png
+  created_at: Fri, 25 Feb 2011 11:32:13 +0000
+  from_user: ErolKazan
+  id_str: "41098133039628288"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "pretty neat the app for #swCPH"
+  id: 41098133039628288
+  from_user_id: 77765513
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "3114359"
+  profile_image_url: http://a1.twimg.com/profile_images/68167386/n682238463_197827_4267_normal.jpg
+  created_at: Fri, 25 Feb 2011 11:28:41 +0000
+  from_user: amir_harel
+  id_str: "41097243259965440"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swCPH: Did you know.. #swCPH is brought to you by @sBootCamp &amp; co! Dont forget to check them out after on how they can kick start your project :)"
+  id: 41097243259965440
+  from_user_id: 3114359
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6095200"
+  profile_image_url: http://a0.twimg.com/profile_images/1183862552/8fbc98ad-a97e-4a6a-9db1-f486ca655aa2_normal.png
+  created_at: Fri, 25 Feb 2011 11:27:12 +0000
+  from_user: digbyj
+  id_str: "41096871405420544"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swCPH: Did you know.. #swCPH is brought to you by @sBootCamp &amp; co! Dont forget to check them out after on how they can kick start your project :)"
+  id: 41096871405420544
+  from_user_id: 6095200
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "95725831"
+  profile_image_url: http://a2.twimg.com/profile_images/875846983/Twitter_normal.JPG
+  created_at: Fri, 25 Feb 2011 11:18:34 +0000
+  from_user: RiskContainment
+  id_str: "41094699791945728"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swcph: #swCPH is brought to you by @SBootCamp &amp; co! Don't forget to check them out after on how they can kick start your project :)"
+  id: 41094699791945728
+  from_user_id: 95725831
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "186194358"
+  profile_image_url: http://a3.twimg.com/profile_images/1192158925/SW_beaker_denmark_normal.png
+  created_at: Fri, 25 Feb 2011 11:05:20 +0000
+  from_user: swCPH
+  id_str: "41091371200679936"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Did you know.. #swCPH is brought to you by @sBootCamp &amp; co! Dont forget to check them out after on how they can kick start your project :)"
+  id: 41091371200679936
+  from_user_id: 186194358
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "4295272"
+  profile_image_url: http://a0.twimg.com/profile_images/1100550951/_CBC0058web_normal.jpg
+  created_at: Fri, 25 Feb 2011 10:42:06 +0000
+  from_user: Windkracht11
+  id_str: "41085523418292224"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 6095200
+  text: "@digbyj So two weekends in a row. Impressive. Enjoy &amp; may the best startup win. Grtz from #Hightechcampus #Eindhoven #swHighTech #swCPH"
+  id: 41085523418292224
+  from_user_id: 4295272
+  to_user: digbyj
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "6095200"
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "96824719"
+  profile_image_url: http://a2.twimg.com/profile_images/711243227/Foto_Campus_normal.jpg
+  created_at: Fri, 25 Feb 2011 10:42:06 +0000
+  from_user: hightechcampus
+  id_str: "41085523313426432"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 6095200
+  text: "@digbyj So two weekends in a row. Impressive. Enjoy &amp; may the best startup win. Grtz from #Hightechcampus #Eindhoven #swHighTech #swCPH"
+  id: 41085523313426432
+  from_user_id: 96824719
+  to_user: digbyj
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "6095200"
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "123946556"
+  profile_image_url: http://a3.twimg.com/profile_images/970347844/HackFwd_Monogram_Final_RGB_normal.png
+  created_at: Fri, 25 Feb 2011 10:33:41 +0000
+  from_user: hackfwdtalent
+  id_str: "41083403717709824"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @overdrev: Good luck to all at  #swCPH   - See you for the judging on Sunday.  And, see @HackFwd if you want to move forward."
+  id: 41083403717709824
+  from_user_id: 123946556
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6095200"
+  profile_image_url: http://a0.twimg.com/profile_images/1183862552/8fbc98ad-a97e-4a6a-9db1-f486ca655aa2_normal.png
+  created_at: Fri, 25 Feb 2011 10:31:47 +0000
+  from_user: digbyj
+  id_str: "41082924501700608"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Looking forward to #swCPH today, especially when I get to show off @Lifelapse in action! Just need to find a way to hold it in place though"
+  id: 41082924501700608
+  from_user_id: 6095200
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "20222891"
+  profile_image_url: http://a1.twimg.com/profile_images/1156149206/October_31__2010_-_03-07-34_-__normal.jpg
+  created_at: Fri, 25 Feb 2011 10:10:01 +0000
+  from_user: wbednarski
+  id_str: "41077447898169344"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Less than 6 hours! #swCPH"
+  id: 41077447898169344
+  from_user_id: 20222891
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "724332"
+  profile_image_url: http://a0.twimg.com/profile_images/288225174/jonas_FB_normal.jpg
+  created_at: Fri, 25 Feb 2011 09:10:10 +0000
+  from_user: JonasWho
+  id_str: "41062386601443328"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Going to #swcph tonight. Looking forward to some great pitches. Oh and BTW... #EventBird rocks \\m/"
+  id: 41062386601443328
+  from_user_id: 724332
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6095200"
+  profile_image_url: http://a0.twimg.com/profile_images/1183862552/8fbc98ad-a97e-4a6a-9db1-f486ca655aa2_normal.png
+  created_at: Fri, 25 Feb 2011 09:03:10 +0000
+  from_user: digbyj
+  id_str: "41060626293989376"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swCPH: Coming to #swCPH today? Dont forget you can download the app to keep you up to date!! Search for startup weekend in the apps store!"
+  id: 41060626293989376
+  from_user_id: 6095200
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "186194358"
+  profile_image_url: http://a3.twimg.com/profile_images/1192158925/SW_beaker_denmark_normal.png
+  created_at: Fri, 25 Feb 2011 09:02:42 +0000
+  from_user: swCPH
+  id_str: "41060506911510528"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Coming to #swCPH today? Dont forget you can download the app to keep you up to date!! Search for startup weekend in the apps store!"
+  id: 41060506911510528
+  from_user_id: 186194358
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "2328724"
+  profile_image_url: http://a3.twimg.com/profile_images/1254730305/49950_557065726_5468135_n_normal.jpg
+  created_at: Fri, 25 Feb 2011 08:54:50 +0000
+  from_user: buyukkotukurt
+  id_str: "41058528680624128"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Getting ready for #swcph Thank you #eventbird for awesome application."
+  id: 41058528680624128
+  from_user_id: 2328724
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "214130"
+  profile_image_url: http://a2.twimg.com/profile_images/76697051/n620814159_6281_normal.jpg
+  created_at: Fri, 25 Feb 2011 08:38:55 +0000
+  from_user: mikebevz
+  id_str: "41054522579226624"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Just installed StartupWeekend app #swcph"
+  id: 41054522579226624
+  from_user_id: 214130
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "7906560"
+  profile_image_url: http://a1.twimg.com/profile_images/1250385661/6_normal.jpg
+  created_at: Fri, 25 Feb 2011 08:33:00 +0000
+  from_user: achristoffersen
+  id_str: "41053033311903744"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Just connected #swcph app with linkedin + Facebook."
+  id: 41053033311903744
+  from_user_id: 7906560
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1880622"
+  profile_image_url: http://a0.twimg.com/sticky/default_profile_images/default_profile_3_normal.png
+  created_at: Fri, 25 Feb 2011 08:32:50 +0000
+  from_user: nslindtner
+  id_str: "41052990827794432"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Damn .... Moving and startup weekend in the same weekend is bad timing #swcph #TimingIsNotEverythingThisTime"
+  id: 41052990827794432
+  from_user_id: 1880622
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "186194358"
+  profile_image_url: http://a3.twimg.com/profile_images/1192158925/SW_beaker_denmark_normal.png
+  created_at: Fri, 25 Feb 2011 08:01:30 +0000
+  from_user: swCPH
+  id_str: "41045104177192960"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @nopstrup: Bags are packed. Pitch is ready. Looking forward to #swcph kickoff tonight. But first 8hr workday :)"
+  id: 41045104177192960
+  from_user_id: 186194358
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "186194358"
+  profile_image_url: http://a3.twimg.com/profile_images/1192158925/SW_beaker_denmark_normal.png
+  created_at: Fri, 25 Feb 2011 08:01:02 +0000
+  from_user: swCPH
+  id_str: "41044989802717184"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: spot avail. on a couch in a #swCPH participant's living room if someone is still looking.  Ping me on af@startupbootcamp.org"
+  id: 41044989802717184
+  from_user_id: 186194358
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "81193246"
+  profile_image_url: http://a3.twimg.com/profile_images/1231932826/Alex_normal.JPG
+  created_at: Fri, 25 Feb 2011 08:00:23 +0000
+  from_user: alexfarcet
+  id_str: "41044825918808064"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "There's a spot on a couch in a #swCPH participant's living room if someone is still looking.  Ping me on af@startupbootcamp.org"
+  id: 41044825918808064
+  from_user_id: 81193246
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "95572990"
+  profile_image_url: http://a1.twimg.com/profile_images/1183163309/6580_1204846714791_1037315418_666156_4977789_n_normal.jpg
+  created_at: Fri, 25 Feb 2011 07:51:15 +0000
+  from_user: tornoe
+  id_str: "41042524953001984"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Now the trip goes all the way to #swcph, looking forward to see you guys, and hear all the pitches !"
+  id: 41042524953001984
+  from_user_id: 95572990
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "60702383"
+  profile_image_url: http://a0.twimg.com/profile_images/422421848/n695479961_653_normal.jpg
+  created_at: Fri, 25 Feb 2011 07:49:39 +0000
+  from_user: cborodescu
+  id_str: "41042122501140480"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Having breakfast at Saga Hotel, looong day ahead: meetings and #swCPH"
+  id: 41042122501140480
+  from_user_id: 60702383
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter for Android&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "791031"
+  profile_image_url: http://a3.twimg.com/profile_images/803754510/n689968178_324295_4585_copy_normal.jpg
+  created_at: Fri, 25 Feb 2011 07:45:34 +0000
+  from_user: nopstrup
+  id_str: "41041094225428480"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Bags are packed. Pitch is ready. Looking forward to #swcph kickoff tonight. But first 8hr workday :)"
+  id: 41041094225428480
+  from_user_id: 791031
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "106683733"
+  profile_image_url: http://a3.twimg.com/profile_images/1049620843/IMAG0197_normal.jpg
+  created_at: Fri, 25 Feb 2011 04:48:37 +0000
+  from_user: YashTar
+  id_str: "40996563274838016"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "On the way to catch my flight to #swCPH :)"
+  id: 40996563274838016
+  from_user_id: 106683733
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.htc.com&quot; rel=&quot;nofollow&quot;&gt;HTC Peep&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "81193246"
+  profile_image_url: http://a3.twimg.com/profile_images/1231932826/Alex_normal.JPG
+  created_at: Thu, 24 Feb 2011 21:19:24 +0000
+  from_user: alexfarcet
+  id_str: "40883517927727104"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 77765513
+  text: "@erolkazan Hey, I did show up but around 23:00.  Promise I'll be there for the Sunday night post- #swCPH Bar Rouge bash!"
+  id: 40883517927727104
+  from_user_id: 81193246
+  to_user: ErolKazan
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "77765513"
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "204304249"
+  profile_image_url: http://a2.twimg.com/sticky/default_profile_images/default_profile_5_normal.png
+  created_at: Thu, 24 Feb 2011 21:15:55 +0000
+  from_user: tamamotu1
+  id_str: "40882639833399296"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @thanpolas Really great insight! RT @digbyj: The Entrepreneur's Journey - http://20min.us/fMKxVj #swCPH"
+  id: 40882639833399296
+  from_user_id: 204304249
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "172181630"
+  profile_image_url: http://a1.twimg.com/profile_images/1250395777/ThanPolasOne_normal.jpg
+  created_at: Thu, 24 Feb 2011 21:15:27 +0000
+  from_user: thanpolas
+  id_str: "40882520908103680"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Really great insight! RT @digbyj: The Entrepreneur's Journey - http://20min.us/fMKxVj #swCPH"
+  id: 40882520908103680
+  from_user_id: 172181630
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.sproutsocial.com&quot; rel=&quot;nofollow&quot;&gt;Sprout Social&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "77765513"
+  profile_image_url: http://a3.twimg.com/profile_images/1150748325/20100811_1erol_normal.png
+  created_at: Thu, 24 Feb 2011 19:33:38 +0000
+  from_user: ErolKazan
+  id_str: "40856897154187264"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Hi @alexfarcet, everyone were missing you at Bar Rouge... ;) btw Bartosch and Piotr were good hosts ! See u tomorrow! #swCPH"
+  id: 40856897154187264
+  from_user_id: 77765513
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "7912634"
+  profile_image_url: http://a1.twimg.com/profile_images/1137492564/Josh_Lei_normal.JPG
+  created_at: Thu, 24 Feb 2011 18:53:57 +0000
+  from_user: JoshSamBob
+  id_str: "40846914152833024"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 1478633
+  text: "@tova_s @amir_harel @alexfarcet Don't forget @digbyj! #swCPH #swtlv"
+  id: 40846914152833024
+  from_user_id: 7912634
+  to_user: tova_s
+  geo: 
+  iso_language_code: fr
+  to_user_id_str: "1478633"
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1478633"
+  profile_image_url: http://a0.twimg.com/profile_images/613461991/tes_normal.jpg
+  created_at: Thu, 24 Feb 2011 18:41:00 +0000
+  from_user: tova_s
+  id_str: "40843653886779392"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Good luck to @amir_harel and @alexfarcet with #swCPH Have your people check out our people #swtlv"
+  id: 40843653886779392
+  from_user_id: 1478633
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "2984580"
+  profile_image_url: http://a3.twimg.com/profile_images/802159027/luisriverag_normal.jpg
+  created_at: Thu, 24 Feb 2011 18:37:18 +0000
+  from_user: luisriverag
+  id_str: "40842720440221696"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: Countdown to launch 21 hours 53 minutes 45 seconds...43 seconds...42 seconds Copenhagen Startup Weekend #swCPH #won'tbeabletosleep"
+  id: 40842720440221696
+  from_user_id: 2984580
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "186194358"
+  profile_image_url: http://a3.twimg.com/profile_images/1192158925/SW_beaker_denmark_normal.png
+  created_at: Thu, 24 Feb 2011 18:18:47 +0000
+  from_user: swCPH
+  id_str: "40838061080330240"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: Countdown to launch 21 hours 53 minutes 45 seconds...44 seconds... Copenhagen Startup Weekend #swCPH #won'tbeabletosleep"
+  id: 40838061080330240
+  from_user_id: 186194358
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "3114359"
+  profile_image_url: http://a1.twimg.com/profile_images/68167386/n682238463_197827_4267_normal.jpg
+  created_at: Thu, 24 Feb 2011 18:14:53 +0000
+  from_user: amir_harel
+  id_str: "40837082364514304"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "oh yea RT @alexfarcet: Countdown to launch 21 hours 53 minutes 45 seconds...43 seconds...42 seconds Copenhagen Startup Weekend #swCPH"
+  id: 40837082364514304
+  from_user_id: 3114359
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "117121323"
+  profile_image_url: http://a2.twimg.com/profile_images/905236884/logo_stort_v2-korn-1_normal.jpg
+  created_at: Thu, 24 Feb 2011 18:09:07 +0000
+  from_user: Kim_Balle
+  id_str: "40835629751349248"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: Countdown to launch 21 hours 53 minutes 45 seconds...43 seconds...42 seconds Copenhagen Startup Weekend #swCPH"
+  id: 40835629751349248
+  from_user_id: 117121323
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "81193246"
+  profile_image_url: http://a3.twimg.com/profile_images/1231932826/Alex_normal.JPG
+  created_at: Thu, 24 Feb 2011 18:07:38 +0000
+  from_user: alexfarcet
+  id_str: "40835257695473664"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Countdown to launch 21 hours 53 minutes 45 seconds...43 seconds...42 seconds Copenhagen Startup Weekend #swCPH #won'tbeabletosleep"
+  id: 40835257695473664
+  from_user_id: 81193246
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "186194358"
+  profile_image_url: http://a3.twimg.com/profile_images/1192158925/SW_beaker_denmark_normal.png
+  created_at: Thu, 24 Feb 2011 18:02:29 +0000
+  from_user: swCPH
+  id_str: "40833959415910400"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 108184289
+  text: "@chriskaalund Fixing now.  The address is Howitzvej 60 #swCPH"
+  id: 40833959415910400
+  from_user_id: 186194358
+  to_user: ChrisKaalund
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "108184289"
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "108184289"
+  profile_image_url: http://a1.twimg.com/profile_images/1166070709/avitar2_normal.jpg
+  created_at: Thu, 24 Feb 2011 17:41:33 +0000
+  from_user: ChrisKaalund
+  id_str: "40828690480893952"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 7906560
+  text: "@achristoffersen you got 1 min, no slides, focus on the problem that you want to solve, and not so much how you want to solve it #swcph"
+  id: 40828690480893952
+  from_user_id: 108184289
+  to_user: achristoffersen
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "7906560"
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "151669754"
+  profile_image_url: http://a1.twimg.com/profile_images/1232513145/29b5cf30-3f1a-4f23-b658-02409033c124_normal.png
+  created_at: Thu, 24 Feb 2011 17:39:05 +0000
+  from_user: bjornbrekel
+  id_str: "40828073687388160"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @digbyj: The Entrepreneur's Journey - http://vimeo.com/19986675 #swCPH"
+  id: 40828073687388160
+  from_user_id: 151669754
+  geo: 
+  iso_language_code: fr
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "7906560"
+  profile_image_url: http://a1.twimg.com/profile_images/1250385661/6_normal.jpg
+  created_at: Thu, 24 Feb 2011 14:10:51 +0000
+  from_user: achristoffersen
+  id_str: "40775668794925057"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "What's the format for presenting ideas at #swCPH? If you now pls tweet so (BTW: I found this inspiring: http://slidesha.re/1ld0WX)"
+  id: 40775668794925057
+  from_user_id: 7906560
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6095200"
+  profile_image_url: http://a0.twimg.com/profile_images/1183862552/8fbc98ad-a97e-4a6a-9db1-f486ca655aa2_normal.png
+  created_at: Thu, 24 Feb 2011 13:56:51 +0000
+  from_user: digbyj
+  id_str: "40772144841498624"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "The Entrepreneur's Journey - http://vimeo.com/19986675 #swCPH"
+  id: 40772144841498624
+  from_user_id: 6095200
+  geo: 
+  iso_language_code: fr
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "117121323"
+  profile_image_url: http://a2.twimg.com/profile_images/905236884/logo_stort_v2-korn-1_normal.jpg
+  created_at: Thu, 24 Feb 2011 10:30:29 +0000
+  from_user: Kim_Balle
+  id_str: "40720212797947904"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Ser frem til Startup Weekend i morgen. . . Det bliver sp\xC3\xA6ndende hvilket nye koncepter det ender ud med ! :) #swCPH"
+  id: 40720212797947904
+  from_user_id: 117121323
+  geo: 
+  iso_language_code: da
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "117121323"
+  profile_image_url: http://a2.twimg.com/profile_images/905236884/logo_stort_v2-korn-1_normal.jpg
+  created_at: Thu, 24 Feb 2011 10:29:30 +0000
+  from_user: Kim_Balle
+  id_str: "40719962343608320"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @ChrisKaalund: Nogen der k\xC3\xB8rer fra \xC3\x85rhus til Kbh i morgen. Lift kunne bruges #swcph Kan du have en esktra med Lasse? @chorDK"
+  id: 40719962343608320
+  from_user_id: 117121323
+  geo: 
+  iso_language_code: da
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6095200"
+  profile_image_url: http://a0.twimg.com/profile_images/1183862552/8fbc98ad-a97e-4a6a-9db1-f486ca655aa2_normal.png
+  created_at: Thu, 24 Feb 2011 10:19:04 +0000
+  from_user: digbyj
+  id_str: "40717338273648640"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 147345078
+  text: "@webcrumbz The weather here is worse than in the UK (even Sheffield!) Hope he packed some long johns! #swCPH"
+  id: 40717338273648640
+  from_user_id: 6095200
+  to_user: webcrumbz
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "147345078"
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "147345078"
+  profile_image_url: http://a0.twimg.com/profile_images/1219938159/webcrumbz_dark_twitter_normal.jpg
+  created_at: Thu, 24 Feb 2011 09:31:37 +0000
+  from_user: webcrumbz
+  id_str: "40705397752860672"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Good morning! We pity Ciprian for having to leave for #swCPH in this horrible winter morning. But I bet he'll bring us souvenirs! :)"
+  id: 40705397752860672
+  from_user_id: 147345078
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.facebook.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Facebook&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "108184289"
+  profile_image_url: http://a1.twimg.com/profile_images/1166070709/avitar2_normal.jpg
+  created_at: Thu, 24 Feb 2011 08:55:15 +0000
+  from_user: ChrisKaalund
+  id_str: "40696246762995713"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Nogen der k\xC3\xB8rer fra \xC3\x85rhus til Kbh i morgen. Lift kunne bruges #swcph"
+  id: 40696246762995713
+  from_user_id: 108184289
+  geo: 
+  iso_language_code: da
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "38490978"
+  profile_image_url: http://a3.twimg.com/profile_images/1241251066/twttr1_normal.jpg
+  created_at: Wed, 23 Feb 2011 21:37:29 +0000
+  from_user: mzmihalev
+  id_str: "40525680428974080"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "'ll be tuned in for the Sunday's, final, pitches at the #swCPH , creative and constructive work for the ones involved in action"
+  id: 40525680428974080
+  from_user_id: 38490978
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "95725831"
+  profile_image_url: http://a2.twimg.com/profile_images/875846983/Twitter_normal.JPG
+  created_at: Wed, 23 Feb 2011 16:40:03 +0000
+  from_user: RiskContainment
+  id_str: "40450829005619200"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @digbyj: Want to know more about #startupweekend? Check out article in Entrepreneur Magazine! http://t.co/ua30f5R via @entmagazine #swCPH"
+  id: 40450829005619200
+  from_user_id: 95725831
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1161980"
+  profile_image_url: http://a1.twimg.com/profile_images/1191863227/ecrojo_normal.png
+  created_at: Wed, 23 Feb 2011 16:30:05 +0000
+  from_user: ed_celis
+  id_str: "40448320002334720"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Become Legendary over the weekend (or go and experience what  legends are made of: http://bit.ly/fwAlJN #CopenhagenStrartupweekend #swCPH"
+  id: 40448320002334720
+  from_user_id: 1161980
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "177511041"
+  profile_image_url: http://a3.twimg.com/profile_images/1191882564/TT-Favicon_v1_normal.png
+  created_at: Wed, 23 Feb 2011 16:30:02 +0000
+  from_user: Tabletracker
+  id_str: "40448307545243648"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Become Legendary over the weekend (or go and experience what  legends are made of: http://bit.ly/fwAlJN #CopenhagenStrartupweekend #swCPH"
+  id: 40448307545243648
+  from_user_id: 177511041
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "182479063"
+  profile_image_url: http://a3.twimg.com/profile_images/1230909063/Profile_pic_normal.jpg
+  created_at: Wed, 23 Feb 2011 15:27:48 +0000
+  from_user: JasperLevink
+  id_str: "40432643472490496"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @digbyj Can you start a tech company without funding? http://nyti.ms/swFunding #swCPH #swCamb"
+  id: 40432643472490496
+  from_user_id: 182479063
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.htc.com&quot; rel=&quot;nofollow&quot;&gt;  HTC Peep&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "186194358"
+  profile_image_url: http://a3.twimg.com/profile_images/1192158925/SW_beaker_denmark_normal.png
+  created_at: Wed, 23 Feb 2011 15:12:38 +0000
+  from_user: swCPH
+  id_str: "40428828048228352"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @digbyj: Can you start a tech company without funding? http://nyti.ms/swFunding #swCPH #swCamb"
+  id: 40428828048228352
+  from_user_id: 186194358
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6095200"
+  profile_image_url: http://a0.twimg.com/profile_images/1183862552/8fbc98ad-a97e-4a6a-9db1-f486ca655aa2_normal.png
+  created_at: Wed, 23 Feb 2011 15:12:02 +0000
+  from_user: digbyj
+  id_str: "40428675891609600"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Can you start a tech company without funding? http://nyti.ms/swFunding #swCPH #swCamb"
+  id: 40428675891609600
+  from_user_id: 6095200
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6806782"
+  profile_image_url: http://a2.twimg.com/profile_images/1195041014/66878_479105569790_712094790_5485315_7782326_n_normal.jpg
+  created_at: Wed, 23 Feb 2011 12:57:17 +0000
+  from_user: christianrex
+  id_str: "40394767514869760"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "is looking forward to #swCPH - a little information on what SW's is, right here: http://me.lt/7F8oV #entrepreneurship #startup"
+  id: 40394767514869760
+  from_user_id: 6806782
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://rockmelt.com&quot; rel=&quot;nofollow&quot;&gt;RockMelt&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "172181630"
+  profile_image_url: http://a1.twimg.com/profile_images/1250395777/ThanPolasOne_normal.jpg
+  created_at: Wed, 23 Feb 2011 12:54:46 +0000
+  from_user: thanpolas
+  id_str: "40394131528228865"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @digbyj: Want to know more about #startupweekend? Check out the article in Entrepreneur Magazine! http://t.co/ua30f5R via @entmagazine #swCPH"
+  id: 40394131528228865
+  from_user_id: 172181630
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/tweetbutton&quot; rel=&quot;nofollow&quot;&gt;Tweet Button&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6095200"
+  profile_image_url: http://a0.twimg.com/profile_images/1183862552/8fbc98ad-a97e-4a6a-9db1-f486ca655aa2_normal.png
+  created_at: Wed, 23 Feb 2011 12:49:38 +0000
+  from_user: digbyj
+  id_str: "40392841297403905"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Want to know more about #startupweekend? Check out the article in Entrepreneur Magazine! http://t.co/ua30f5R via @entmagazine #swCPH"
+  id: 40392841297403905
+  from_user_id: 6095200
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/tweetbutton&quot; rel=&quot;nofollow&quot;&gt;Tweet Button&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "95725831"
+  profile_image_url: http://a2.twimg.com/profile_images/875846983/Twitter_normal.JPG
+  created_at: Wed, 23 Feb 2011 11:40:02 +0000
+  from_user: RiskContainment
+  id_str: "40375325829369856"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: ":-) RT @swcph: Very cool --&gt; @4ND3RS of @harddisken (Denmark's best podcast!) is swinging by Copenhagen Startup Weekend #swCPH"
+  id: 40375325829369856
+  from_user_id: 95725831
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6095200"
+  profile_image_url: http://a0.twimg.com/profile_images/1183862552/8fbc98ad-a97e-4a6a-9db1-f486ca655aa2_normal.png
+  created_at: Wed, 23 Feb 2011 11:30:08 +0000
+  from_user: digbyj
+  id_str: "40372833875922944"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swCPH: Please help / RT: We need a microphone (big jack, not little pc type) for Copenhagen Startup Weekend email Kim.balle@digitelling.dk #swCPH"
+  id: 40372833875922944
+  from_user_id: 6095200
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "186194358"
+  profile_image_url: http://a3.twimg.com/profile_images/1192158925/SW_beaker_denmark_normal.png
+  created_at: Wed, 23 Feb 2011 08:27:22 +0000
+  from_user: swCPH
+  id_str: "40326838748188672"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Very cool --&gt; @4ND3RS of @harddisken (Denmark's best podcast!) is swinging by Copenhagen Startup Weekend #swCPH"
+  id: 40326838748188672
+  from_user_id: 186194358
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "95725831"
+  profile_image_url: http://a2.twimg.com/profile_images/875846983/Twitter_normal.JPG
+  created_at: Tue, 22 Feb 2011 16:54:02 +0000
+  from_user: RiskContainment
+  id_str: "40091960584699904"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swcph: Help / RT We need a microphone (big jack, not small pc type) for Copenhagen Startup Weekend email Kim.balle@digitelling.dk #swCPH"
+  id: 40091960584699904
+  from_user_id: 95725831
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "95572990"
+  profile_image_url: http://a1.twimg.com/profile_images/1183163309/6580_1204846714791_1037315418_666156_4977789_n_normal.jpg
+  created_at: Tue, 22 Feb 2011 15:44:40 +0000
+  from_user: tornoe
+  id_str: "40074501840437248"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "on #swcph homepage it says annette has worked 20 years in the IT-sector, but on #swaar it says 13 years. It is only 3 weeks ago? :)"
+  id: 40074501840437248
+  from_user_id: 95572990
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "23520418"
+  profile_image_url: http://a1.twimg.com/profile_images/1184060280/dfa1987b-a4d2-4377-b3cf-507dbf4c32af_normal.png
+  created_at: Tue, 22 Feb 2011 11:57:17 +0000
+  from_user: gairifo
+  id_str: "40017278724472832"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: Please help / RT: We need a microphone (big jack, not little pc type) for Copenhagen Startup Weekend email Kim.balle@digitelling.dk #swCPH"
+  id: 40017278724472832
+  from_user_id: 23520418
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "186194358"
+  profile_image_url: http://a3.twimg.com/profile_images/1192158925/SW_beaker_denmark_normal.png
+  created_at: Tue, 22 Feb 2011 11:56:57 +0000
+  from_user: swCPH
+  id_str: "40017194750312448"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Please help / RT: We need a microphone (big jack, not little pc type) for Copenhagen Startup Weekend email Kim.balle@digitelling.dk #swCPH"
+  id: 40017194750312448
+  from_user_id: 186194358
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "81193246"
+  profile_image_url: http://a3.twimg.com/profile_images/1231932826/Alex_normal.JPG
+  created_at: Tue, 22 Feb 2011 11:56:57 +0000
+  from_user: alexfarcet
+  id_str: "40017193609461760"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Please help / RT: We need a microphone (big jack, not little pc type) for Copenhagen Startup Weekend email Kim.balle@digitelling.dk #swCPH"
+  id: 40017193609461760
+  from_user_id: 81193246
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "60702383"
+  profile_image_url: http://a0.twimg.com/profile_images/422421848/n695479961_653_normal.jpg
+  created_at: Tue, 22 Feb 2011 10:52:06 +0000
+  from_user: cborodescu
+  id_str: "40000874424176640"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Yes, it's snowing again and this brings back memories from Copenhagen :) Few days and I'll be at #swCPH meeting cool guys!"
+  id: 40000874424176640
+  from_user_id: 60702383
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "95725831"
+  profile_image_url: http://a2.twimg.com/profile_images/875846983/Twitter_normal.JPG
+  created_at: Tue, 22 Feb 2011 08:20:24 +0000
+  from_user: RiskContainment
+  id_str: "39962697906782208"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 186194358
+  text: "@swcph Are you taking notes? :-) RT @startupweekend: Wow, Ashton Kutcher and Demi Moore were judges for Startup Weekend LA! #swcph"
+  id: 39962697906782208
+  from_user_id: 95725831
+  to_user: swCPH
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "186194358"
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "95725831"
+  profile_image_url: http://a2.twimg.com/profile_images/875846983/Twitter_normal.JPG
+  created_at: Tue, 22 Feb 2011 08:16:38 +0000
+  from_user: RiskContainment
+  id_str: "39961752426782720"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 2710336
+  text: "@damiansen The participants at #swcph look plenty fine. It's the judges who ain't Ashton &amp; Demi :-) @nfsaxberg @arican"
+  id: 39961752426782720
+  from_user_id: 95725831
+  to_user: damiansen
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "2710336"
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "2984580"
+  profile_image_url: http://a3.twimg.com/profile_images/802159027/luisriverag_normal.jpg
+  created_at: Mon, 21 Feb 2011 22:25:43 +0000
+  from_user: luisriverag
+  id_str: "39813039721160704"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @SBootcamp: RT @swcph: Seen the 6 amazing mentors we have for #swCPH ? @arican @hvirring @dkarlton @hrcolors @redsoda @vonhaller http://ht.ly/40b6Z"
+  id: 39813039721160704
+  from_user_id: 2984580
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "147345078"
+  profile_image_url: http://a0.twimg.com/profile_images/1219938159/webcrumbz_dark_twitter_normal.jpg
+  created_at: Mon, 21 Feb 2011 14:24:57 +0000
+  from_user: webcrumbz
+  id_str: "39692051826081792"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "We're blogging about #swCPH, success stories and what you need to make it! http://bit.ly/eYq71M (cc @elagier... http://fb.me/Cym6rokx"
+  id: 39692051826081792
+  from_user_id: 147345078
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.facebook.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Facebook&lt;/a&gt;"

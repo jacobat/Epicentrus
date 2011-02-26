@@ -1,0 +1,1576 @@
+--- 
+- !map:Hashie::Mash 
+  from_user_id_str: "166352782"
+  profile_image_url: http://a0.twimg.com/profile_images/1089192989/41425_1485135270_9220_q_normal.jpg
+  created_at: Sat, 26 Feb 2011 14:26:55 +0000
+  from_user: MidoxTheGeek
+  id_str: "41504488468516864"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @clemcaza: This weekend is awesome :-) #swaustin #swboulder #swdub #swCPH #HoustonSW #SWTunis #SWDSM #startupweekend"
+  id: 41504488468516864
+  from_user_id: 166352782
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "97947579"
+  profile_image_url: http://a3.twimg.com/profile_images/1188109536/dd7457df-98bc-4280-8aa1-4c4c9a810a81_normal.png
+  created_at: Sat, 26 Feb 2011 14:18:00 +0000
+  from_user: clemcaza
+  id_str: "41502242133516288"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "This weekend is awesome :-) #swaustin #swboulder #swdub #swCPH #HoustonSW #SWTunis #SWDSM #startupweekend"
+  id: 41502242133516288
+  from_user_id: 97947579
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot; rel=&quot;nofollow&quot;&gt;Twitter for Mac&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "44446"
+  profile_image_url: http://a3.twimg.com/profile_images/95741521/jdsharp-128x128_normal.jpg
+  created_at: Sat, 26 Feb 2011 11:48:05 +0000
+  from_user: jdsharp
+  id_str: "41464513735819264"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Thanks #swaustin for a great time last night! Sadly time for me to home to snowy Omaha"
+  id: 41464513735819264
+  from_user_id: 44446
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "4231132"
+  profile_image_url: http://a3.twimg.com/profile_images/74848522/snow__normal.jpg
+  created_at: Sat, 26 Feb 2011 10:03:21 +0000
+  from_user: nomial
+  id_str: "41438157308309504"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 10789
+  text: "@Scobleizer 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis, #swCPH"
+  id: 41438157308309504
+  from_user_id: 4231132
+  to_user: Scobleizer
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "10789"
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "95725831"
+  profile_image_url: http://a2.twimg.com/profile_images/875846983/Twitter_normal.JPG
+  created_at: Sat, 26 Feb 2011 09:20:01 +0000
+  from_user: RiskContainment
+  id_str: "41427254995206144"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Hey #swaustin #swboulder #swcph #swdub #HoustonSW #swsd2 #SWTunis #SWDSM - Check out Copenhagen SW @ http://gignal.com/events/view/18 #swCPH"
+  id: 41427254995206144
+  from_user_id: 95725831
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "520841"
+  profile_image_url: http://a0.twimg.com/profile_images/90165366/icon_normal.jpg
+  created_at: Sat, 26 Feb 2011 06:12:18 +0000
+  from_user: kwvarga
+  id_str: "41380014561697792"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Kicking us out at 11? Can't stop me from doing what I do #swaustin . Ready to roll tomorrow morning"
+  id: 41380014561697792
+  from_user_id: 520841
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "97533769"
+  profile_image_url: http://a0.twimg.com/profile_images/729177945/i_normal.jpg
+  created_at: Sat, 26 Feb 2011 05:21:10 +0000
+  from_user: Incipi
+  id_str: "41367145321336832"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Prototype quickly with WorkXpress http://wxp.incipi.net #swaustin #swboulder #swcph #swdub #HoustonSW #swsd2 #SWTunis #SWDSM #startupweekend"
+  id: 41367145321336832
+  from_user_id: 97533769
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "222716754"
+  profile_image_url: http://a1.twimg.com/profile_images/1246450664/MW_normal.png
+  created_at: Sat, 26 Feb 2011 05:00:35 +0000
+  from_user: mindwallet
+  id_str: "41361964777086976"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Here is what happened at #HoustonSW http://bit.ly/fLdq0g #swCPH #swBoulder #swAustin #swDub #swsd2 #swTunis At Yours? http://bit.ly/gVmb2h"
+  id: 41361964777086976
+  from_user_id: 222716754
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "520841"
+  profile_image_url: http://a0.twimg.com/profile_images/90165366/icon_normal.jpg
+  created_at: Sat, 26 Feb 2011 04:44:02 +0000
+  from_user: kwvarga
+  id_str: "41357801724837888"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "4chan is a good way to get your stuff out there. #swaustin"
+  id: 41357801724837888
+  from_user_id: 520841
+  geo: !map:Hashie::Mash 
+    coordinates: 
+    - 30.4007
+    - -97.7349
+    type: Point
+  iso_language_code: en
+  place: !map:Hashie::Mash 
+    id: 0398a4d8c29fc5fb
+    type: neighborhood
+    full_name: Stonelake Office Park, Austin
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "7303724"
+  profile_image_url: http://a0.twimg.com/profile_images/300652786/headshot_normal.jpg
+  created_at: Sat, 26 Feb 2011 04:12:06 +0000
+  from_user: mrosprey
+  id_str: "41349764876337152"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @BobMetcalfe: Startup ideas are a dime a dozen, counting only good ones. Trouble is, few work out, and it's hard to know up front which ones. #SWAustin"
+  id: 41349764876337152
+  from_user_id: 7303724
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;\xC3\x9CberSocial&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "5229618"
+  profile_image_url: http://a1.twimg.com/profile_images/972514420/avatar_normal.jpg
+  created_at: Sat, 26 Feb 2011 03:53:20 +0000
+  from_user: AndyGCook
+  id_str: "41345038931865600"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @BobMetcalfe: Startup ideas are a dime a dozen, counting only good ones. Trouble is, few work out, and it's hard to know up front which ones. #SWAustin"
+  id: 41345038931865600
+  from_user_id: 5229618
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;\xC3\x9CberSocial&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "26043843"
+  profile_image_url: http://a3.twimg.com/profile_images/983274618/011_normal.JPG
+  created_at: Sat, 26 Feb 2011 03:50:04 +0000
+  from_user: adamdani
+  id_str: "41344218702024704"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#swAustin teams are forming, @bizspark codes are being handed out, keep watching for more updates.  Cool ideas here"
+  id: 41344218702024704
+  from_user_id: 26043843
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "7112538"
+  profile_image_url: http://a2.twimg.com/profile_images/828215207/Metcalfe.Arguing_normal.jpg
+  created_at: Sat, 26 Feb 2011 03:38:31 +0000
+  from_user: BobMetcalfe
+  id_str: "41341313521680384"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Startup ideas are a dime a dozen, counting only good ones. Trouble is, few work out, and it's hard to know up front which ones. #SWAustin"
+  id: 41341313521680384
+  from_user_id: 7112538
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;\xC3\x9CberSocial&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "7303724"
+  profile_image_url: http://a0.twimg.com/profile_images/300652786/headshot_normal.jpg
+  created_at: Sat, 26 Feb 2011 03:32:56 +0000
+  from_user: mrosprey
+  id_str: "41339908756869121"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "And the votes are in! #swaustin"
+  id: 41339908756869121
+  from_user_id: 7303724
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "171751158"
+  profile_image_url: http://a1.twimg.com/sticky/default_profile_images/default_profile_4_normal.png
+  created_at: Sat, 26 Feb 2011 03:32:33 +0000
+  from_user: mbaboundanddown
+  id_str: "41339810660487168"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "nerding it up in microsoft's austin office #swaustin"
+  id: 41339810660487168
+  from_user_id: 171751158
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "7303724"
+  profile_image_url: http://a0.twimg.com/profile_images/300652786/headshot_normal.jpg
+  created_at: Sat, 26 Feb 2011 03:28:34 +0000
+  from_user: mrosprey
+  id_str: "41338807659925504"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 21987
+  text: "@caseysoftware You should show up tomorrow #swaustin"
+  id: 41338807659925504
+  from_user_id: 7303724
+  to_user: caseysoftware
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "21987"
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "21987"
+  profile_image_url: http://a1.twimg.com/profile_images/1233169908/201101_BENELUX_67_normal.jpg
+  created_at: Sat, 26 Feb 2011 02:59:51 +0000
+  from_user: caseysoftware
+  id_str: "41331582908366848"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Totally forgot that Startup Weekend Austin was this weekend.. doh #swAustin"
+  id: 41331582908366848
+  from_user_id: 21987
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "98468439"
+  profile_image_url: http://a0.twimg.com/profile_images/1246609575/TwitterProfile_normal.png
+  created_at: Sat, 26 Feb 2011 02:44:49 +0000
+  from_user: Ryan_Burkhart
+  id_str: "41327799126073344"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "So, what to vote for? #swaustin"
+  id: 41327799126073344
+  from_user_id: 98468439
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "3734285"
+  profile_image_url: http://a1.twimg.com/profile_images/1240342601/jini-profile_normal.png
+  created_at: Sat, 26 Feb 2011 02:00:45 +0000
+  from_user: mcotton
+  id_str: "41316706408210432"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Got over my anti-socialness and pitched an idea at startup weekend. #swaustin"
+  id: 41316706408210432
+  from_user_id: 3734285
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1936666"
+  profile_image_url: http://a0.twimg.com/profile_images/251788021/getify-logo_normal.gif
+  created_at: Sat, 26 Feb 2011 01:51:27 +0000
+  from_user: getify
+  id_str: "41314366041235456"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "some really cool ideas being generated during &quot;The Pitch&quot; for Startup Weekend Austin #swaustin you should be here. :)"
+  id: 41314366041235456
+  from_user_id: 1936666
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "98468439"
+  profile_image_url: http://a0.twimg.com/profile_images/1246609575/TwitterProfile_normal.png
+  created_at: Sat, 26 Feb 2011 01:48:13 +0000
+  from_user: Ryan_Burkhart
+  id_str: "41313554690867200"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 2771201
+  text: "@asmartbear your cliffnotes were read with shakespearian authority by @adamdani #swaustin"
+  id: 41313554690867200
+  from_user_id: 98468439
+  to_user: asmartbear
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "2771201"
+  source: "&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "7303724"
+  profile_image_url: http://a0.twimg.com/profile_images/300652786/headshot_normal.jpg
+  created_at: Sat, 26 Feb 2011 01:39:59 +0000
+  from_user: mrosprey
+  id_str: "41311480309616640"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Hearing some pretty good pitches at #swaustin"
+  id: 41311480309616640
+  from_user_id: 7303724
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "355359"
+  profile_image_url: http://a3.twimg.com/profile_images/1208030533/james_pic_normal.jpeg
+  created_at: Sat, 26 Feb 2011 01:38:05 +0000
+  from_user: oooJamesooo
+  id_str: "41311003715186688"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: ".@asmartbear dude!  you were missed at #SWAustin, @adamdani made it through your notes, but it wasn't the same."
+  id: 41311003715186688
+  from_user_id: 355359
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1936666"
+  profile_image_url: http://a0.twimg.com/profile_images/251788021/getify-logo_normal.gif
+  created_at: Sat, 26 Feb 2011 01:37:24 +0000
+  from_user: getify
+  id_str: "41310830855335936"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "hey @asmartbear... #swaustin misses you. @adamdani did a great job reading your notes in a cool okie accent."
+  id: 41310830855335936
+  from_user_id: 1936666
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "7303724"
+  profile_image_url: http://a0.twimg.com/profile_images/300652786/headshot_normal.jpg
+  created_at: Sat, 26 Feb 2011 01:30:19 +0000
+  from_user: mrosprey
+  id_str: "41309047458107392"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Too many companies build cool tools which no one particularly wants. --Jason Cohen in absentia #swaustin"
+  id: 41309047458107392
+  from_user_id: 7303724
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "35834741"
+  profile_image_url: http://a0.twimg.com/profile_images/749054495/Mom___Me_normal.jpg
+  created_at: Sat, 26 Feb 2011 01:28:33 +0000
+  from_user: DonnaFarmer
+  id_str: "41308604489400321"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @BobMetcalfe: Startup Weekend Austin just started at Microsoft. Looks like 30 of us. Met five great startups over pizza. Now showtime. #SWAustin"
+  id: 41308604489400321
+  from_user_id: 35834741
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;\xC3\x9CberSocial&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "7303724"
+  profile_image_url: http://a0.twimg.com/profile_images/300652786/headshot_normal.jpg
+  created_at: Sat, 26 Feb 2011 01:25:53 +0000
+  from_user: mrosprey
+  id_str: "41307934323384320"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Jonathan Sharp: You have to be intentional in forming relationships. #swaustin"
+  id: 41307934323384320
+  from_user_id: 7303724
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "7303724"
+  profile_image_url: http://a0.twimg.com/profile_images/300652786/headshot_normal.jpg
+  created_at: Sat, 26 Feb 2011 01:19:42 +0000
+  from_user: mrosprey
+  id_str: "41306378144325632"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "AppendTo CEO: Don't underestimate the value of relationships. #swAustin"
+  id: 41306378144325632
+  from_user_id: 7303724
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "7112538"
+  profile_image_url: http://a2.twimg.com/profile_images/828215207/Metcalfe.Arguing_normal.jpg
+  created_at: Sat, 26 Feb 2011 01:13:00 +0000
+  from_user: BobMetcalfe
+  id_str: "41304692545949696"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Startup Weekend Austin just started at Microsoft. Looks like 30 of us. Met five great startups over pizza. Now showtime. #SWAustin"
+  id: 41304692545949696
+  from_user_id: 7112538
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;\xC3\x9CberSocial&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "44446"
+  profile_image_url: http://a3.twimg.com/profile_images/95741521/jdsharp-128x128_normal.jpg
+  created_at: Sat, 26 Feb 2011 01:06:06 +0000
+  from_user: jdsharp
+  id_str: "41302956531920896"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "At #swaustin and loving it"
+  id: 41302956531920896
+  from_user_id: 44446
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "26043843"
+  profile_image_url: http://a3.twimg.com/profile_images/983274618/011_normal.JPG
+  created_at: Fri, 25 Feb 2011 23:46:34 +0000
+  from_user: adamdani
+  id_str: "41282938515488769"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @digbyj: Startup Weekend themed  #FF #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis - All happening this weekend!!!!!&quot;"
+  id: 41282938515488769
+  from_user_id: 26043843
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry\xC2\xAE&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "26043843"
+  profile_image_url: http://a3.twimg.com/profile_images/983274618/011_normal.JPG
+  created_at: Fri, 25 Feb 2011 23:43:25 +0000
+  from_user: adamdani
+  id_str: "41282146496811008"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#swAustin kicking off! (@ Microsoft) http://4sq.com/ewckzn"
+  id: 41282146496811008
+  from_user_id: 26043843
+  geo: 
+  iso_language_code: is
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://foursquare.com&quot; rel=&quot;nofollow&quot;&gt;foursquare&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Fri, 25 Feb 2011 23:28:19 +0000
+  from_user: HoustonSW
+  id_str: "41278345257828352"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @seanrmurphy: #swdub taking on the world - well  #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis  at least ;-)"
+  id: 41278345257828352
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Fri, 25 Feb 2011 23:28:17 +0000
+  from_user: sarahmworthy
+  id_str: "41278337745825792"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @seanrmurphy: #swdub taking on the world - well  #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis  at least ;-)"
+  id: 41278337745825792
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "520841"
+  profile_image_url: http://a0.twimg.com/profile_images/90165366/icon_normal.jpg
+  created_at: Fri, 25 Feb 2011 22:46:01 +0000
+  from_user: kwvarga
+  id_str: "41267701343195138"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "At #swaustin and not too sure what to expect! Very excited however"
+  id: 41267701343195138
+  from_user_id: 520841
+  geo: !map:Hashie::Mash 
+    coordinates: 
+    - 30.4004
+    - -97.7346
+    type: Point
+  iso_language_code: en
+  place: !map:Hashie::Mash 
+    id: 0398a4d8c29fc5fb
+    type: neighborhood
+    full_name: Stonelake Office Park, Austin
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "98468439"
+  profile_image_url: http://a0.twimg.com/profile_images/1246609575/TwitterProfile_normal.png
+  created_at: Fri, 25 Feb 2011 22:39:35 +0000
+  from_user: Ryan_Burkhart
+  id_str: "41266082232672256"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#SWAustin starts in a half hour - getting ready to head on over and see what ideas will get kicked around."
+  id: 41266082232672256
+  from_user_id: 98468439
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "186042998"
+  profile_image_url: http://a2.twimg.com/profile_images/1217256800/FHTwitterAvatar_normal.png
+  created_at: Fri, 25 Feb 2011 22:39:35 +0000
+  from_user: firsthandcreate
+  id_str: "41266080936632320"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#SWAustin starts in a half hour - getting ready to head on over and see what ideas will get kicked around."
+  id: 41266080936632320
+  from_user_id: 186042998
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1936666"
+  profile_image_url: http://a0.twimg.com/profile_images/251788021/getify-logo_normal.gif
+  created_at: Fri, 25 Feb 2011 22:30:11 +0000
+  from_user: getify
+  id_str: "41263717614239744"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#swaustin starts in just a little while...headed over with @jdsharp in just a few..."
+  id: 41263717614239744
+  from_user_id: 1936666
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://getspaz.com&quot; rel=&quot;nofollow&quot;&gt;Spaz&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "24328470"
+  profile_image_url: http://a0.twimg.com/profile_images/402672080/profile-photo_normal.jpg
+  created_at: Fri, 25 Feb 2011 21:31:38 +0000
+  from_user: seanrmurphy
+  id_str: "41248982105718784"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "#swdub taking on the world - well  #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis  at least ;-)"
+  id: 41248982105718784
+  from_user_id: 24328470
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "222716754"
+  profile_image_url: http://a1.twimg.com/profile_images/1246450664/MW_normal.png
+  created_at: Fri, 25 Feb 2011 19:36:55 +0000
+  from_user: mindwallet
+  id_str: "41220113801818112"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Tell us about your projects #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis http://www.mindwallet.com/home/StartupWeekend"
+  id: 41220113801818112
+  from_user_id: 222716754
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6095200"
+  profile_image_url: http://a0.twimg.com/profile_images/1183862552/8fbc98ad-a97e-4a6a-9db1-f486ca655aa2_normal.png
+  created_at: Fri, 25 Feb 2011 18:56:44 +0000
+  from_user: digbyj
+  id_str: "41209999162220544"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Startup Weekend themed #FF #swCPH #swBoulder #swAustin #HoustonSW #swDub #swsd2 #swTunis - All happening this weekend!!!!!"
+  id: 41209999162220544
+  from_user_id: 6095200
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "22284544"
+  profile_image_url: http://a1.twimg.com/profile_images/282483978/logo_for_twitter_normal.png
+  created_at: Fri, 25 Feb 2011 18:46:52 +0000
+  from_user: iotals
+  id_str: "41207516121530368"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41207516121530368
+  from_user_id: 22284544
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "20888261"
+  profile_image_url: http://a3.twimg.com/profile_images/793630105/Picture_2_normal.png
+  created_at: Fri, 25 Feb 2011 17:02:53 +0000
+  from_user: DKMayer
+  id_str: "41181351499677696"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41181351499677696
+  from_user_id: 20888261
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "35127854"
+  profile_image_url: http://a1.twimg.com/profile_images/128721845/dennis_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:55:38 +0000
+  from_user: dblynov
+  id_str: "41179525626855424"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41179525626855424
+  from_user_id: 35127854
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "180042472"
+  profile_image_url: http://a3.twimg.com/profile_images/1182525877/swb_reasonably_small_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:53:07 +0000
+  from_user: HoustonSW
+  id_str: "41178890663632897"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41178890663632897
+  from_user_id: 180042472
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "85857481"
+  profile_image_url: http://a2.twimg.com/profile_images/1243251607/94386240-f2d9-45dc-8cf9-929db487a25f_normal.png
+  created_at: Fri, 25 Feb 2011 16:53:06 +0000
+  from_user: sarahmworthy
+  id_str: "41178887475961856"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41178887475961856
+  from_user_id: 85857481
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "94667567"
+  profile_image_url: http://a0.twimg.com/profile_images/675029842/bl_g_rdsgade_normal.JPG
+  created_at: Fri, 25 Feb 2011 16:49:31 +0000
+  from_user: silversen
+  id_str: "41177985948192769"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swCPH: RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41177985948192769
+  from_user_id: 94667567
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "165916940"
+  profile_image_url: http://a3.twimg.com/profile_images/1213167426/d04f5c5c-ca4b-43c2-87c9-e9d12b3832dd_normal.png
+  created_at: Fri, 25 Feb 2011 16:40:01 +0000
+  from_user: slimKhan
+  id_str: "41175595945693184"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41175595945693184
+  from_user_id: 165916940
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "75614016"
+  profile_image_url: http://a1.twimg.com/profile_images/1247161805/edited_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:39:43 +0000
+  from_user: KaisEG
+  id_str: "41175518002950145"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41175518002950145
+  from_user_id: 75614016
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "92835991"
+  profile_image_url: http://a0.twimg.com/profile_images/1142282997/UA_twitter_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:37:21 +0000
+  from_user: unitedaccel
+  id_str: "41174922474561536"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "SBootCamp: RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Housto... http://bit.ly/hZBO5r"
+  id: 41174922474561536
+  from_user_id: 92835991
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "791031"
+  profile_image_url: http://a3.twimg.com/profile_images/803754510/n689968178_324295_4585_copy_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:36:15 +0000
+  from_user: nopstrup
+  id_str: "41174647936528384"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41174647936528384
+  from_user_id: 791031
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "132944"
+  profile_image_url: http://a2.twimg.com/profile_images/1121281829/ioio_normal.png
+  created_at: Fri, 25 Feb 2011 16:33:37 +0000
+  from_user: encinar
+  id_str: "41173983332274176"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities running Startup Weekend starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis &amp; #swCPH"
+  id: 41173983332274176
+  from_user_id: 132944
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "23520418"
+  profile_image_url: http://a1.twimg.com/profile_images/1184060280/dfa1987b-a4d2-4377-b3cf-507dbf4c32af_normal.png
+  created_at: Fri, 25 Feb 2011 16:33:24 +0000
+  from_user: gairifo
+  id_str: "41173927875198976"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @SBootcamp: RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41173927875198976
+  from_user_id: 23520418
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "186194358"
+  profile_image_url: http://a3.twimg.com/profile_images/1192158925/SW_beaker_denmark_normal.png
+  created_at: Fri, 25 Feb 2011 16:32:33 +0000
+  from_user: swCPH
+  id_str: "41173715727298560"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41173715727298560
+  from_user_id: 186194358
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "74847355"
+  profile_image_url: http://a3.twimg.com/profile_images/691394022/sbc_twitter_normal.gif
+  created_at: Fri, 25 Feb 2011 16:32:32 +0000
+  from_user: SBootcamp
+  id_str: "41173713055387648"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41173713055387648
+  from_user_id: 74847355
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "81193246"
+  profile_image_url: http://a3.twimg.com/profile_images/1231932826/Alex_normal.JPG
+  created_at: Fri, 25 Feb 2011 16:31:31 +0000
+  from_user: alexfarcet
+  id_str: "41173457333010432"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "AWESOME! 7 cities running Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis and Copenhagen #swCPH"
+  id: 41173457333010432
+  from_user_id: 81193246
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "8836864"
+  profile_image_url: http://a2.twimg.com/profile_images/720953434/sam_normal.jpg
+  created_at: Fri, 25 Feb 2011 16:13:47 +0000
+  from_user: webalicious
+  id_str: "41168991309398016"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @capitalfactory: Startup Weekend Austin kicks off tomorrow at 6pm!  registration open until 1pm Fri 2/24.  http://bit.ly/dTFcuT #swaustin"
+  id: 41168991309398016
+  from_user_id: 8836864
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "2325222"
+  profile_image_url: http://a0.twimg.com/profile_images/67000026/Picture_5_normal.jpg
+  created_at: Fri, 25 Feb 2011 06:33:42 +0000
+  from_user: arrocharGeek
+  id_str: "41023012438282240"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @BobMetcalfe: Startup Weekend Austin is THIS weekend!  Have you got your ticket yet? - http://j.mp/cMugHk #swaustin"
+  id: 41023012438282240
+  from_user_id: 2325222
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "184583473"
+  profile_image_url: http://a1.twimg.com/profile_images/1246340006/ThatDonnaBrown_normal.jpg
+  created_at: Fri, 25 Feb 2011 06:14:30 +0000
+  from_user: ThatDonnaBrown
+  id_str: "41018180281446400"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @BobMetcalfe: Startup Weekend Austin is THIS weekend!  Have you got your ticket yet? - http://j.mp/cMugHk #swaustin"
+  id: 41018180281446400
+  from_user_id: 184583473
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "520841"
+  profile_image_url: http://a0.twimg.com/profile_images/90165366/icon_normal.jpg
+  created_at: Fri, 25 Feb 2011 04:39:54 +0000
+  from_user: kwvarga
+  id_str: "40994371176382464"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Just registered for &quot;Austin Startup Weekend 2011&quot; http://t.co/kUioYwq via @eventbrite #swaustin"
+  id: 40994371176382464
+  from_user_id: 520841
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/tweetbutton&quot; rel=&quot;nofollow&quot;&gt;Tweet Button&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "3218205"
+  profile_image_url: http://a0.twimg.com/profile_images/1181334289/C_UsersElijahDocumentsYoucamSnapshot_20101202_2_normal.jpg
+  created_at: Fri, 25 Feb 2011 04:25:51 +0000
+  from_user: elijahmay
+  id_str: "40990834996420608"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @capitalfactory: Startup Weekend Austin kicks off tomorrow at 6pm!  Event registration is open until 1pm Fri 2/24. #swaustin  http://bit.ly/dTFcuT"
+  id: 40990834996420608
+  from_user_id: 3218205
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "7402142"
+  profile_image_url: http://a3.twimg.com/profile_images/1215564477/elizabeth_quintanilla_SM_prof_look_normal.jpg
+  created_at: Fri, 25 Feb 2011 03:10:05 +0000
+  from_user: equintanilla
+  id_str: "40971769502380032"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @capitalfactory: Startup Weekend Austin kicks off tomorrow at 6pm!  registration is open til 1pm 2/24. #swaustin  http://bit.ly/dTFcuT"
+  id: 40971769502380032
+  from_user_id: 7402142
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1936666"
+  profile_image_url: http://a0.twimg.com/profile_images/251788021/getify-logo_normal.gif
+  created_at: Fri, 25 Feb 2011 03:02:44 +0000
+  from_user: getify
+  id_str: "40969918509744128"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 8836864
+  text: "@webalicious doing really well. yeah, psyched for #swaustin. i think i'm gonna do like 3 pitches. :)"
+  id: 40969918509744128
+  from_user_id: 1936666
+  to_user: webalicious
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "8836864"
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "8836864"
+  profile_image_url: http://a2.twimg.com/profile_images/720953434/sam_normal.jpg
+  created_at: Fri, 25 Feb 2011 02:38:33 +0000
+  from_user: webalicious
+  id_str: "40963832952135680"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 1936666
+  text: "@getify how u doing? going to #swaustin?"
+  id: 40963832952135680
+  from_user_id: 8836864
+  to_user: getify
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "1936666"
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "3734285"
+  profile_image_url: http://a1.twimg.com/profile_images/1240342601/jini-profile_normal.png
+  created_at: Fri, 25 Feb 2011 02:03:09 +0000
+  from_user: mcotton
+  id_str: "40954924112162816"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "There is still time to call in sick to work tomorrow and come up to Austin.  I'm excited for startup weekend.  #swaustin"
+  id: 40954924112162816
+  from_user_id: 3734285
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1936666"
+  profile_image_url: http://a0.twimg.com/profile_images/251788021/getify-logo_normal.gif
+  created_at: Fri, 25 Feb 2011 01:04:38 +0000
+  from_user: getify
+  id_str: "40940199525482496"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @webalicious: RT @capitalfactory: Startup Weekend Austin kicks off tomorrow at 6pm!  registration open until 1pm Fri 2/24.  http://bit.ly/dTFcuT #swaustin"
+  id: 40940199525482496
+  from_user_id: 1936666
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "2771201"
+  profile_image_url: http://a3.twimg.com/profile_images/66211333/jason-leaning-face-only_normal.JPG
+  created_at: Fri, 25 Feb 2011 00:38:44 +0000
+  from_user: asmartbear
+  id_str: "40933678691528704"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @capitalfactory: Startup Weekend Austin kicks off tomorrow at 6pm!  Event registration is open until 1pm Fri 2/24. #swaustin  http://bit.ly/dTFcuT"
+  id: 40933678691528704
+  from_user_id: 2771201
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "240141"
+  profile_image_url: http://a3.twimg.com/profile_images/498210622/fnltwt_normal.jpg
+  created_at: Fri, 25 Feb 2011 00:16:14 +0000
+  from_user: YuriKostun
+  id_str: "40928016368533504"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @capitalfactory: Startup Weekend Austin kicks off tomorrow at 6pm!  Event registration is open until 1pm Fri 2/24. #swaustin  http://bit.ly/dTFcuT"
+  id: 40928016368533504
+  from_user_id: 240141
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "8836864"
+  profile_image_url: http://a2.twimg.com/profile_images/720953434/sam_normal.jpg
+  created_at: Fri, 25 Feb 2011 00:04:30 +0000
+  from_user: webalicious
+  id_str: "40925064199147520"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 1936666
+  text: "@getify @joeypomerenke @asmartbear -- have fun for me at #swaustin - Gotta attend events sat and sun for my own startup @clublezlife"
+  id: 40925064199147520
+  from_user_id: 8836864
+  to_user: getify
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "1936666"
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "4474236"
+  profile_image_url: http://a3.twimg.com/profile_images/615353846/4_normal.jpg
+  created_at: Fri, 25 Feb 2011 00:00:08 +0000
+  from_user: ChadSapenter
+  id_str: "40923967762071552"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @capitalfactory: Startup Weekend Austin kicks off tomorrow at 6pm!  Event registration is open until 1pm Fri 2/24. #swaustin  http://bit.ly/dTFcuT"
+  id: 40923967762071552
+  from_user_id: 4474236
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "172720945"
+  profile_image_url: http://a2.twimg.com/profile_images/1185139990/swboulder_normal.jpg
+  created_at: Thu, 24 Feb 2011 23:59:53 +0000
+  from_user: swboulder
+  id_str: "40923903572312065"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @capitalfactory: Startup Weekend Austin kicks off tomorrow at 6pm! registration open until 1pm Fri 2/24. http://bit.ly/dTFcuT #swaustin"
+  id: 40923903572312065
+  from_user_id: 172720945
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "144072701"
+  profile_image_url: http://a1.twimg.com/profile_images/1116764638/DenverStartup_normal.jpg
+  created_at: Thu, 24 Feb 2011 23:59:53 +0000
+  from_user: StartupDenver
+  id_str: "40923902398038017"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @capitalfactory: Startup Weekend Austin kicks off tomorrow at 6pm! registration open until 1pm Fri 2/24. http://bit.ly/dTFcuT #swaustin"
+  id: 40923902398038017
+  from_user_id: 144072701
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "8836864"
+  profile_image_url: http://a2.twimg.com/profile_images/720953434/sam_normal.jpg
+  created_at: Thu, 24 Feb 2011 23:58:40 +0000
+  from_user: webalicious
+  id_str: "40923594934599680"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 2094610
+  text: "@capitalfactory too bad I'm going to miss this  #swaustin...I'll be busy promoting my own start up @clublezlife at two events this wkd."
+  id: 40923594934599680
+  from_user_id: 8836864
+  to_user: capitalfactory
+  geo: 
+  iso_language_code: en
+  to_user_id_str: "2094610"
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "8836864"
+  profile_image_url: http://a2.twimg.com/profile_images/720953434/sam_normal.jpg
+  created_at: Thu, 24 Feb 2011 23:57:57 +0000
+  from_user: webalicious
+  id_str: "40923417964183552"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @capitalfactory: Startup Weekend Austin kicks off tomorrow at 6pm!  registration open until 1pm Fri 2/24.  http://bit.ly/dTFcuT #swaustin"
+  id: 40923417964183552
+  from_user_id: 8836864
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "2094610"
+  profile_image_url: http://a1.twimg.com/profile_images/81599482/Capital_Factory_Icon_normal.png
+  created_at: Thu, 24 Feb 2011 23:45:04 +0000
+  from_user: capitalfactory
+  id_str: "40920175771533312"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Startup Weekend Austin kicks off tomorrow at 6pm!  Event registration is open until 1pm Fri 2/24. #swaustin  http://bit.ly/dTFcuT"
+  id: 40920175771533312
+  from_user_id: 2094610
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1936666"
+  profile_image_url: http://a0.twimg.com/profile_images/251788021/getify-logo_normal.gif
+  created_at: Thu, 24 Feb 2011 18:07:10 +0000
+  from_user: getify
+  id_str: "40835139495792640"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "roll call for Austin startup peeps... who's coming to #swaustin this weekend? you have your pitches ready? :) @SW_Austin"
+  id: 40835139495792640
+  from_user_id: 1936666
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "7402142"
+  profile_image_url: http://a3.twimg.com/profile_images/1215564477/elizabeth_quintanilla_SM_prof_look_normal.jpg
+  created_at: Thu, 24 Feb 2011 15:55:09 +0000
+  from_user: equintanilla
+  id_str: "40801916657082369"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @BobMetcalfe: Startup Weekend Austin is THIS weekend!  Have you got your ticket yet? - http://j.mp/cMugHk #swaustin"
+  id: 40801916657082369
+  from_user_id: 7402142
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "98468439"
+  profile_image_url: http://a0.twimg.com/profile_images/1246609575/TwitterProfile_normal.png
+  created_at: Thu, 24 Feb 2011 15:04:28 +0000
+  from_user: Ryan_Burkhart
+  id_str: "40789160746811392"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Startup Weekend Austin is tomorrow and I'm looking forward to it.  #SWAustin http://ow.ly/42D7R"
+  id: 40789160746811392
+  from_user_id: 98468439
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1936666"
+  profile_image_url: http://a0.twimg.com/profile_images/251788021/getify-logo_normal.gif
+  created_at: Thu, 24 Feb 2011 14:18:27 +0000
+  from_user: getify
+  id_str: "40777578612531200"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "This weekend is @SW_Austin and we're very lucky to have @jdsharp (my boss!) from @appendTo coming to speak. #swaustin"
+  id: 40777578612531200
+  from_user_id: 1936666
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "624762"
+  profile_image_url: http://a1.twimg.com/profile_images/1131942113/sept2010_twitter_normal.jpg
+  created_at: Thu, 24 Feb 2011 09:50:45 +0000
+  from_user: JimEngland
+  id_str: "40710213514297344"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Can't sleep, just thought up a sick idea for an app. Might have to attend #swaustin to build it!"
+  id: 40710213514297344
+  from_user_id: 624762
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "26043843"
+  profile_image_url: http://a3.twimg.com/profile_images/983274618/011_normal.JPG
+  created_at: Thu, 24 Feb 2011 03:44:52 +0000
+  from_user: adamdani
+  id_str: "40618136235552768"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "AUSTIN: Startup Weekend is coming to you, this weekend.  Do you have your ticket? http://ow.ly/42mhR #swaustin"
+  id: 40618136235552768
+  from_user_id: 26043843
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "93789868"
+  profile_image_url: http://a3.twimg.com/profile_images/666325643/JCF_Headshot_FB_100130_normal.jpg
+  created_at: Thu, 24 Feb 2011 02:28:51 +0000
+  from_user: jcfrinak
+  id_str: "40599005754818560"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @BobMetcalfe: Startup Weekend Austin is THIS weekend!  Have you got your ticket yet? - http://j.mp/cMugHk #swaustin"
+  id: 40599005754818560
+  from_user_id: 93789868
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "240141"
+  profile_image_url: http://a3.twimg.com/profile_images/498210622/fnltwt_normal.jpg
+  created_at: Thu, 24 Feb 2011 01:34:49 +0000
+  from_user: YuriKostun
+  id_str: "40585406357442560"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @TexasCEO: RT @asmartbear: Startup Weekend Austin is this weekend!  Have you got your ticket yet? http://j.mp/cMugHk #swaustin Plz RT"
+  id: 40585406357442560
+  from_user_id: 240141
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "13515291"
+  profile_image_url: http://a1.twimg.com/profile_images/754752959/star_only_normal.jpg
+  created_at: Thu, 24 Feb 2011 00:00:01 +0000
+  from_user: TexasCEO
+  id_str: "40561550615912448"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @asmartbear: Startup Weekend Austin is this weekend!  Have you got your ticket yet? http://j.mp/cMugHk #swaustin Plz RT"
+  id: 40561550615912448
+  from_user_id: 13515291
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "38408877"
+  profile_image_url: http://a2.twimg.com/profile_images/626519306/IMG_0047_normal.JPG
+  created_at: Wed, 23 Feb 2011 23:56:10 +0000
+  from_user: AustenTX
+  id_str: "40560578212659200"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @BobMetcalfe Startup Weekend Austin is THIS weekend!  Have you got your ticket yet? - http://j.mp/cMugHk #swaustin cool! Might try 4 sun!"
+  id: 40560578212659200
+  from_user_id: 38408877
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://stone.com/Twittelator&quot; rel=&quot;nofollow&quot;&gt;Twittelator&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "13068534"
+  profile_image_url: http://a3.twimg.com/profile_images/303270133/meik_normal.jpg
+  created_at: Wed, 23 Feb 2011 23:09:46 +0000
+  from_user: ivicakartelo
+  id_str: "40548901517787136"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "What @BobMetcalfe works in UT I work at the Split, Croatia University campus http://j.mp/cMugHk #swaustin"
+  id: 40548901517787136
+  from_user_id: 13068534
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "121563255"
+  profile_image_url: http://a0.twimg.com/profile_images/1241441619/embos2011_normal.png
+  created_at: Wed, 23 Feb 2011 23:04:46 +0000
+  from_user: Innovate4Good
+  id_str: "40547646808666112"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @BobMetcalfe: Startup Weekend Austin is THIS weekend!  Have you got your ticket yet? - http://j.mp/cMugHk #swaustin"
+  id: 40547646808666112
+  from_user_id: 121563255
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "13068534"
+  profile_image_url: http://a3.twimg.com/profile_images/303270133/meik_normal.jpg
+  created_at: Wed, 23 Feb 2011 22:50:33 +0000
+  from_user: ivicakartelo
+  id_str: "40544065766297601"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @BobMetcalfe: Startup Weekend Austin is THIS weekend!  Have you got your ticket yet? - http://j.mp/cMugHk #swaustin"
+  id: 40544065766297601
+  from_user_id: 13068534
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "7112538"
+  profile_image_url: http://a2.twimg.com/profile_images/828215207/Metcalfe.Arguing_normal.jpg
+  created_at: Wed, 23 Feb 2011 22:37:23 +0000
+  from_user: BobMetcalfe
+  id_str: "40540752945618944"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Startup Weekend Austin is THIS weekend!  Have you got your ticket yet? - http://j.mp/cMugHk #swaustin"
+  id: 40540752945618944
+  from_user_id: 7112538
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "957463"
+  profile_image_url: http://a1.twimg.com/profile_images/938143582/Seal-on_orange_normal.jpg
+  created_at: Wed, 23 Feb 2011 20:44:48 +0000
+  from_user: bootstrapaustin
+  id_str: "40512420640198658"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @kkoym @StartupWeekend Austin is this weekend! Have you got your ticket yet? http://j.mp/cMugHk #swaustin Plz RT #ATXentScene #Ideation"
+  id: 40512420640198658
+  from_user_id: 957463
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://cotweet.com/?utm_source=sp1&quot; rel=&quot;nofollow&quot;&gt;CoTweet&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "22364299"
+  profile_image_url: http://a3.twimg.com/profile_images/1113425749/Photo_on_2010-08-29_at_17.04_normal.jpg
+  created_at: Wed, 23 Feb 2011 20:35:26 +0000
+  from_user: austingunter
+  id_str: "40510064540254208"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Startup Weekend Austin is this weekend!  Have you got your ticket yet? http://j.mp/cMugHk #swaustin Plz RT"
+  id: 40510064540254208
+  from_user_id: 22364299
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "926"
+  profile_image_url: http://a1.twimg.com/profile_images/364070541/kevin1_normal.png
+  created_at: Wed, 23 Feb 2011 20:32:30 +0000
+  from_user: kkoym
+  id_str: "40509325931839488"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Startup Weekend Austin is this weekend!  Have you got your ticket yet? http://j.mp/cMugHk #swaustin Plz RT"
+  id: 40509325931839488
+  from_user_id: 926
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1936666"
+  profile_image_url: http://a0.twimg.com/profile_images/251788021/getify-logo_normal.gif
+  created_at: Wed, 23 Feb 2011 20:32:29 +0000
+  from_user: getify
+  id_str: "40509322362494976"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Startup Weekend Austin is this weekend!  Have you got your ticket yet? http://j.mp/cMugHk #swaustin Plz RT"
+  id: 40509322362494976
+  from_user_id: 1936666
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "1213933"
+  profile_image_url: http://a0.twimg.com/profile_images/1031218150/heyp_twitter_logo2_normal.png
+  created_at: Wed, 23 Feb 2011 20:28:31 +0000
+  from_user: heyp
+  id_str: "40508322339753984"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @asmartbear: Startup Weekend Austin is this weekend!  Have you got your ticket yet? http://j.mp/cMugHk #swaustin Plz RT"
+  id: 40508322339753984
+  from_user_id: 1213933
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://pluggio.com&quot; rel=&quot;nofollow&quot;&gt;Pluggio&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "127082875"
+  profile_image_url: http://a1.twimg.com/profile_images/1254486651/cartwheel_normal.jpg
+  created_at: Wed, 23 Feb 2011 20:20:49 +0000
+  from_user: mikenewt
+  id_str: "40506385674416128"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @asmartbear: Startup Weekend Austin is this weekend!  Have you got your ticket yet? http://j.mp/cMugHk #swaustin Plz RT"
+  id: 40506385674416128
+  from_user_id: 127082875
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://pluggio.com&quot; rel=&quot;nofollow&quot;&gt;Pluggio&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "2771201"
+  profile_image_url: http://a3.twimg.com/profile_images/66211333/jason-leaning-face-only_normal.JPG
+  created_at: Wed, 23 Feb 2011 20:20:30 +0000
+  from_user: asmartbear
+  id_str: "40506305185726464"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Startup Weekend Austin is this weekend!  Have you got your ticket yet? http://j.mp/cMugHk #swaustin Plz RT"
+  id: 40506305185726464
+  from_user_id: 2771201
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://pluggio.com&quot; rel=&quot;nofollow&quot;&gt;Pluggio&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "470241"
+  profile_image_url: http://a3.twimg.com/profile_images/1144181491/JoeyAvatar_normal.png
+  created_at: Wed, 23 Feb 2011 20:13:48 +0000
+  from_user: JoeyPomerenke
+  id_str: "40504618567999488"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Startup Weekend Austin is this weekend!  Have you got your ticket yet? http://j.mp/cMugHk #swaustin Plz RT"
+  id: 40504618567999488
+  from_user_id: 470241
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
