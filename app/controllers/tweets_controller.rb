@@ -1,5 +1,5 @@
 class TweetsController < ApplicationController
   def show
-    render :json => TwitterSearch.new("#" + params[:id]).latest(10)
+    render :json => Tweet.where(:hashtag => "#" + params[:id]).order('created_at desc').first(10)
   end
 end

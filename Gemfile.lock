@@ -51,6 +51,7 @@ GEM
     multi_json (0.0.5)
     multi_xml (0.2.1)
     multipart-post (1.1.0)
+    mysql2 (0.2.6)
     polyglot (0.3.1)
     rack (1.2.1)
     rack-mount (0.6.13)
@@ -89,5 +90,6 @@ PLATFORMS
 
 DEPENDENCIES
   fastercsv
+  mysql2
   rails (= 3.0.4)
   twitter

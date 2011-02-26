@@ -6,29 +6,15 @@ class Tweetstat
 
   def group_by_time(tweets, time_interval)
     tweets.group_by { |tweet|
-      Time.at((Time.parse(tweet.created_at).to_i / (time_interval)) * time_interval)
+      Time.at((tweet.created_at.to_i / (time_interval)) * time_interval)
     }
-  end
-
-  def epicenters
-    YAML::load_file("#{Rails.root}/config/epicenters.yml")
-  end
-
-  def hashtags
-    epicenters.map do |epicenter| epicenter['tag'] end
-  end
-
-  def update_all
-    hashtags.each do |tag|
-      TwitterSearch.new(tag, (2.days.ago.localtime..Time.now.localtime)).run_update
-    end
   end
 
   def group_tweets(tweets)
     group_by_time(tweets, interval).map{|time, tweets|
       {
         :time   => time,
-        :reach  => tweets.group_by{|tweet| tweet.from_user}.length,
+        :reach  => tweets.group_by{|tweet| tweet.data.from_user}.length,
         :impact => tweets.length
       }
     }
@@ -66,9 +52,9 @@ class Tweetstat
 
   def run
     output = {}
-    hashtags.map do |hashtag|
-      search = TwitterSearch.new(hashtag, @time_interval)
-      output[hashtag] = map_tweets(search.fetch)
+    Tweet.hashtags.map do |hashtag|
+      search = Tweet.where(:hashtag => hashtag).where(:created_at => @time_interval)
+      output[hashtag] = map_tweets(search)
     end
     output
   end
