@@ -218,18 +218,19 @@
 	var epiHistory = {};
 	
 	function calcHistoryDivider() {
-			console.log(epiHistory);
-		var maxReach = 0;
-		var maxImpact = 0;
-		$.each(epiHistory, function (i, el) {
-			$.each(el, function (i, el) {
-				if (el.reach > maxReach)
-					maxReach = el.reach;
-				if (el.impact > maxImpact)
-					maxImpact = el.impact;
-			});
-		});
-		currentThresholdDivider = Math.round(maxImpact/20);
+    //  console.log(epiHistory);
+    // var maxReach = 0;
+    // var maxImpact = 0;
+    // $.each(epiHistory, function (i, el) {
+    //  $.each(el, function (i, el) {
+    //    if (el.reach > maxReach)
+    //      maxReach = el.reach;
+    //    if (el.impact > maxImpact)
+    //      maxImpact = el.impact;
+    //  });
+    // });
+    // currentThresholdDivider = Math.round(maxImpact/20);
+    currentThresholdDivider = 3;
 	}
 
 	jQuery.getJSON('tweetstats', function(data) {
