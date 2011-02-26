@@ -7,6 +7,14 @@ class Tweet < ActiveRecord::Base
 
   class << self
 
+    def show(args)
+      Rails.logger.debug(Time.parse(args[:before]))
+      where(:hashtag => "#" + args[:id]).
+        where(["created_at < ?", (Time.parse(args[:before]) || Time.now)]).
+        order('created_at desc').
+        first(args[:count] || 10)
+    end
+
     def latest
       order('created_at DESC').first
     end
