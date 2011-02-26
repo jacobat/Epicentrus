@@ -40,10 +40,12 @@ class Tweetstat
   end
 
   def run
+    output = {}
     hashtags.map do |hashtag|
       search = TwitterSearch.new(hashtag)
-      { hashtag => map_tweets(search.fetch) }
+      output[hashtag] = map_tweets(search.fetch)
     end
+    output
   end
   
 end

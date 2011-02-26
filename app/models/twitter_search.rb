@@ -17,6 +17,10 @@ class TwitterSearch
     tweets
   end
 
+  def latest(count)
+    fetch.sort{|a, b| Time.parse(b['created_at']) <=> Time.parse(a['created_at'])}.first(count)
+  end
+
   def run_update
     update(fetch).tap do |tweets|
       File.open(cache_filename, 'w') do |f| YAML::dump(tweets, f) end
