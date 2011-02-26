@@ -9,10 +9,11 @@ class Tweet < ActiveRecord::Base
 
     def show(args)
       time = (args[:before].present? ? Time.at(args[:before].to_i) : Time.now)
+      count = (args[:count].present? ? args[:count].to_i : 10)
       where(:hashtag => args[:id]).
         where(["created_at < ?", time]).
         order('created_at desc').
-        first(args[:count].to_i || 10)
+        first(count)
     end
 
     def latest
