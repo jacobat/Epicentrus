@@ -9,6 +9,7 @@ set :user, 'epicentrus'
 set :use_sudo, false
 set :deploy_via, :copy
 set :bundle_cmd, '/home/epicentrus/.gem/ruby/1.8/bin/bundle'
+set :rake, '/home/epicentrus/.gem/ruby/1.8/bin/bundle exec rake'
 
 role :web, "93.90.116.253"                          # Your HTTP server, Apache/etc
 role :app, "93.90.116.253"                          # This may be the same as your `Web` server
