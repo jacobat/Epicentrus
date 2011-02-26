@@ -2,28 +2,60 @@
 <html>
 <head>
 <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+<link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
 <style type="text/css">
-	html { height: 100% }
-	body { height: 100%; margin: 0px; padding: 0px }
+	html { 
+		height: 100% 
+	}
+	body {
+		height: 100%; 
+		margin: 0px; 
+		padding: 0px;
+
+	}
 	#map_canvas { height: 100% }
 	#sliderContainer {
+		color: #FFFFFF;
+		text-shadow: #000000 1px 1px 1px;
+		font-family: 'Droid Sans', arial, serif;
+		
 		position: fixed;
 		bottom: 0;
 		left: 0;
 		width: 100%;
-		height: 80px;
-		background: grey;
+		height: 125px;
+		
+		background: #626060; /* old browsers */
+		background: -moz-linear-gradient(top, #626060 0%, #484848 50%, #808080 100%); /* firefox */
+
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#626060), color-stop(50%,#484848), color-stop(100%,#808080)); /* webkit */
+
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#626060', endColorstr='#484848',GradientType=0 ); /* ie */
+		
+		-moz-box-shadow: 0 0 5px 2px #222;
+		-webkit-box-shadow: 0 0 5px 2px #222;
+		box-shadow: 0 0 5px 2px #222;
 	}
-	#infoContainer {
+	#sliderInfoContainer {
+		display: block;
+		width: 940px;
 		margin: 0 auto;
-		width: 50%;
+	}
+	#displayDate {
+		display: block;
+		float: left;
+		width: 150px;
+		text-align: right;
+		margin-top: 5px;
 	}
 	#slider {
-		width: 70%;
+		float: left;
+		font-size: 80%;
+		width: 700px;
 		margin: 10px auto;
 	}
 </style>
-<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/themes/base/jquery-ui.css" />
+<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/themes/dark-hive/jquery-ui.css" />
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.10/jquery-ui.min.js"></script>
@@ -39,25 +71,28 @@
 					'FF3800',
 					'FF1C00',
 					'FF0000',];
+					
+	function pad2(number) {
+	     return (number < 10 ? '0' : '') + number
+	}
+	function roundTime(time, resolution) {
+    	return new Date(Math.floor(time / resolution) * resolution);
+  	};
 
-  function roundTime(time, resolution) {
-    return new Date(Math.floor(time / resolution) * resolution);
-  };
-
+	var hour = 60*60*1000;
+	var day = 24 * hour;
+	var resolution = hour; // 1 hour
+	var minDate = roundTime(new Date().getTime() - (2 * day), resolution);
+	var maxDate = roundTime(new Date().getTime(), resolution);
+	
 	$(function () {
-    	var hour = 60*60*1000;
-    	var day = 24 * hour;
-		var resolution = hour; // 1 hour
-		var minDate = roundTime(new Date().getTime() - (2 * day), resolution); // 2011-02-21T15:00:00+01:00
-    	var maxDate = roundTime(new Date().getTime(), resolution); // 2011-02-25T17:00:00+01:00
 		var max = Math.floor((maxDate.getTime() - minDate.getTime()) / resolution);
 		currentHistoryId = max;
 	    $('#slider').slider({
 	        max: max,
 			value: max,
 	        slide: function(event, ui) {
-	            var date = new Date(minDate.getTime()+(ui.value*resolution));
-	            $('#displayDate').html($.datepicker.formatDate('mm/dd/yy', date)+' '+date.getHours()+':'+date.getMinutes());
+
 				currentHistoryId = ui.value;
 				updateMarkers();
 	        }
@@ -69,9 +104,12 @@
 	var currentThresholdDivider = 2;
 	
 	function updateMarkers() {
+		var date = new Date(minDate.getTime()+(currentHistoryId*resolution));
+        $('#displayDate').html($.datepicker.formatDate('mm/dd/yy', date)+' '+pad2(date.getHours())+':'+pad2(date.getMinutes()));
+
 		for (var i in epicenters) {
 			var ec = epicenters[i];
-			if (epiHistory[ec.tag] != undefined) {
+			if (epiHistory != null && epiHistory[ec.tag] != undefined) {
 				var hist = epiHistory[ec.tag];
 				if (markers[i] != undefined && hist[currentHistoryId] != undefined) {
 					var reach = Math.floor(hist[currentHistoryId].reach/currentThresholdDivider);
@@ -94,7 +132,6 @@
 					} else {
 						markers[i].setVisible(false);
 					}
-					
 				}
 			}
 		}
@@ -105,7 +142,7 @@
 	    var myOptions = {
 	      zoom: 2,
 	      center: latlng,
-	      mapTypeId: google.maps.MapTypeId.ROADMAP
+	      mapTypeId: google.maps.MapTypeId.SATELLITE
 	    };
 	    var map = new google.maps.Map(document.getElementById("map_canvas"),
 	        myOptions);
@@ -188,8 +225,9 @@
 <body onload="initMap();">
  	<div id="map_canvas" style="width:100%; height:100%"></div> 
 	<div id="sliderContainer">
-		<div id="slider"></div>
-		<div id="infoContainer">Date: <span id="displayDate"></span></div>
+		<div id="sliderInfoContainer">
+		<div id="slider"></div><span id="displayDate"></span>
+		</div>
 	</div>
 </body>
 </html>
