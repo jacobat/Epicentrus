@@ -14,7 +14,11 @@ class TwitterSearch
     if(File.exist?(cache_filename))
       tweets = YAML::load_file(cache_filename)
     end
-    update(tweets).tap do |tweets|
+    tweets
+  end
+
+  def run_update
+    update(fetch).tap do |tweets|
       File.open(cache_filename, 'w') do |f| YAML::dump(tweets, f) end
     end
   end

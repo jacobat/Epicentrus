@@ -21,6 +21,12 @@ class Tweetstat
     epicenters.map do |epicenter| epicenter['tag'] end
   end
 
+  def update_all
+    hashtags.each do |tag|
+      TwitterSearch.new(tag).run_update
+    end
+  end
+
   def map_tweets(tweets)
     group_by_time(tweets, 60.minutes).map{|time, tweets|
       number_of_authors = tweets.group_by{|tweet| tweet.from_user}.length

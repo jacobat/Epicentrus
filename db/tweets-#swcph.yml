@@ -4781,3 +4781,51 @@
   iso_language_code: en
   to_user_id_str: 
   source: "&lt;a href=&quot;http://www.facebook.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Facebook&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "33056901"
+  profile_image_url: http://a0.twimg.com/profile_images/1175295979/senne-vaeyens-cut-l_normal.jpg
+  created_at: Sat, 26 Feb 2011 15:05:38 +0000
+  from_user: svaeyens
+  id_str: "41514232197558272"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @swcph: Here's the list of teams - Copenhagen Startup Weekend http://ht.ly/43Tdk #swCPH"
+  id: 41514232197558272
+  from_user_id: 33056901
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "2312479"
+  profile_image_url: http://a1.twimg.com/profile_images/725686202/and_portr_t_befunky_normal.jpg
+  created_at: Sat, 26 Feb 2011 15:01:04 +0000
+  from_user: 4ND3RS
+  id_str: "41513079158226944"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "Dag 2: der arbejdes p\xC3\xA5 livet l\xC3\xB8s med ideerne. S\xC3\xB8ndag kl 17 skal de v\xC3\xA6re klar til pitch! http://yfrog.com/hsmblmoj #swCPH"
+  id: 41513079158226944
+  from_user_id: 2312479
+  geo: 
+  iso_language_code: da
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+- !map:Hashie::Mash 
+  from_user_id_str: "6095200"
+  profile_image_url: http://a0.twimg.com/profile_images/1183862552/8fbc98ad-a97e-4a6a-9db1-f486ca655aa2_normal.png
+  created_at: Sat, 26 Feb 2011 14:57:33 +0000
+  from_user: digbyj
+  id_str: "41512197729296384"
+  metadata: !map:Hashie::Mash 
+    result_type: recent
+  to_user_id: 
+  text: "RT @eddincph: #swcph is well stocked up!  http://ow.ly/i/8A4m"
+  id: 41512197729296384
+  from_user_id: 6095200
+  geo: 
+  iso_language_code: en
+  to_user_id_str: 
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
