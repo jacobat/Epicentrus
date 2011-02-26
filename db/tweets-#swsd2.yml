@@ -449,309 +449,114 @@
   to_user_id_str: 
   source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
 - !map:Hashie::Mash 
-  from_user_id_str: "25325"
-  profile_image_url: http://a3.twimg.com/profile_images/1224313717/201006-new-mini-4_normal.jpg
-  created_at: Wed, 23 Feb 2011 22:38:02 +0000
-  from_user: jennyjenjen
-  id_str: "40540917744017408"
-  metadata: !map:Hashie::Mash 
-    result_type: recent
-  to_user_id: 620478
-  text: "@Odegard I will try to make it but I'm working #swsd2!! I'm sad you're leaving! :( #OdegardMovingAway"
-  id: 40540917744017408
-  from_user_id: 25325
-  to_user: Odegard
-  geo: 
-  iso_language_code: en
-  to_user_id_str: "620478"
-  source: "&lt;a href=&quot;http://tweetvite.com&quot; rel=&quot;nofollow&quot;&gt;Tweetvite&lt;/a&gt;"
-- !map:Hashie::Mash 
-  from_user_id_str: "25325"
-  profile_image_url: http://a3.twimg.com/profile_images/1224313717/201006-new-mini-4_normal.jpg
-  created_at: Wed, 23 Feb 2011 22:04:27 +0000
-  from_user: jennyjenjen
-  id_str: "40532466871574528"
+  from_user_id_str: "3300650"
+  profile_image_url: http://a2.twimg.com/profile_images/121318263/Ainc-logo1_normal.jpg
+  created_at: Sat, 26 Feb 2011 18:20:17 +0000
+  from_user: awesome_inc
+  id_str: "41563214777040896"
   metadata: !map:Hashie::Mash 
     result_type: recent
   to_user_id: 
-  text: "RT @sdtechscene: The contest to win a free ticket to #StartupWeekend San Diego 2 from @KidZui ends in four hours! http://is.gd/SHJCyk #swsd2"
-  id: 40532466871574528
-  from_user_id: 25325
+  text: "RT @SBootcamp: RT @alexfarcet: AWESOME! 7 cities doing Startup Weekends starting now: #swBoulder, #swAustin, #Houstonsw, #swDUB, #swSD2, #swTunis,  #swCPH"
+  id: 41563214777040896
+  from_user_id: 3300650
   geo: 
   iso_language_code: en
   to_user_id_str: 
-  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  source: "&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;"
 - !map:Hashie::Mash 
-  from_user_id_str: "25325"
-  profile_image_url: http://a3.twimg.com/profile_images/1224313717/201006-new-mini-4_normal.jpg
-  created_at: Wed, 23 Feb 2011 22:02:13 +0000
-  from_user: jennyjenjen
-  id_str: "40531905094881280"
-  metadata: !map:Hashie::Mash 
-    result_type: recent
-  to_user_id: 209217201
-  text: "@mkeplinger thanks for tweeting about #StartupWeekend San Diego! :) #swsd2"
-  id: 40531905094881280
-  from_user_id: 25325
-  to_user: mkeplinger
-  geo: 
-  iso_language_code: en
-  to_user_id_str: "209217201"
-  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
-- !map:Hashie::Mash 
-  from_user_id_str: "160519406"
-  profile_image_url: http://a1.twimg.com/profile_images/1209859004/bam2_normal.jpg
-  created_at: Wed, 23 Feb 2011 21:38:36 +0000
-  from_user: realcubiksrube
-  id_str: "40525960486850560"
+  from_user_id_str: "60015523"
+  profile_image_url: http://a3.twimg.com/profile_images/1254999715/DSC02603_normal.JPG
+  created_at: Sat, 26 Feb 2011 18:13:48 +0000
+  from_user: GinaAssaf
+  id_str: "41561584878895105"
   metadata: !map:Hashie::Mash 
     result_type: recent
   to_user_id: 
-  text: "RT @sdtechscene: Enter to win a free ticket to #StartupWeekend San Diego 2 thanks to @KidZui! Details here: http://is.gd/SHJCyk #swsd2"
-  id: 40525960486850560
-  from_user_id: 160519406
+  text: "Heading over to #swsd2 to work with my #airpair team for the weekend. Ready to roll up my sleeves and build it!"
+  id: 41561584878895105
+  from_user_id: 60015523
   geo: 
   iso_language_code: en
   to_user_id_str: 
-  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
 - !map:Hashie::Mash 
-  from_user_id_str: "94110380"
-  profile_image_url: http://a0.twimg.com/profile_images/693846967/twitter-avatar_normal.jpg
-  created_at: Wed, 23 Feb 2011 20:57:28 +0000
-  from_user: sdtechscene
-  id_str: "40515609716334592"
+  from_user_id_str: "3836285"
+  profile_image_url: http://a0.twimg.com/profile_images/1172816336/redhat_normal.jpg
+  created_at: Sat, 26 Feb 2011 16:53:56 +0000
+  from_user: junnibug
+  id_str: "41541483597271040"
   metadata: !map:Hashie::Mash 
     result_type: recent
   to_user_id: 
-  text: "The contest to win a free ticket to #StartupWeekend San Diego 2 from @KidZui ends in four hours! http://is.gd/SHJCyk #swsd2"
-  id: 40515609716334592
-  from_user_id: 94110380
+  text: "Running on little sleep, but ready to code! You know it's serious when I bring a second monitor. #swsd2"
+  id: 41541483597271040
+  from_user_id: 3836285
   geo: 
   iso_language_code: en
   to_user_id_str: 
-  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
-- !map:Hashie::Mash 
-  from_user_id_str: "109087558"
-  profile_image_url: http://a3.twimg.com/profile_images/817629671/JuliePachecoMiyaoProfilePhoto_normal.jpg
-  created_at: Wed, 23 Feb 2011 01:00:27 +0000
-  from_user: juliemiyao
-  id_str: "40214369547726848"
-  metadata: !map:Hashie::Mash 
-    result_type: recent
-  to_user_id: 
-  text: "RT @sdtechscene: Enter to win a free ticket to #StartupWeekend San Diego 2 thanks to @KidZui! Details here: http://is.gd/SHJCyk #swsd2"
-  id: 40214369547726848
-  from_user_id: 109087558
-  geo: 
-  iso_language_code: en
-  to_user_id_str: 
-  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
-- !map:Hashie::Mash 
-  from_user_id_str: "25325"
-  profile_image_url: http://a3.twimg.com/profile_images/1224313717/201006-new-mini-4_normal.jpg
-  created_at: Wed, 23 Feb 2011 00:15:40 +0000
-  from_user: jennyjenjen
-  id_str: "40203098236387328"
-  metadata: !map:Hashie::Mash 
-    result_type: recent
-  to_user_id: 
-  text: "RT @sdtechscene: There is still time to enter to win a free ticket to #StartupWeekend San Diego 2 courtesy of @KidZui! http://is.gd/SHJCyk #swsd2"
-  id: 40203098236387328
-  from_user_id: 25325
-  geo: 
-  iso_language_code: en
-  to_user_id_str: 
-  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
-- !map:Hashie::Mash 
-  from_user_id_str: "94110380"
-  profile_image_url: http://a0.twimg.com/profile_images/693846967/twitter-avatar_normal.jpg
-  created_at: Wed, 23 Feb 2011 00:12:06 +0000
-  from_user: sdtechscene
-  id_str: "40202202995892224"
-  metadata: !map:Hashie::Mash 
-    result_type: recent
-  to_user_id: 
-  text: "There is still time to enter to win a free ticket to #StartupWeekend San Diego 2 courtesy of @KidZui! http://is.gd/SHJCyk #swsd2"
-  id: 40202202995892224
-  from_user_id: 94110380
-  geo: 
-  iso_language_code: en
-  to_user_id_str: 
-  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
-- !map:Hashie::Mash 
-  from_user_id_str: "311983"
-  profile_image_url: http://a1.twimg.com/profile_images/1107785328/ian_chicken_normal.jpg
-  created_at: Tue, 22 Feb 2011 23:53:42 +0000
-  from_user: CydeSwype
-  id_str: "40197569451663361"
-  metadata: !map:Hashie::Mash 
-    result_type: recent
-  to_user_id: 
-  text: "RT @sdtechscene: Enter to win a free ticket to #StartupWeekend San Diego 2 thanks to @KidZui! Details here: http://is.gd/SHJCyk #swsd2"
-  id: 40197569451663361
-  from_user_id: 311983
-  geo: 
-  iso_language_code: en
-  to_user_id_str: 
-  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
-- !map:Hashie::Mash 
-  from_user_id_str: "169808499"
-  profile_image_url: http://a2.twimg.com/profile_images/1165257582/twprofile_normal.JPG
-  created_at: Tue, 22 Feb 2011 23:52:30 +0000
-  from_user: MikePmalai
-  id_str: "40197267910565888"
-  metadata: !map:Hashie::Mash 
-    result_type: recent
-  to_user_id: 
-  text: "RT @sdtechscene: Enter to win a free ticket to #StartupWeekend San Diego 2 thanks to @KidZui! Details here: http://is.gd/SHJCyk #swsd2"
-  id: 40197267910565888
-  from_user_id: 169808499
-  geo: 
-  iso_language_code: en
-  to_user_id_str: 
-  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
-- !map:Hashie::Mash 
-  from_user_id_str: "1382327"
-  profile_image_url: http://a3.twimg.com/profile_images/91566674/n500768715_470650_1405_normal.jpg
-  created_at: Tue, 22 Feb 2011 21:49:48 +0000
-  from_user: khushness
-  id_str: "40166392972058624"
-  metadata: !map:Hashie::Mash 
-    result_type: recent
-  to_user_id: 
-  text: "Enter to win a free ticket to #StartupWeekend San Diego 2 thanks to @KidZui! Details here: http://is.gd/SHJCyk #swsd2"
-  id: 40166392972058624
-  from_user_id: 1382327
-  geo: 
-  iso_language_code: en
-  to_user_id_str: 
-  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  source: "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter for Android&lt;/a&gt;"
 - !map:Hashie::Mash 
   from_user_id_str: "33964227"
   profile_image_url: http://a0.twimg.com/profile_images/1234354513/facebook_profile_normal.jpg
-  created_at: Tue, 22 Feb 2011 16:47:10 +0000
+  created_at: Sat, 26 Feb 2011 16:26:46 +0000
   from_user: namestew
-  id_str: "40090232506421248"
+  id_str: "41534647124893696"
   metadata: !map:Hashie::Mash 
     result_type: recent
   to_user_id: 
-  text: "RT @sdtechscene: Don't forget that @KidZui is still giving away one ticket to #StartupWeekend San Diego 2! RT to enter. http://is.gd/SHJCyk #swsd2"
-  id: 40090232506421248
+  text: "my pitch for #swsd2 was http://t.co/ndFgVmz, still looking for a #designer! Back end work is there. Sign up we'll let u know when we launch!"
+  id: 41534647124893696
   from_user_id: 33964227
   geo: 
   iso_language_code: en
   to_user_id_str: 
-  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+  source: "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter for Android&lt;/a&gt;"
 - !map:Hashie::Mash 
-  from_user_id_str: "144613565"
-  profile_image_url: http://a2.twimg.com/profile_images/692806760/cooleyHeadShot_normal.jpg
-  created_at: Tue, 22 Feb 2011 06:18:46 +0000
-  from_user: julianImpact
-  id_str: "39932087603695616"
-  metadata: !map:Hashie::Mash 
-    result_type: recent
-  to_user_id: 8348406
-  text: "@GoldVine Cool! Look forward to seeing you there. The schedule and address for #swsd2 are here http://bit.ly/h6TOTW"
-  id: 39932087603695616
-  from_user_id: 144613565
-  to_user: GoldVine
-  geo: 
-  iso_language_code: en
-  to_user_id_str: "8348406"
-  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
-- !map:Hashie::Mash 
-  from_user_id_str: "171963889"
-  profile_image_url: http://a0.twimg.com/profile_images/1184485013/twitpic_normal.jpg
-  created_at: Tue, 22 Feb 2011 04:59:38 +0000
-  from_user: Anderson760
-  id_str: "39912173895561217"
+  from_user_id_str: "33964227"
+  profile_image_url: http://a0.twimg.com/profile_images/1234354513/facebook_profile_normal.jpg
+  created_at: Sat, 26 Feb 2011 16:24:03 +0000
+  from_user: namestew
+  id_str: "41533962912272386"
   metadata: !map:Hashie::Mash 
     result_type: recent
   to_user_id: 
-  text: "RT @sdtechscene: Enter to win a free ticket to #StartupWeekend San Diego 2 thanks to @KidZui! Details here: http://is.gd/SHJCyk #swsd2"
-  id: 39912173895561217
-  from_user_id: 171963889
+  text: "Didn't get picked 4 #swsd2, but joined another to make the weekend worth it. Maybe we'll still get to demo..."
+  id: 41533962912272386
+  from_user_id: 33964227
   geo: 
   iso_language_code: en
   to_user_id_str: 
-  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+  source: "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Twitter for Android&lt;/a&gt;"
 - !map:Hashie::Mash 
-  from_user_id_str: "140023203"
-  profile_image_url: http://a2.twimg.com/profile_images/1116619071/fi-logo_7_2010_normal.png
-  created_at: Mon, 21 Feb 2011 23:51:24 +0000
-  from_user: JeanineJacobson
-  id_str: "39834603191668737"
+  from_user_id_str: "37298"
+  profile_image_url: http://a3.twimg.com/profile_images/1165720986/41539_541192105_83137_n_normal.jpg
+  created_at: Sat, 26 Feb 2011 16:12:05 +0000
+  from_user: m0to
+  id_str: "41530953235038208"
   metadata: !map:Hashie::Mash 
     result_type: recent
   to_user_id: 
-  text: "RT @julianImpact: Enter to win a free ticket to #StartupWeekend San Diego 2 thanks to @KidZui! Details here: http://is.gd/SHJCyk #swsd2"
-  id: 39834603191668737
-  from_user_id: 140023203
+  text: "Couldn't sleep last night after Startup Weekend SD started. Too much running through the brain. #swsd2"
+  id: 41530953235038208
+  from_user_id: 37298
   geo: 
   iso_language_code: en
   to_user_id_str: 
-  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
 - !map:Hashie::Mash 
-  from_user_id_str: "51034"
-  profile_image_url: http://a1.twimg.com/profile_images/1208449965/profile_normal.jpg
-  created_at: Mon, 21 Feb 2011 22:48:15 +0000
-  from_user: nicmcc
-  id_str: "39818714492706816"
+  from_user_id_str: "159259784"
+  profile_image_url: http://a2.twimg.com/profile_images/1135596966/headshot_small1_normal.jpg
+  created_at: Sat, 26 Feb 2011 15:58:45 +0000
+  from_user: sollytweet
+  id_str: "41527597812826112"
   metadata: !map:Hashie::Mash 
     result_type: recent
   to_user_id: 
-  text: "RT @julianImpact: Enter to win a free ticket to #StartupWeekend San Diego 2 thanks to @KidZui! Details here: http://is.gd/SHJCyk #swsd2"
-  id: 39818714492706816
-  from_user_id: 51034
+  text: "#swsd2 Last night till midnite, Startup Weekend is on. Team assembled, prosuct vision set, blast off baby, http://yfrog.com/gyjyiayj"
+  id: 41527597812826112
+  from_user_id: 159259784
   geo: 
   iso_language_code: en
   to_user_id_str: 
-  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
-- !map:Hashie::Mash 
-  from_user_id_str: "144613565"
-  profile_image_url: http://a2.twimg.com/profile_images/692806760/cooleyHeadShot_normal.jpg
-  created_at: Mon, 21 Feb 2011 22:39:09 +0000
-  from_user: julianImpact
-  id_str: "39816420640559104"
-  metadata: !map:Hashie::Mash 
-    result_type: recent
-  to_user_id: 
-  text: "Enter to win a free ticket to #StartupWeekend San Diego 2 thanks to @KidZui! Details here: http://is.gd/SHJCyk #swsd2"
-  id: 39816420640559104
-  from_user_id: 144613565
-  geo: 
-  iso_language_code: en
-  to_user_id_str: 
-  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
-- !map:Hashie::Mash 
-  from_user_id_str: "94110380"
-  profile_image_url: http://a0.twimg.com/profile_images/693846967/twitter-avatar_normal.jpg
-  created_at: Mon, 21 Feb 2011 21:08:28 +0000
-  from_user: sdtechscene
-  id_str: "39793599570911233"
-  metadata: !map:Hashie::Mash 
-    result_type: recent
-  to_user_id: 
-  text: "Don't forget that @KidZui is still giving away one ticket to #StartupWeekend San Diego 2! RT to enter. http://is.gd/SHJCyk #swsd2"
-  id: 39793599570911233
-  from_user_id: 94110380
-  geo: 
-  iso_language_code: en
-  to_user_id_str: 
-  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
-- !map:Hashie::Mash 
-  from_user_id_str: "129465211"
-  profile_image_url: http://a3.twimg.com/profile_images/1083808861/icon_normal.png
-  created_at: Mon, 21 Feb 2011 18:46:24 +0000
-  from_user: SocialStarfish
-  id_str: "39757850062356480"
-  metadata: !map:Hashie::Mash 
-    result_type: recent
-  to_user_id: 
-  text: "RT @sdtechscene: Enter to win a free ticket to #StartupWeekend San Diego 2 thanks to @KidZui! Details here: http://is.gd/SHJCyk #swsd2"
-  id: 39757850062356480
-  from_user_id: 129465211
-  geo: 
-  iso_language_code: en
-  to_user_id_str: 
-  source: "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;"
+  source: "&lt;a href=&quot;http://twitter.com/&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;"
