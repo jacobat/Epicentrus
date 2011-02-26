@@ -12,7 +12,7 @@ class Tweet < ActiveRecord::Base
       where(:hashtag => args[:id]).
         where(["created_at < ?", time]).
         order('created_at desc').
-        first(args[:count] || 10)
+        first(args[:count].to_i || 10)
     end
 
     def latest
