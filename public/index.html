@@ -248,7 +248,12 @@
 				google.maps.event.addListener(markers[i], 'click', function() {
 				    console.log(this);
           console.log(ec.tag);
-					$('#panel').slideToggle("slow");
+					$('#panel').toggle();
+					/*
+					$('#panel').slideToggle("slow", function() {
+						
+					});
+					*/
 					$.getJSON('/tweets/' + escape(ec.tag) + '?before=' + selectedTime(), function(data) {
 					  $('#media #panel-1').text('');
             $.tmpl('<div class="tweet">${tweet.data.text}</div>', data).appendTo($('#media #panel-1'));
