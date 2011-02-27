@@ -27,13 +27,6 @@ body {
 	width: 100%;
 	height: 30px;
 	
-	background: #626060; /* old browsers */
-	background: -moz-linear-gradient(top, #626060 0%, #484848 50%, #808080 100%); /* firefox */
-
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#626060), color-stop(50%,#484848), color-stop(100%,#808080)); /* webkit */
-
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#626060', endColorstr='#484848',GradientType=0 ); /* ie */
-	
 	-moz-box-shadow: 0 0 5px 2px #222;
 	-webkit-box-shadow: 0 0 5px 2px #222;
 	box-shadow: 0 0 5px 2px #222;
@@ -55,6 +48,16 @@ body {
 	font-size: 80%;
 	width: 700px;
 	margin: 10px auto;
+}
+
+.panelBg {
+	background: #3a434d; /* old browsers */
+	background: -moz-linear-gradient(top, #3a434d 0%, #4b5661 100%); /* firefox */
+
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#3a434d), color-stop(100%,#4b5661)); /* webkit */
+
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3a434d', endColorstr='#4b5661',GradientType=0 ); /* ie */
+
 }
 
 
@@ -131,9 +134,13 @@ body {
 }
 
 #panel-content {
-	background:#777;
 	height:200px;
 	padding:0.5em 10px 0;
+
+	-moz-box-shadow: 0 0 5px 2px #222, 0 0 1px 0px #FFFFFF inset;
+	-webkit-box-shadow: 0 0 5px 2px #222, 0 0 1px 0px #FFFFFF inset;
+	box-shadow: 0 0 5px 2px #222, 0 0 1px 0px #FFFFFF inset;
+	
 }
 
 #close-panel {float:right;}
@@ -192,7 +199,7 @@ body {
 
 #tabs li a {
 	padding: 0.4em 0.7em 0.2em 0.7em;
-	background:#999;
+
 	color:#FFF;
 	display: block;
 	line-height:1.3em;
@@ -209,7 +216,11 @@ body {
 
 #tabs a.selected {
 	text-decoration: none;
-	background-color: #777;
+
+	-moz-box-shadow: 0 0 1px 0px #FFFFFF inset;
+	-webkit-box-shadow: 0 0 1px 0px #FFFFFF inset;
+	box-shadow: 0 0 1px 0px #FFFFFF inset;
+
 }
 
 
@@ -280,3 +291,92 @@ a:hover {
 
 /* Forms */
 #search-field {}
+
+
+/* Media / Tweets */
+#dots {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	text-shadow: rgba(0,0,0,0.5) -1px 0, rgba(0,0,0,0.3) 0 -1px, rgba(255,255,255,0.5) 0 1px, rgba(0,0,0,0.3) -1px -2px;
+	color: #232a36;
+}
+#dots ul {
+	margin: 0;
+	padding: 0;	
+}
+#dots ul li{
+	margin: 0;
+	padding: 0;
+	display: inline;
+	list-style: none;
+}
+#dots ul li.selected {
+	color: #188fd2;
+}
+#tweetsContainer {
+	margin: 0 auto;
+	padding: 0;
+	width: 970px;
+}
+#leftControl,
+#rightControl {
+	float: left;
+	width: 25px;
+	height: 150px;
+	cursor: hand;
+}
+#leftControl {
+	margin-right: 5px;
+	background: url('../images/media_navigation.png') no-repeat 0px 61px;
+}
+#rightControl {
+	margin-left: 5px;	
+	background: url('../images/media_navigation.png') no-repeat -25px 61px;
+}
+#tweets {
+	float: left;
+	width: 900px;
+	height: 150px;
+	overflow: hidden;
+}
+
+#tweets a {
+	color: #188fd2;
+}
+
+#tweets .tweet {
+	float: left;
+	width: 286px;
+	height: 140px;
+	margin-left: 2px;	
+	margin-right: 2px;
+	background: #ececec;
+	color: #595959;
+	padding: 5px;
+}
+
+#tweets .tweet img {
+	float: left;
+	margin-right: 5px;
+}
+
+#tweets .tweet .text {
+	float: left;
+	font-size: 1.3em;
+	width: 100%;	
+}
+
+#tweets .tweet.image .text,
+#tweets .tweet .extra {
+	float: left;
+	width: 181px;
+}
+
+#tweets .tweet .extra {
+	font-size: 0.8em;
+}
+
+#tweets .tweet .extra .from {
+
+}

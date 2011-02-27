@@ -51,6 +51,11 @@
 	        }
 	    });
 	
+	$('#panel').slideToggle("slow");
+	$('#data').hide();
+	$('#data-tab').removeClass('selected');
+	$('#media-tab').addClass('selected');
+	$('#media').fadeIn("slow");
 	
 		$('#close-panel').click(function() {
 			$('#panel').slideToggle("slow");
@@ -98,6 +103,58 @@
 			}
 		});
 	
+	
+		/* twitter slide shizzle */
+		  var currentPosition = 0;
+		  var slidesDisplayed = 3;
+		  var slideWidth = 290;
+		  var slides = $('#tweets .tweet');
+		  var numberOfSlides = slides.length;
+
+		  // Wrap all .slides with #slideInner div
+		  slides.wrapAll('<div id="slideInner"></div>')
+		  // Float left to display horizontally, readjust .slides width
+		  .css({
+		    'float' : 'left',
+		    'width' : slideWidth
+		  });
+
+		  // Set #slideInner width equal to total width of all slides
+		  $('#slideInner').css('width', slideWidth * numberOfSlides);
+
+		  // Hide left arrow control on first load
+		  manageControls(currentPosition);
+
+		  // Create event listeners for .controls clicks
+		  $('#rightControl,#leftControl').bind('click', function(){
+		    // Determine new position
+		      currentPosition = ($(this).attr('id')=='rightControl')
+		    ? currentPosition+1 : currentPosition-1;
+
+		      // Hide / show controls
+		      manageControls(currentPosition);
+		      // Move slideInner using margin-left
+		      $('#slideInner').animate({
+		        'marginLeft' : slideWidth*(-currentPosition)
+		      });
+		    });
+
+		  // manageControls: Hides and shows controls depending on currentPosition
+		  function manageControls(position){
+		    // Hide left arrow if position is first slide
+		    if (position==0){ 
+				$('#leftControl').hide() 
+			} else { 
+				$('#leftControl').show() 
+			}
+		    // Hide right arrow if position is last slide
+		    if (position==numberOfSlides-slidesDisplayed-1) { 
+				$('#rightControl').hide() 
+			} else { 
+				$('#rightControl').show() 
+			}
+		  }
+
 	});
 	
 	var markers = [];
@@ -151,14 +208,8 @@
 	      center: latlng,
 	      mapTypeId: google.maps.MapTypeId.SATELLITE,
 			mapTypeControl: false,
-		    panControl: true,
-		    panControlOptions: {
-		        position: google.maps.ControlPosition.LEFT_CENTER
-		    },
-		    zoomControl: true,
-		    zoomControlOptions: {
-		        position: google.maps.ControlPosition.LEFT_CENTER
-		    },
+		    panControl: false,
+		    zoomControl: false,
 		    scaleControl: false,
 		    streetViewControl: false,
 	    };
@@ -239,12 +290,6 @@
 							lng: 9.700928,
 							tag: '#swtunis',
 						},
-						{
-							name: 'StartupWeekend Des Moine',
-							lat: 41.606458,
-							lng: -93.608665,
-							tag: '#swdsm',
-						},
 						
 					];
 					
@@ -275,7 +320,7 @@
 </script>
 </head>
 <body onload="initMap();">
-	<div id="top">
+	<div id="top" class="panelBg">
 		<div id="topInner">
 		<div id="login">
 			<a href="#">Log in</a>
@@ -300,12 +345,12 @@
 	
 		<a id="close-panel" href="#">x</a>
 		<ul id="tabs">
-			<li><a id="data-tab" href="javascript:void(0);" class="selected">Data</a></li>
-			<li><a id="media-tab" href="javascript:void(0);">Social Media</a></li>
+			<li><a id="data-tab" href="javascript:void(0);" class="selected panelBg">Data</a></li>
+			<li><a id="media-tab" href="javascript:void(0);"class="panelBg">Social Media</a></li>
 		</ul>
 		
 		
-		<div id="panel-content">
+		<div id="panel-content" class="panelBg">
 		
 			<div id="data">
 				<div class="modules-4">
@@ -333,10 +378,47 @@
 					</div>
 				</div>
 			</div>
+			
 			<div id="media">
-				<div id="panel-1">
-				<h3>Twitter</h3>
-				<a href="#" id="twitter">more..</a>
+				<div id="dots">
+					<ul>
+						<li>&bull;</li>
+						<li class="selected">&bull;</li>
+						<li>&bull;</li>
+						<li>&bull;</li>
+					</ul>
+				</div>
+				<div id="tweetsContainer">
+					<div id="leftControl"></div>
+					<div id="tweets">
+				
+						<div id="tweet-1" class="tweet image">
+							<img src="http://farm6.static.flickr.com/5053/5479711533_ece2f0f143.jpg" width="100" height="140" />
+							<div class="text">Foooo bar !! <a href="#">#swCPH</a></div>
+							<div class="extra"><span class="time">45 minutes ago</span> from <span class="from"><a href="#">bssdk</a></span></div>
+						</div>
+						<div id="tweet-2" class="tweet">
+							<div class="text">Foooo bar !! <a href="#">#swCPH</a></div>
+							<div class="extra"><span class="time">45 minutes ago</span> from <span class="from"><a href="#">bssdk</a></span></div>
+						</div>
+						<div id="tweet-3" class="tweet image">
+							<img src="http://farm6.static.flickr.com/5053/5479711533_ece2f0f143.jpg" width="100" height="140" />						<div class="text">Foooo bar !! <a href="#">#swCPH</a></div>
+							<div class="extra"><span class="time">45 minutes ago</span> from <span class="from"><a href="#">bssdk</a></span></div>
+						</div>
+						<div id="tweet-4" class="tweet">
+							<div class="text">Foooo bar !! <a href="#">#swCPH</a></div>
+							<div class="extra"><span class="time">45 minutes ago</span> from <span class="from"><a href="#">bssdk</a></span></div>
+						</div>
+						<div id="tweet-5" class="tweet image">
+							<img src="http://farm6.static.flickr.com/5053/5479711533_ece2f0f143.jpg" width="100" height="140" />						<div class="text">Foooo bar !! <a href="#">#swCPH</a></div>
+							<div class="extra"><span class="time">45 minutes ago</span> from <span class="from"><a href="#">bssdk</a></span></div>
+						</div>
+						<div id="tweet-6" class="tweet">
+							<div class="text">Foooo bar !! <a href="#">#swCPH</a></div>
+							<div class="extra"><span class="time">45 minutes ago</span> from <span class="from"><a href="#">bssdk</a></span></div>
+						</div>										
+					</div>
+					<div id="rightControl"></div>
 				</div>
 			</div>
 		</div>
@@ -350,7 +432,7 @@
 		</div>
 	</div>
 	
-	<div id="sliderContainer">
+	<div id="sliderContainer" class="panelBg">
 		<div id="sliderInfoContainer">
 		<div id="slider"></div><span id="displayDate"></span>
 		</div>
