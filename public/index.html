@@ -59,7 +59,7 @@
 		currentHistoryId = max;
 	    $('#slider').slider({
 	        max: max,
-			value: max,
+			value: max-1,
 	        slide: function(event, ui) {
 				currentHistoryId = ui.value;
 				updateMarkers();
