@@ -52,12 +52,6 @@
 	        }
 	    });
 	
-	$('#panel').slideToggle("slow");
-	$('#data').hide();
-	$('#data-tab').removeClass('selected');
-	$('#media-tab').addClass('selected');
-	$('#media').fadeIn("slow");
-	
 		$('#close-panel').click(function() {
 			$('#panel').slideToggle("slow");
 		});
@@ -393,38 +387,15 @@
 	
 		<a id="close-panel" href="#">x</a>
 		<ul id="tabs">
-			<li><a id="data-tab" href="javascript:void(0);" class="selected panelBg">Data</a></li>
-			<li><a id="media-tab" href="javascript:void(0);"class="panelBg">Social Media</a></li>
+			<li><a id="data-tab" href="javascript:void(0);" class="selected panelBg">Data Feed</a></li>
+			<li><a id="media-tab" href="javascript:void(0);"class="panelBg">Media Feed</a></li>
 		</ul>
 		
 		
 		<div id="panel-content" class="panelBg">
 		
 			<div id="data">
-				<div class="modules-4">
-					<div class="module-inner">
-						
-						<h3 class="count">31,234<br /><span>tweets</span></h3>
-					</div>
-				</div>
-				<div class="modules-4">
-					<div class="module-inner">
-						<h3>Second</h3>
-						<p>This is the data tab. This is the data tab. This is the data tab.</p>
-					</div>
-				</div>
-				<div class="modules-4">
-					<div class="module-inner">
-						<h3>Third</h3>
-						<p>This is the data tab. This is the data tab. This is the data tab.</p>
-					</div>
-				</div>
-				<div class="modules-4">
-					<div class="module-inner">
-						<h3>Forth</h3>
-						<p>This is the data tab. This is the data tab. This is the data tab.</p>
-					</div>
-				</div>
+				<img src="images/static_stats.png" />
 			</div>
 			
 			<div id="media">
