@@ -10,7 +10,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20110227091446) do
+ActiveRecord::Schema.define(:version => 20110227101324) do
 
   create_table "tweets", :force => true do |t|
     t.text     "data"
@@ -19,6 +19,10 @@ ActiveRecord::Schema.define(:version => 20110227091446) do
     t.datetime "created_at"
     t.datetime "updated_at"
     t.string   "image"
+    t.string   "image_attachment_file_name"
+    t.string   "image_attachment_content_type"
+    t.integer  "image_attachment_file_size"
+    t.datetime "image_attachment_updated_at"
   end
 
   add_index "tweets", ["twitter_id"], :name => "index_tweets_on_twitter_id", :unique => true
