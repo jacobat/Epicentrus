@@ -138,9 +138,11 @@
 	}
 	
 	function initMap() {
-    	var latlng = new google.maps.LatLng(0, 0);
+
+		
+    	var latlng = new google.maps.LatLng(40, -20);
 	    var myOptions = {
-	      zoom: 2,
+	      zoom: 3,
 	      center: latlng,
 	      mapTypeId: google.maps.MapTypeId.SATELLITE,
 			mapTypeControl: false,
@@ -157,6 +159,14 @@
 	    };
 	    var map = new google.maps.Map(document.getElementById("map"),
 	        myOptions);
+	
+		var groundOverlayBounds = new google.maps.LatLngBounds(
+		    new google.maps.LatLng(-46.0,-178.9999),
+		    new google.maps.LatLng(80.0,179.9999));
+		var overlayMap = new google.maps.GroundOverlay(
+			    "images/map_grounds_overlay.png",
+			    groundOverlayBounds,
+				{map: map});
 
 		for(var i in epicenters) {
 			var ec = epicenters[i];
