@@ -310,6 +310,8 @@ a:hover {
 	padding: 0;
 	display: inline;
 	list-style: none;
+	margin-left: 2px;
+	margin-right: 2px;
 }
 #dots ul li.selected {
 	color: #188fd2;
@@ -324,7 +326,7 @@ a:hover {
 	float: left;
 	width: 25px;
 	height: 150px;
-	cursor: hand;
+	cursor: pointer;
 }
 #leftControl {
 	margin-right: 5px;
