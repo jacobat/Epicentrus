@@ -322,7 +322,9 @@ a:hover {
 
 
 /* Forms */
-#search-field {}
+#search-field {
+	width: 200px;
+}
 
 
 /* Media / Tweets */
