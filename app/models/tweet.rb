@@ -5,6 +5,8 @@ class Tweet < ActiveRecord::Base
 
   after_create :process_image_url
 
+  validates_uniqueness_of :twitter_id
+
   class << self
 
     def show(args)

@@ -10,7 +10,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20110226203554) do
+ActiveRecord::Schema.define(:version => 20110227091446) do
 
   create_table "tweets", :force => true do |t|
     t.text     "data"
@@ -20,5 +20,7 @@ ActiveRecord::Schema.define(:version => 20110226203554) do
     t.datetime "updated_at"
     t.string   "image"
   end
+
+  add_index "tweets", ["twitter_id"], :name => "index_tweets_on_twitter_id"
 
 end
