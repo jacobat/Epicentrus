@@ -319,9 +319,227 @@
 							tag: '#swtunis',
 						},
 						
+						{
+							name: 'New york',
+							lat: 39.725925,
+							lng: -74.00528,
+							tag: '#newyork'
+						},
+						{
+							name: 'The Oscars',
+							lat: 34.104129,
+							lng: -118.340092,
+							tag: '#oscars'
+						},
+						{
+							name: 'Libya',
+							lat: 30.88593,
+							lng: 13.19046,
+							tag: '#libya'
+						},
 					];
 					
 	var epiHistory = {};
+	var libya = [ 
+		  { "impact" : 60,
+	        "reach" : 50,
+	        "time" : "2011-02-25T13:00:00+01:00"
+	      },
+		  { "impact" : 60,
+	        "reach" : 50,
+	        "time" : "2011-02-25T14:00:00+01:00"
+	      },
+		  { "impact" : 60,
+	        "reach" : 50,
+	        "time" : "2011-02-25T15:00:00+01:00"
+	      },
+		  { "impact" : 60,
+	        "reach" : 50,
+	        "time" : "2011-02-25T16:00:00+01:00"
+	      },
+		  { "impact" : 60,
+	        "reach" : 50,
+	        "time" : "2011-02-25T17:00:00+01:00"
+	      },
+		  { "impact" : 60,
+	        "reach" : 50,
+	        "time" : "2011-02-25T18:00:00+01:00"
+	      },
+		  { "impact" : 60,
+	        "reach" : 50,
+	        "time" : "2011-02-25T19:00:00+01:00"
+	      },
+		  { "impact" : 60,
+	        "reach" : 50,
+	        "time" : "2011-02-25T20:00:00+01:00"
+	      },
+		  { "impact" : 60,
+	        "reach" : 50,
+	        "time" : "2011-02-25T21:00:00+01:00"
+	      },
+		  { "impact" : 60,
+	        "reach" : 50,
+	        "time" : "2011-02-25T22:00:00+01:00"
+	      },
+		  { "impact" : 60,
+	        "reach" : 50,
+	        "time" : "2011-02-25T23:00:00+01:00"
+	      },
+		  { "impact" : 60,
+	        "reach" : 50,
+	        "time" : "2011-02-26T00:00:00+01:00"
+	      },
+		  { "impact" : 60,
+	        "reach" : 50,
+	        "time" : "2011-02-26T01:00:00+01:00"
+	      },
+		  { "impact" : 60,
+	        "reach" : 50,
+	        "time" : "2011-02-26T02:00:00+01:00"
+	      },
+		  { "impact" : 60,
+	        "reach" : 50,
+	        "time" : "2011-02-26T03:00:00+01:00"
+	      },
+		  { "impact" : 60,
+	        "reach" : 50,
+	        "time" : "2011-02-26T04:00:00+01:00"
+	      },
+		  { "impact" : 60,
+	        "reach" : 50,
+	        "time" : "2011-02-26T05:00:00+01:00"
+	      },
+	      { "impact" : 4,
+	        "reach" : 3,
+	        "time" : "2011-02-26T06:00:00+01:00"
+	      },
+	      { "impact" : 1,
+	        "reach" : 1,
+	        "time" : "2011-02-26T07:00:00+01:00"
+	      },
+	      { "impact" : 2,
+	        "reach" : 1,
+	        "time" : "2011-02-26T08:00:00+01:00"
+	      },
+	      { "impact" : 0,
+	        "reach" : 0,
+	        "time" : "2011-02-26T09:00:00+01:00"
+	      },
+	      { "impact" : 0,
+	        "reach" : 0,
+	        "time" : "2011-02-26T10:00:00+01:00"
+	      },
+	      { "impact" : 0,
+	        "reach" : 0,
+	        "time" : "2011-02-26T11:00:00+01:00"
+	      },
+	      { "impact" : 0,
+	        "reach" : 0,
+	        "time" : "2011-02-26T12:00:00+01:00"
+	      },
+	      { "impact" : 6,
+	        "reach" : 2,
+	        "time" : "2011-02-26T13:00:00+01:00"
+	      },
+	      { "impact" : 0,
+	        "reach" : 0,
+	        "time" : "2011-02-26T14:00:00+01:00"
+	      },
+	      { "impact" : 0,
+	        "reach" : 0,
+	        "time" : "2011-02-26T15:00:00+01:00"
+	      },
+	      { "impact" : 12,
+	        "reach" : 8,
+	        "time" : "2011-02-26T16:00:00+01:00"
+	      },
+	      { "impact" : 6,
+	        "reach" : 5,
+	        "time" : "2011-02-26T17:00:00+01:00"
+	      },
+	      { "impact" : 9,
+	        "reach" : 7,
+	        "time" : "2011-02-26T18:00:00+01:00"
+	      },
+	      { "impact" : 5,
+	        "reach" : 5,
+	        "time" : "2011-02-26T19:00:00+01:00"
+	      },
+	      { "impact" : 25,
+	        "reach" : 6,
+	        "time" : "2011-02-26T20:00:00+01:00"
+	      },
+	      { "impact" : 9,
+	        "reach" : 7,
+	        "time" : "2011-02-26T21:00:00+01:00"
+	      },
+	      { "impact" : 3,
+	        "reach" : 2,
+	        "time" : "2011-02-26T22:00:00+01:00"
+	      },
+	      { "impact" : 7,
+	        "reach" : 5,
+	        "time" : "2011-02-26T23:00:00+01:00"
+	      },
+	      { "impact" : 1,
+	        "reach" : 1,
+	        "time" : "2011-02-27T00:00:00+01:00"
+	      },
+	      { "impact" : 6,
+	        "reach" : 4,
+	        "time" : "2011-02-27T01:00:00+01:00"
+	      },
+	      { "impact" : 12,
+	        "reach" : 4,
+	        "time" : "2011-02-27T02:00:00+01:00"
+	      },
+	      { "impact" : 5,
+	        "reach" : 3,
+	        "time" : "2011-02-27T03:00:00+01:00"
+	      },
+	      { "impact" : 5,
+	        "reach" : 4,
+	        "time" : "2011-02-27T04:00:00+01:00"
+	      },
+	      { "impact" : 1,
+	        "reach" : 1,
+	        "time" : "2011-02-27T05:00:00+01:00"
+	      },
+	      { "impact" : 0,
+	        "reach" : 0,
+	        "time" : "2011-02-27T06:00:00+01:00"
+	      },
+	      { "impact" : 6,
+	        "reach" : 2,
+	        "time" : "2011-02-27T07:00:00+01:00"
+	      },
+	      { "impact" : 4,
+	        "reach" : 2,
+	        "time" : "2011-02-27T08:00:00+01:00"
+	      },
+		  { "impact" : 120,
+	        "reach" : 70,
+	        "time" : "2011-02-27T09:00:00+01:00"
+	      },
+		  { "impact" : 70,
+	        "reach" : 40,
+	        "time" : "2011-02-27T10:00:00+01:00"
+	      },
+		  { "impact" : 30,
+	        "reach" : 20,
+	        "time" : "2011-02-27T11:00:00+01:00"
+	      },
+		  { "impact" : 40,
+	        "reach" : 30,
+	        "time" : "2011-02-27T12:00:00+01:00"
+	      },
+		  { "impact" : 60,
+	        "reach" : 50,
+	        "time" : "2011-02-27T13:00:00+01:00"
+	      }
+	    ];
+	var newyork = [];
+	var oscars = [];	
 	
 	function calcHistoryDivider() {
     //  console.log(epiHistory);
@@ -341,7 +559,11 @@
 	calcHistoryDivider();
 
 	jQuery.getJSON('tweetstats', function(data) {
-		epiHistory = data;
+		if (data != null)
+			epiHistory = data;
+		epiHistory['#libya'] = libya;
+//		epiHistory['#newyork'] = newyork;
+//		epiHistory['#oscars'] = oscars;
 		updateMarkers();	
 	});
 
