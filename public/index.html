@@ -56,10 +56,10 @@
 		
 		
 		var max = Math.floor((maxDate.getTime() - minDate.getTime()) / resolution);
-		currentHistoryId = max;
+		currentHistoryId = max-1;
 	    $('#slider').slider({
 	        max: max,
-			value: max-1,
+			value: currentHistoryId,
 	        slide: function(event, ui) {
 				currentHistoryId = ui.value;
 				updateMarkers();
