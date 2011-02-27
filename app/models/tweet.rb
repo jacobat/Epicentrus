@@ -4,8 +4,11 @@ class Tweet < ActiveRecord::Base
   scope :with_tag, lambda { |tag| where(:hashtag => tag) }
 
   after_create :process_image_url
+  after_create :attach_image
 
   validates_uniqueness_of :twitter_id
+
+  has_attached_file :image_attachment, :styles => { :thumb => "100x140#" }
 
   class << self
 
@@ -58,14 +61,14 @@ class Tweet < ActiveRecord::Base
       end
     end
   end
-  
+
   def url?
     URI.parse(url)
     true
   rescue URI::InvalidURIError
     false
   end
-  
+
   def url
       url = data.text.slice(/http:\/\/.*/)
       if url
@@ -74,11 +77,11 @@ class Tweet < ActiveRecord::Base
       url
     rescue URI::InvalidURIError
   end
-  
+
   def image?
     url && url.match(/(instagr.am|yfrog.com)/)
   end
-  
+
   def image_url
     return false unless url
     if(url.match(/yfrog.com/))
@@ -91,8 +94,23 @@ class Tweet < ActiveRecord::Base
       false
     end
   end
-  
+
   def process_image_url
     update_attribute(:image, image_url) if(image.nil?)
+  end
+
+  def attach_image
+    if(image? && !image_attachment.file?)
+      self.image_attachment = open(URI.parse(image))
+      self.save
+    end
+  end
+
+  def as_json(options={})
+    if(image_attachment.file?)
+      super.merge(:thumbnail => true, :thumb => image_attachment.url(:thumb))
+    else
+      super.merge(:thumbnail => false)
+    end
   end
 end
