@@ -57,8 +57,12 @@ body {
 }
 
 #glocalBtns a {
+	display: block;
+	float: left;
 	padding-left: 5px;
 	padding-right: 5px;
+	width: 49px;
+	text-align: center;
 }
 
 #glocalBtns a:first-child {
