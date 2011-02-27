@@ -43,7 +43,7 @@ class Tweet < ActiveRecord::Base
 
     def update(tag)
       search = Twitter::Search.new.containing(tag).per_page(100).since_id(max_id(tag))
-      puts "Fetching first page for #{tag}"
+      puts "Fetching first page for #{tag} since #{max_id(tag)}"
       import(search.fetch, tag)
       while(search.next_page?)
         puts "Fetching next page for #{tag}"
@@ -57,7 +57,10 @@ class Tweet < ActiveRecord::Base
 
     def import(tweets, tag)
       tweets.each do |tweet|
-        create!(:data => tweet, :twitter_id => tweet.id, :hashtag => tag, :created_at => tweet.created_at)
+        if create(:data => tweet, :twitter_id => tweet.id, :hashtag => tag, :created_at => tweet.created_at)
+        else
+          puts "Couldn't create tweet #{tweet.id}"
+        end
       end
     end
   end
