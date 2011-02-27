@@ -13,7 +13,7 @@ class Tweet < ActiveRecord::Base
   class << self
 
     def show(args)
-      time = (args[:before].present? ? Time.at(args[:before].to_i) : Time.now)
+      time = (args[:before].present? ? (Time.at(args[:before].to_i) + 1.hour): Time.now)
       count = (args[:count].present? ? args[:count].to_i : 10)
       where(:hashtag => args[:id]).
         where(["created_at < ?", time]).
