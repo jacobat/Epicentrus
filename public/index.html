@@ -379,7 +379,7 @@
     <div id="tweet-${tweet.twitter_id}" class="tweet{{if thumb}} image{{/if}}">
       {{if thumbnail}}<img src="${thumb}" width="100" height="140" />{{/if}}
       <div class="text">${tweet.data.text}</div>
-      <div class="extra"><span class="time">${time_string}</span> from <span class="from"><a href="#">${tweet.data.from_user}</a></span></div>
+      <div class="extra"><span class="time">${time_string}</span> from <span class="from"><a href="http://www.twitter.com/${tweet.data.from_user}">${tweet.data.from_user}</a></span></div>
     </div>
   </script>
 	<div id="top" class="panelBg">
