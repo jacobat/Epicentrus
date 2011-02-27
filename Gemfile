@@ -10,6 +10,7 @@ gem "fastercsv"
 gem "twitter"
 gem "mysql2"
 gem "nokogiri"
+gem "paperclip"
 
 # Use unicorn as the web server
 # gem 'unicorn'
