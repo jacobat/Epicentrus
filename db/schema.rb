@@ -21,6 +21,6 @@ ActiveRecord::Schema.define(:version => 20110227091446) do
     t.string   "image"
   end
 
-  add_index "tweets", ["twitter_id"], :name => "index_tweets_on_twitter_id"
+  add_index "tweets", ["twitter_id"], :name => "index_tweets_on_twitter_id", :unique => true
 
 end
