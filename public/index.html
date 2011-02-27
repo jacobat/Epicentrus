@@ -13,6 +13,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.10/jquery-ui.min.js"></script>
 <script src="http://ajax.microsoft.com/ajax/jquery.templates/beta1/jquery.tmpl.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="javascripts/jquery.timeago.js" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript">
 	var intCol = [	'FFFF00',
 					'FFFF00',
@@ -103,6 +104,12 @@
 			}
 		});
 	
+	  function update_slides(slides, slideWidth) {
+	    slides.css({
+		    'float' : 'left',
+		    'width' : slideWidth
+		  })
+	  }
 	
 		/* twitter slide shizzle */
 		  var currentPosition = 0;
@@ -211,6 +218,23 @@
 			}
 		}
 	}
+
+  function update_tweets(tweets) {
+    $.each(tweets, function(idx, tweet) {
+      console.log(tweet.thumb !== undefined);
+    });
+    console.log("update tweets");
+    $.each(tweets, function(idx, tweet) {
+      tweet.time_string = $.timeago(new Date(tweet.tweet.created_at));
+    });
+    console.log(tweets);
+    $('#media #slideInner').text('');
+    $.tmpl($('#tweet_template'), tweets).appendTo($('#media #slideInner'));
+    $('.tweet').css({
+      'float' : 'left',
+      'width' : 290
+    });
+  }
 	
 	function initMap() {
 
@@ -255,8 +279,7 @@
 					});
 					*/
 					$.getJSON('/tweets/' + escape(ec.tag) + '?before=' + selectedTime(), function(data) {
-					  $('#media #panel-1').text('');
-            $.tmpl('<div class="tweet">${tweet.data.text}</div>', data).appendTo($('#media #panel-1'));
+					  update_tweets(data);
 					  console.log(data);
 					});
 				});
@@ -338,6 +361,13 @@
 </script>
 </head>
 <body onload="initMap();">
+  <script id="tweet_template" type="text/x-jquery-tmpl" charset="utf-8">
+    <div id="tweet-${tweet.twitter_id}" class="tweet{{if thumb}} image{{/if}}">
+      {{if thumbnail}}<img src="${thumb}" width="100" height="140" />{{/if}}
+      <div class="text">${tweet.data.text}</div>
+      <div class="extra"><span class="time">${time_string}</span> from <span class="from"><a href="#">${tweet.data.from_user}</a></span></div>
+    </div>
+  </script>
 	<div id="top" class="panelBg">
 		<div id="topInner">
 		<div id="login">
